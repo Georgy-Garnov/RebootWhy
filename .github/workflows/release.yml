@@ -28,9 +28,17 @@ jobs:
           $hash = (Get-FileHash publish/win-x64/RebootWhy.exe -Algorithm SHA256).Hash
           "$hash  RebootWhy.exe" | Out-File publish/win-x64/RebootWhy.exe.sha256 -Encoding ascii
 
-      - uses: softprops/action-gh-release@v2
-        with:
-          files: |
-            publish/win-x64/RebootWhy.exe
-            publish/win-x64/RebootWhy.exe.sha256
-          generate_release_notes: true
+      - name: Create release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = "${{ github.ref_name }}"
+          $version = $tag.TrimStart("v")
+          # Release notes: the section of CHANGELOG.md for this version.
+          $changelog = Get-Content CHANGELOG.md -Raw
+          $match = [regex]::Match($changelog, "(?ms)^## \[$([regex]::Escape($version))\][^\n]*\n(.*?)(?=^## \[|^\[|\z)")
+          $notes = if ($match.Success) { $match.Groups[1].Value.Trim() } else { "RebootWhy $version" }
+          $notes += "`n`n**Download:** ``RebootWhy.exe`` below (Windows 10/11 x64, no installation needed). SHA-256 is in ``RebootWhy.exe.sha256``."
+          Set-Content release-notes.md $notes -Encoding utf8
+          gh release create $tag publish/win-x64/RebootWhy.exe publish/win-x64/RebootWhy.exe.sha256 --title "RebootWhy $version" --notes-file release-notes.md
