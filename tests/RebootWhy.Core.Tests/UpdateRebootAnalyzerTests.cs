@@ -20,6 +20,9 @@ public class UpdateRebootAnalyzerFixtureTests
         LastBootLocal = new DateTime(2026, 10, 23, 15, 3, 46),
     };
 
+    /// <summary>UTC offset of the computer where the fixture logs were recorded.</summary>
+    private static readonly TimeSpan RecordedOffset = TimeSpan.FromHours(3);
+
     private const string IntelDriver = "Intel Corporation Display Driver Update (32.0.101.7085)";
 
     [Fact]
@@ -86,9 +89,12 @@ public class UpdateRebootAnalyzerFixtureTests
         }
 
         var directory = Path.Combine(AppContext.BaseDirectory, "Fixtures", "uso-2026-10-24");
+        // tracerpt converts event times to the local time of the machine that decodes the log;
+        // bring them back to the local time of the recording machine, as the expectations use it.
         return Directory.GetFiles(directory, "*.etl")
             .Order()
             .SelectMany(file => UsoXmlParser.Parse(UsoLogSource.Decode(file)))
+            .Select(e => e with { Time = TimeZoneInfo.ConvertTimeToUtc(DateTime.SpecifyKind(e.Time, DateTimeKind.Unspecified), TimeZoneInfo.Local) + RecordedOffset })
             .ToList();
     }
 }
