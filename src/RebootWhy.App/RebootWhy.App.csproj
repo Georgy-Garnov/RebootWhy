@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <!-- WinForms is needed only for the tray icon (NotifyIcon). -->
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>RebootWhy</AssemblyName>
+    <StartupObject>RebootWhy.App.Program</StartupObject>
+    <ApplicationIcon>Assets\RebootWhy.ico</ApplicationIcon>
+    <!-- Ship .NET's own translations (WPF/WinForms messages) only for the languages of the program. -->
+    <SatelliteResourceLanguages>en;ru;uk;hy</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- WinForms namespaces clash with WPF (Application, MessageBox, ...), so they are imported explicitly where needed. -->
+    <Using Remove="System.Windows.Forms" />
+    <Using Remove="System.Drawing" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- The entry point is Program.Main (window, tray and service modes), so App.xaml must not generate its own Main. -->
+    <ApplicationDefinition Remove="App.xaml" />
+    <Page Include="App.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Icons are drawn by tools\make-icons.ps1. -->
+    <Resource Include="Assets\RebootWhy.ico" />
+    <EmbeddedResource Include="Assets\tray-*.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- UI strings: English in Strings.resx, translations in Strings.<language>.resx. -->
+    <EmbeddedResource Update="Properties\Strings.resx">
+      <StronglyTypedFileName>Properties\Strings.Designer.cs</StronglyTypedFileName>
+      <StronglyTypedLanguage>CSharp</StronglyTypedLanguage>
+      <StronglyTypedNamespace>RebootWhy.App.Properties</StronglyTypedNamespace>
+      <StronglyTypedClassName>Strings</StronglyTypedClassName>
+      <!-- Public: XAML reads the strings through x:Static. -->
+      <PublicClass>true</PublicClass>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <!-- XAML is compiled against a temporary assembly before the regular resource step; generate Strings first so x:Static and code see it. -->
+  <ItemGroup Condition="!$(MSBuildProjectName.EndsWith('_wpftmp'))">
+    <!-- ResGen adds the generated file itself; only the temporary XAML project needs it from the folder. -->
+    <Compile Remove="Properties\Strings.Designer.cs" />
+  </ItemGroup>
+  <Target Name="GenerateStringsBeforeXaml" BeforeTargets="MarkupCompilePass1" DependsOnTargets="PrepareResourceNames;ResGen" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\RebootWhy.Core\RebootWhy.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="3.3.0" />
+    <PackageReference Include="NAudio.Vorbis" Version="3.0.0" />
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="10.0.13" />
+  </ItemGroup>
+
+</Project>

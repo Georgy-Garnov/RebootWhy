@@ -1,0 +1,12 @@
+<Project>
+  <!-- Shared by all projects: version and assembly metadata shown in file properties. -->
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Product>RebootWhy</Product>
+    <Authors>Georgiy Garnov</Authors>
+    <Copyright>Copyright (c) 2026 Georgiy Garnov</Copyright>
+    <Description>Shows why Windows restarted and warns before Windows Update restarts the computer.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+</Project>

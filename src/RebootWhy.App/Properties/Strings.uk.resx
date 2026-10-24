@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Alert_NotifyTitle" xml:space="preserve"><value>Windows збирається перезавантажити комп’ютер</value></data>
+  <data name="Alert_NotifyTitleTest" xml:space="preserve"><value>Перевірка: Windows збирається перезавантажити комп’ютер</value></data>
+  <data name="Alert_PresenceReason" xml:space="preserve"><value>RebootWhy: Windows Update чекає на перезавантаження — показуємо Windows, що користувач за комп’ютером</value></data>
+  <data name="Alert_SampleText" xml:space="preserve"><value>Так виглядатиме сповіщення, коли Windows збереться перезавантажити комп’ютер.</value></data>
+  <data name="Alert_SampleTitle" xml:space="preserve"><value>Приклад попередження RebootWhy</value></data>
+  <data name="ForecastWin_BadgeSample" xml:space="preserve"><value>ПРИКЛАД</value></data>
+  <data name="ForecastWin_BadgeTest" xml:space="preserve"><value>ПЕРЕВІРКА</value></data>
+  <data name="ForecastWin_CheckAgain" xml:space="preserve"><value>Перевірити знову</value></data>
+  <data name="ForecastWin_CheckedAt" xml:space="preserve"><value>Перевірено о {0}</value></data>
+  <data name="ForecastWin_Checking" xml:space="preserve"><value>Перевіряю…</value></data>
+  <data name="ForecastWin_CloseSample" xml:space="preserve"><value>Закрити приклад</value></data>
+  <data name="ForecastWin_EnableProtection" xml:space="preserve"><value>Увімкнути утримання</value></data>
+  <data name="ForecastWin_EvidenceSection" xml:space="preserve"><value>На чому ґрунтується висновок</value></data>
+  <data name="ForecastWin_GotIt" xml:space="preserve"><value>Зрозуміло</value></data>
+  <data name="ForecastWin_HeaderAlert" xml:space="preserve"><value>Windows збирається перезавантажити комп’ютер</value></data>
+  <data name="ForecastWin_HeaderNone" xml:space="preserve"><value>Перезавантаження для оновлень не очікується</value></data>
+  <data name="ForecastWin_HeaderPending" xml:space="preserve"><value>Windows чекає на перезавантаження</value></data>
+  <data name="ForecastWin_HeaderSample" xml:space="preserve"><value>Приклад попередження про перезавантаження</value></data>
+  <data name="ForecastWin_HeaderTestPrefix" xml:space="preserve"><value>Перевірка реакції: </value></data>
+  <data name="ForecastWin_NextWork" xml:space="preserve"><value>Наступний запланований запуск Windows Update: {0}</value></data>
+  <data name="ForecastWin_NotBefore" xml:space="preserve"><value>Не раніше {0} — через {1}</value></data>
+  <data name="ForecastWin_OpenMain" xml:space="preserve"><value>Відкрити RebootWhy</value></data>
+  <data name="ForecastWin_PendingSection" xml:space="preserve"><value>Чекають на перезавантаження</value></data>
+  <data name="ForecastWin_PossibleNow" xml:space="preserve"><value>Можливе вже зараз (з {0})</value></data>
+  <data name="ForecastWin_ProblemsSection" xml:space="preserve"><value>Що не вдалося перевірити</value></data>
+  <data name="ForecastWin_ProtectionOffText" xml:space="preserve"><value>Увімкніть утримання, щоб Windows Update відкладав перезавантаження, поки RebootWhy запущено.</value></data>
+  <data name="ForecastWin_ProtectionOffTitle" xml:space="preserve"><value>Утримання вимкнено — Windows може перезавантажити комп’ютер, коли ви відійдете</value></data>
+  <data name="ForecastWin_ProtectionOnText" xml:space="preserve"><value>RebootWhy повідомляє Windows, що ви за комп’ютером (як відеоплеєр), і Windows Update відкладає автоматичне перезавантаження. Працює, поки RebootWhy запущено. Екран при цьому не згасає. Якщо ви самі натиснете «Перезавантажити», комп’ютер перезавантажиться як зазвичай.</value></data>
+  <data name="ForecastWin_ProtectionOnTitle" xml:space="preserve"><value>Утримання ввімкнено — RebootWhy не дає Windows автоматично перезавантажити комп’ютер</value></data>
+  <data name="ForecastWin_ScheduleFromLog" xml:space="preserve"><value> · розклад із журналу Windows Update</value></data>
+  <data name="ForecastWin_ScheduleFromScheduler" xml:space="preserve"><value> · розклад із Планувальника завдань</value></data>
+  <data name="ForecastWin_SimulationBanner" xml:space="preserve"><value>Це перевірка реакції: записи журналу підставив RebootWhy, комп’ютер не перезавантажиться. За кілька хвилин перевірка завершиться сама.</value></data>
+  <data name="ForecastWin_Snooze" xml:space="preserve"><value>Нагадати</value></data>
+  <data name="ForecastWin_SnoozeHour" xml:space="preserve"><value>через годину</value></data>
+  <data name="ForecastWin_SnoozeMinutes" xml:space="preserve"><value>через {0} хвилин</value></data>
+  <data name="ForecastWin_SnoozeTwoHours" xml:space="preserve"><value>через 2 години</value></data>
+  <data name="ForecastWin_SnoozeWarning" xml:space="preserve"><value>Windows може перезавантажити комп’ютер раніше — вже з {0}</value></data>
+  <data name="ForecastWin_SourceLocal" xml:space="preserve"><value>Службу RebootWhy не під’єднано, аналіз без її участі</value></data>
+  <data name="ForecastWin_SourceService" xml:space="preserve"><value>Дані служби RebootWhy</value></data>
+  <data name="ForecastWin_StopSound" xml:space="preserve"><value>Зупинити звук</value></data>
+  <data name="ForecastWin_StopSoundTip" xml:space="preserve"><value>Зупинити звук цього попередження — наступні попередження знову звучатимуть</value></data>
+  <data name="ForecastWin_StopTest" xml:space="preserve"><value>Зупинити перевірку</value></data>
+  <data name="ForecastWin_SummaryNone" xml:space="preserve"><value>Жодне оновлення не чекає на перезавантаження. RebootWhy і далі стежить і попередить, якщо Windows збереться перезавантажити комп’ютер.</value></data>
+  <data name="ForecastWin_Title" xml:space="preserve"><value>RebootWhy — оновлення Windows</value></data>
+  <data name="ForecastWin_UpdateLine" xml:space="preserve"><value>{0} — {1}</value></data>
+  <data name="ForecastWin_UpdateLineSince" xml:space="preserve"><value>{0} — {1}, чекає з {2}</value></data>
+  <data name="ForecastWin_WhySection" xml:space="preserve"><value>Чому так</value></data>
+  <data name="Host_SampleUpdateTitle" xml:space="preserve"><value>Назва оновлення</value></data>
+  <data name="Host_ServiceNotStoppedText" xml:space="preserve"><value>Запит адміністратора відхилено. Програма продовжує працювати.</value></data>
+  <data name="Host_ServiceNotStoppedTitle" xml:space="preserve"><value>Службу RebootWhy не зупинено</value></data>
+  <data name="Host_StillRunningText" xml:space="preserve"><value>Стеження за Windows Update триває у фоні. Вийти можна через меню значка в області сповіщень.</value></data>
+  <data name="Host_StillRunningTitle" xml:space="preserve"><value>RebootWhy продовжує працювати</value></data>
+  <data name="Language_Interface" xml:space="preserve"><value>Мова інтерфейсу</value></data>
+  <data name="Language_Interface_Hint" xml:space="preserve"><value>Мова вікон, сповіщень і текстів про перезавантаження та оновлення.</value></data>
+  <data name="Language_RestartFailed" xml:space="preserve"><value>Не вдалося перезапустити RebootWhy — закрийте й запустіть програму знову.</value></data>
+  <data name="Language_RestartNote" xml:space="preserve"><value>Мова зміниться після перезапуску RebootWhy.</value></data>
+  <data name="Language_RestartNow" xml:space="preserve"><value>Перезапустити зараз</value></data>
+  <data name="Language_System" xml:space="preserve"><value>Як у Windows</value></data>
+  <data name="Main_ActiveTime" xml:space="preserve"><value>Активний час без сну</value></data>
+  <data name="Main_ActiveTimeCaption" xml:space="preserve"><value>з останнього повного завантаження</value></data>
+  <data name="Main_Check" xml:space="preserve"><value>Перевірити</value></data>
+  <data name="Main_CheckedAt" xml:space="preserve"><value>Перевірено о {0}</value></data>
+  <data name="Main_Checking" xml:space="preserve"><value>Перевіряю…</value></data>
+  <data name="Main_CheckingUpdates" xml:space="preserve"><value>Перевіряю Windows Update…</value></data>
+  <data name="Main_Copied" xml:space="preserve"><value>Скопійовано ✓</value></data>
+  <data name="Main_Copy" xml:space="preserve"><value>Копіювати</value></data>
+  <data name="Main_CopyFailed" xml:space="preserve"><value>Не вдалося скопіювати в буфер обміну: {0}</value></data>
+  <data name="Main_Details" xml:space="preserve"><value>Докладніше</value></data>
+  <data name="Main_DetailsHeader" xml:space="preserve"><value>Подробиці</value></data>
+  <data name="Main_FastStartupHint" xml:space="preserve"><value>Увімкнено швидкий запуск: «Завершення роботи» не перезапускає ядро Windows. Повністю перезапускає систему лише «Перезавантаження».</value></data>
+  <data name="Main_FullBootAgo" xml:space="preserve"><value>{0} · {1} тому</value></data>
+  <data name="Main_KeepingActive" xml:space="preserve"><value>утримання від перезавантаження увімкнено</value></data>
+  <data name="Main_LastFullBoot" xml:space="preserve"><value>Останнє повне завантаження</value></data>
+  <data name="Main_NoData" xml:space="preserve"><value>немає даних</value></data>
+  <data name="Main_OpenLogFilter" xml:space="preserve"><value>Журнали подій</value></data>
+  <data name="Main_OpenLogTitle" xml:space="preserve"><value>Журнал System, експортований з іншого комп’ютера</value></data>
+  <data name="Main_Period1Year" xml:space="preserve"><value>1 рік</value></data>
+  <data name="Main_Period30Days" xml:space="preserve"><value>30 днів</value></data>
+  <data name="Main_Period7Days" xml:space="preserve"><value>7 днів</value></data>
+  <data name="Main_Period90Days" xml:space="preserve"><value>90 днів</value></data>
+  <data name="Main_ReadLogFailed" xml:space="preserve"><value>Не вдалося прочитати журнал: {0}</value></data>
+  <data name="Main_ReadingLog" xml:space="preserve"><value>Читання журналу…</value></data>
+  <data name="Main_Refresh" xml:space="preserve"><value>Оновити</value></data>
+  <data name="Main_ServiceNotConnected" xml:space="preserve"><value>служба RebootWhy не підключена, перевіряю сам</value></data>
+  <data name="Main_ServiceWatching" xml:space="preserve"><value>стежить служба RebootWhy</value></data>
+  <data name="Main_Settings" xml:space="preserve"><value>Налаштування</value></data>
+  <data name="Main_SourceFile" xml:space="preserve"><value>Файл: {0}</value></data>
+  <data name="Main_SourceLive" xml:space="preserve"><value>Журнал System цього комп’ютера</value></data>
+  <data name="Main_StatusBoots" xml:space="preserve"><value>завантажень: {0}</value></data>
+  <data name="Main_StatusEvents" xml:space="preserve"><value>подій проаналізовано: {0}</value></data>
+  <data name="Main_StatusRefreshedAt" xml:space="preserve"><value>оновлено о {0}</value></data>
+  <data name="Main_StopTest" xml:space="preserve"><value>Зупинити перевірку</value></data>
+  <data name="Main_Subtitle" xml:space="preserve"><value>Час роботи комп’ютера, причини перезавантажень і плани Windows Update</value></data>
+  <data name="Main_TabReboots" xml:space="preserve"><value>Перезавантаження</value></data>
+  <data name="Main_TabUpdates" xml:space="preserve"><value>Оновлення</value></data>
+  <data name="Main_UpdatesLabel" xml:space="preserve"><value>Оновлення Windows:</value></data>
+  <data name="Main_Uptime" xml:space="preserve"><value>Час роботи</value></data>
+  <data name="Main_UptimeSince" xml:space="preserve"><value>з {0} · {1}</value></data>
+  <data name="Main_WindowTitle" xml:space="preserve"><value>RebootWhy — час роботи та причини перезавантажень</value></data>
+  <data name="Policy_ActiveHours" xml:space="preserve"><value>Активні години</value></data>
+  <data name="Policy_ActiveHours_NotSet" xml:space="preserve"><value>Активні години не задано.</value></data>
+  <data name="Policy_ActiveHours_Now" xml:space="preserve"><value>Зараз: {0}. Поза цим часом Windows може перезавантажувати комп’ютер для оновлень.</value></data>
+  <data name="Policy_Applied" xml:space="preserve"><value>Політики застосовано, Windows Update їх прийняв.</value></data>
+  <data name="Policy_AppliedLater" xml:space="preserve"><value>Політики записано, але Windows Update поки їх не підхопив — це станеться після перезавантаження комп’ютера.</value></data>
+  <data name="Policy_Applying" xml:space="preserve"><value>Застосовую політики Windows Update — підтвердьте запит Windows…</value></data>
+  <data name="Policy_AutoUpdate" xml:space="preserve"><value>Автоматичні оновлення</value></data>
+  <data name="Policy_AutoUpdate_Download" xml:space="preserve"><value>Завантажувати, питати перед встановленням</value></data>
+  <data name="Policy_AutoUpdate_Hint" xml:space="preserve"><value>Коли Windows завантажує та встановлює оновлення без вашої участі.</value></data>
+  <data name="Policy_AutoUpdate_Install" xml:space="preserve"><value>Завантажувати й встановлювати самостійно</value></data>
+  <data name="Policy_AutoUpdate_NotSet" xml:space="preserve"><value>Не задано (вирішує Windows)</value></data>
+  <data name="Policy_AutoUpdate_Notify" xml:space="preserve"><value>Питати перед завантаженням</value></data>
+  <data name="Policy_AutoUpdate_Value" xml:space="preserve"><value>Значення {0}</value></data>
+  <data name="Policy_Enabled" xml:space="preserve"><value>увімкнена</value></data>
+  <data name="Policy_ExcludeDrivers" xml:space="preserve"><value>Не отримувати драйвери через Windows Update</value></data>
+  <data name="Policy_ExcludeDrivers_Hint" xml:space="preserve"><value>Драйвери перестануть встановлюватися автоматично й зникнуть із необов’язкових оновлень — оновлювати їх доведеться із сайтів виробників.</value></data>
+  <data name="Policy_NoAutoReboot" xml:space="preserve"><value>Не перезавантажувати автоматично, якщо користувач увійшов у систему</value></data>
+  <data name="Policy_NoAutoReboot_Hint" xml:space="preserve"><value>Windows Update покаже сповіщення і чекатиме, доки ви перезавантажите комп’ютер самі. Блокування екрана виходом не вважається.</value></data>
+  <data name="Policy_NotApplied" xml:space="preserve"><value>Політики не застосовано: запит адміністратора відхилено або команда завершилася з помилкою.</value></data>
+  <data name="Policy_NotSet" xml:space="preserve"><value>не задана</value></data>
+  <data name="Policy_StateNow" xml:space="preserve"><value>Зараз у системі: {0}</value></data>
+  <data name="Policy_StatePending" xml:space="preserve"><value>Записано: {0}; Windows Update поки використовує: {1}</value></data>
+  <data name="Policy_Unapplied" xml:space="preserve"><value>Є незастосовані зміни політик — натисніть «Застосувати».</value></data>
+  <data name="Policy_Warning" xml:space="preserve"><value>Ці налаштування змінюють політики Windows Update для всього комп’ютера. Вони застосовуються кнопкою «Застосувати» або «OK»: Windows запитає права адміністратора, а служби Windows Update буде перезапущено, щоб вони підхопили зміни.</value></data>
+  <data name="Policy_WindowsUpdateSettings" xml:space="preserve"><value>Параметри Windows Update</value></data>
+  <data name="Reboots_ColumnBoot" xml:space="preserve"><value>Завантаження</value></data>
+  <data name="Reboots_ColumnBootType" xml:space="preserve"><value>Тип завантаження</value></data>
+  <data name="Reboots_ColumnConfidence" xml:space="preserve"><value>Впевненість</value></data>
+  <data name="Reboots_ColumnWhat" xml:space="preserve"><value>Що сталося</value></data>
+  <data name="Reboots_CopyTooltip" xml:space="preserve"><value>Скопіювати подробиці в буфер обміну</value></data>
+  <data name="Reboots_Evidence" xml:space="preserve"><value>Події журналу, на яких ґрунтується висновок</value></data>
+  <data name="Reboots_InstalledUpdates" xml:space="preserve"><value>Встановлені оновлення</value></data>
+  <data name="Reboots_Notes" xml:space="preserve"><value>Зверніть увагу</value></data>
+  <data name="Reboots_OnlyFullBoots" xml:space="preserve"><value>Лише повні завантаження</value></data>
+  <data name="Reboots_OpenEvtx" xml:space="preserve"><value>Відкрити журнал .evtx…</value></data>
+  <data name="Reboots_Period" xml:space="preserve"><value>Період</value></data>
+  <data name="Reboots_SelectHint" xml:space="preserve"><value>Виберіть завантаження в списку</value></data>
+  <data name="Reboots_ThisComputer" xml:space="preserve"><value>Цей комп’ютер</value></data>
+  <data name="Search_Clear" xml:space="preserve"><value>Очистити</value></data>
+  <data name="Search_ClearAutomation" xml:space="preserve"><value>Очистити пошук</value></data>
+  <data name="Search_Placeholder" xml:space="preserve"><value>Пошук</value></data>
+  <data name="Service_Description" xml:space="preserve"><value>Стежить за Windows Update і попереджає програму RebootWhy, коли Windows збирається перезавантажити комп’ютер.</value></data>
+  <data name="Service_DisplayName" xml:space="preserve"><value>RebootWhy — спостереження за перезавантаженнями</value></data>
+  <data name="Service_Hint" xml:space="preserve"><value>Служба стежить за Windows Update постійно, навіть без входу в систему, і бачить точний розклад Windows Update у Планувальнику завдань. Встановлення та видалення потребують прав адміністратора.</value></data>
+  <data name="Service_Install" xml:space="preserve"><value>Встановити</value></data>
+  <data name="Service_Installed" xml:space="preserve"><value>Службу встановлено й запущено.</value></data>
+  <data name="Service_Installing" xml:space="preserve"><value>Встановлюю службу — підтвердьте запит Windows…</value></data>
+  <data name="Service_Reinstall" xml:space="preserve"><value>Перевстановити</value></data>
+  <data name="Service_Remove" xml:space="preserve"><value>Видалити</value></data>
+  <data name="Service_Removed" xml:space="preserve"><value>Службу видалено.</value></data>
+  <data name="Service_Removing" xml:space="preserve"><value>Видаляю службу — підтвердьте запит Windows…</value></data>
+  <data name="Service_Section" xml:space="preserve"><value>Служба RebootWhy</value></data>
+  <data name="Service_StateLabel" xml:space="preserve"><value>Стан:</value></data>
+  <data name="Service_State_NotInstalled" xml:space="preserve"><value>не встановлена</value></data>
+  <data name="Service_State_OtherFolder" xml:space="preserve"><value>{0} (запускається з іншої папки: {1})</value></data>
+  <data name="Service_State_Running" xml:space="preserve"><value>працює</value></data>
+  <data name="Service_State_Starting" xml:space="preserve"><value>запускається</value></data>
+  <data name="Service_State_Stopped" xml:space="preserve"><value>зупинена</value></data>
+  <data name="Service_State_Stopping" xml:space="preserve"><value>зупиняється</value></data>
+  <data name="Settings_About_OpenFolder" xml:space="preserve"><value>Відкрити папку</value></data>
+  <data name="Settings_About_Program" xml:space="preserve"><value>Програма</value></data>
+  <data name="Settings_About_SettingsFile" xml:space="preserve"><value>Файл налаштувань</value></data>
+  <data name="Settings_About_Tagline" xml:space="preserve"><value>Час роботи комп’ютера, причини перезавантажень і плани Windows Update.</value></data>
+  <data name="Settings_About_Version" xml:space="preserve"><value>Версія {0}</value></data>
+  <data name="Settings_AlertBefore" xml:space="preserve"><value>Вікно поверх усіх — ще раз перед перезавантаженням</value></data>
+  <data name="Settings_AlertBefore_Hint" xml:space="preserve"><value>Коли до моменту, з якого Windows може перезавантажити комп’ютер, залишилося небагато.</value></data>
+  <data name="Settings_AlertBefore_Prefix" xml:space="preserve"><value>Показувати</value></data>
+  <data name="Settings_AlertBefore_Suffix" xml:space="preserve"><value>до можливого перезавантаження</value></data>
+  <data name="Settings_AlertOnDetection" xml:space="preserve"><value>Вікно поверх усіх — одразу після виявлення</value></data>
+  <data name="Settings_AlertOnDetection_Hint" xml:space="preserve"><value>Щойно RebootWhy помітив, що Windows чекає на перезавантаження. У вікні нагадування можна відкласти.</value></data>
+  <data name="Settings_Alerts_Intro" xml:space="preserve"><value>Як RebootWhy повідомляє, що Windows Update збирається перезавантажити комп’ютер.</value></data>
+  <data name="Settings_Apply" xml:space="preserve"><value>Застосувати</value></data>
+  <data name="Settings_Autostart" xml:space="preserve"><value>Запускати RebootWhy під час входу в Windows</value></data>
+  <data name="Settings_Autostart_Hint" xml:space="preserve"><value>Значок з’явиться в області сповіщень, вікно не відкриється. Без цього після перезавантаження попереджень не буде, доки ви не запустите програму.</value></data>
+  <data name="Settings_Cancel" xml:space="preserve"><value>Скасувати</value></data>
+  <data name="Settings_ElevationFailed" xml:space="preserve"><value>Не вдалося: запит адміністратора відхилено або команда завершилася з помилкою.</value></data>
+  <data name="Settings_HowItWorks" xml:space="preserve"><value>Як це працює</value></data>
+  <data name="Settings_HowItWorks_1" xml:space="preserve"><value>• RebootWhy утримує запит «потрібен екран» — так роблять відеоплеєри. Windows Update бачить, що користувач за комп’ютером, і відкладає перезавантаження.</value></data>
+  <data name="Settings_HowItWorks_2" xml:space="preserve"><value>• Поки очікування не знято, екран не гасне і комп’ютер не переходить у сон сам.</value></data>
+  <data name="Settings_HowItWorks_3" xml:space="preserve"><value>• Утримання працює, поки RebootWhy запущено (значок в області сповіщень).</value></data>
+  <data name="Settings_HowItWorks_4" xml:space="preserve"><value>• Ваші власні дії RebootWhy не блокує: «Перезавантажити» або «Завершити роботу» з меню «Пуск» спрацюють як зазвичай.</value></data>
+  <data name="Settings_HowItWorks_5" xml:space="preserve"><value>• Найнадійніше — перезавантажитися самому в зручний момент: тоді очікування зніметься.</value></data>
+  <data name="Settings_KeepActive" xml:space="preserve"><value>Утримувати комп’ютер від автоматичного перезавантаження</value></data>
+  <data name="Settings_KeepActive_Hint" xml:space="preserve"><value>Поки Windows чекає на перезавантаження, RebootWhy показує Windows, що ви за комп’ютером.</value></data>
+  <data name="Settings_Keywords_About" xml:space="preserve"><value>про програму версія папка</value></data>
+  <data name="Settings_Keywords_Alerts" xml:space="preserve"><value>сповіщення вікно поверх усіх попередження приклад відкласти хвилин перевірка реакції симуляція тест</value></data>
+  <data name="Settings_Keywords_Language" xml:space="preserve"><value>мова інтерфейс англійська російська українська вірменська переклад</value></data>
+  <data name="Settings_Keywords_Policies" xml:space="preserve"><value>політики windows update драйвери автоматичні оновлення активні години перезавантаження користувач у системі</value></data>
+  <data name="Settings_Keywords_Protection" xml:space="preserve"><value>утримання екран потрібен користувач за комп’ютером захист перезавантаження</value></data>
+  <data name="Settings_Keywords_Sound" xml:space="preserve"><value>звук сигнал mp3 wav ogg файл мелодія</value></data>
+  <data name="Settings_Keywords_Startup" xml:space="preserve"><value>запуск автозапуск вхід трей служба адміністратор</value></data>
+  <data name="Settings_Minutes_120" xml:space="preserve"><value>за 2 години</value></data>
+  <data name="Settings_Minutes_15" xml:space="preserve"><value>за 15 хвилин</value></data>
+  <data name="Settings_Minutes_240" xml:space="preserve"><value>за 4 години</value></data>
+  <data name="Settings_Minutes_30" xml:space="preserve"><value>за 30 хвилин</value></data>
+  <data name="Settings_Minutes_60" xml:space="preserve"><value>за годину</value></data>
+  <data name="Settings_Notification" xml:space="preserve"><value>Сповіщення Windows</value></data>
+  <data name="Settings_Notification_Hint" xml:space="preserve"><value>Спливне сповіщення в кутку екрана; залишається в центрі сповіщень.</value></data>
+  <data name="Settings_Ok" xml:space="preserve"><value>OK</value></data>
+  <data name="Settings_Page_About" xml:space="preserve"><value>Про програму</value></data>
+  <data name="Settings_Page_Alerts" xml:space="preserve"><value>Попередження</value></data>
+  <data name="Settings_Page_Language" xml:space="preserve"><value>Мова</value></data>
+  <data name="Settings_Page_Policies" xml:space="preserve"><value>Політики Windows Update</value></data>
+  <data name="Settings_Page_Protection" xml:space="preserve"><value>Утримання від перезавантаження</value></data>
+  <data name="Settings_Page_Sound" xml:space="preserve"><value>Звук</value></data>
+  <data name="Settings_Page_Startup" xml:space="preserve"><value>Запуск і служба</value></data>
+  <data name="Settings_ReactionTest" xml:space="preserve"><value>Перевірка реакції</value></data>
+  <data name="Settings_ReactionTest_Hint" xml:space="preserve"><value>RebootWhy імітує, що Windows запланував перезавантаження через 3 хвилини: підставлені записи журналу Windows Update пройдуть через службу, і спрацюють сповіщення, звук, вікно та утримання — як у реальній ситуації. У системі нічого не змінюється, комп’ютер не перезавантажиться; через 5 хвилин усе повернеться до звичайного стану.</value></data>
+  <data name="Settings_Sample" xml:space="preserve"><value>Приклад попередження</value></data>
+  <data name="Settings_Sample_Hint" xml:space="preserve"><value>Сповіщення, звук і вікно — з налаштуваннями на цій сторінці, навіть ще не збереженими. Реальний стан не змінюється.</value></data>
+  <data name="Settings_Saved" xml:space="preserve"><value>Налаштування збережено.</value></data>
+  <data name="Settings_SearchPlaceholder" xml:space="preserve"><value>Пошук налаштувань</value></data>
+  <data name="Settings_ShowSample" xml:space="preserve"><value>Показати приклад</value></data>
+  <data name="Settings_StartTest" xml:space="preserve"><value>Запустити перевірку</value></data>
+  <data name="Settings_StopTest" xml:space="preserve"><value>Зупинити перевірку</value></data>
+  <data name="Settings_TestFailed" xml:space="preserve"><value>Не вдалося запустити перевірку: спостереження ще не готове, спробуйте за кілька секунд.</value></data>
+  <data name="Settings_TestStarted" xml:space="preserve"><value>Перевірку запущено: за кілька секунд спрацюють попередження. Комп’ютер не перезавантажиться; через 5 хвилин усе повернеться до звичайного стану.</value></data>
+  <data name="Settings_WindowTitle" xml:space="preserve"><value>Налаштування — RebootWhy</value></data>
+  <data name="Sound_ChooseFile" xml:space="preserve"><value>Вибрати файл…</value></data>
+  <data name="Sound_DialogTitle" xml:space="preserve"><value>Звук попередження про перезавантаження</value></data>
+  <data name="Sound_FileFilter" xml:space="preserve"><value>Звукові файли (*.mp3;*.wav;*.ogg)|*.mp3;*.wav;*.ogg</value></data>
+  <data name="Sound_Formats" xml:space="preserve"><value>Підтримуються файли mp3, wav і ogg.</value></data>
+  <data name="Sound_Listen" xml:space="preserve"><value>Прослухати</value></data>
+  <data name="Sound_NoFile" xml:space="preserve"><value>Файл не вибрано</value></data>
+  <data name="Sound_PlaybackFailed" xml:space="preserve"><value>Файл не відтворився, звучить системний звук: {0}</value></data>
+  <data name="Sound_Reset" xml:space="preserve"><value>Скинути</value></data>
+  <data name="Sound_Signal" xml:space="preserve"><value>Звуковий сигнал</value></data>
+  <data name="Sound_Signal_Hint" xml:space="preserve"><value>Звучить, коли RebootWhy виявив очікування перезавантаження і коли відкривається вікно попередження.</value></data>
+  <data name="Sound_Stop" xml:space="preserve"><value>Зупинити</value></data>
+  <data name="Sound_System" xml:space="preserve"><value>Системний звук Windows</value></data>
+  <data name="Tray_CheckNow" xml:space="preserve"><value>Перевірити Windows Update зараз</value></data>
+  <data name="Tray_Exit" xml:space="preserve"><value>Вихід</value></data>
+  <data name="Tray_ExitAndStopService" xml:space="preserve"><value>Вихід і зупинка служби</value></data>
+  <data name="Tray_Open" xml:space="preserve"><value>Відкрити RebootWhy</value></data>
+  <data name="Tray_Settings" xml:space="preserve"><value>Налаштування…</value></data>
+  <data name="Tray_StopSound" xml:space="preserve"><value>Зупинити звук попередження</value></data>
+  <data name="Tray_TestReaction" xml:space="preserve"><value>Перевірити реакцію на перезавантаження</value></data>
+  <data name="Tray_TipChecking" xml:space="preserve"><value>RebootWhy: перевіряю Windows Update…</value></data>
+  <data name="Tray_TipHoldOn" xml:space="preserve"><value> · утримання ввімкнено</value></data>
+  <data name="Tray_TipNone" xml:space="preserve"><value>RebootWhy: перезавантаження для оновлень не очікується</value></data>
+  <data name="Tray_TipPending" xml:space="preserve"><value>RebootWhy: Windows чекає на перезавантаження</value></data>
+  <data name="Tray_TipPendingTest" xml:space="preserve"><value>RebootWhy: перевірка — Windows чекає на перезавантаження</value></data>
+  <data name="Updates_ColumnDate" xml:space="preserve"><value>Дата</value></data>
+  <data name="Updates_ColumnResult" xml:space="preserve"><value>Результат</value></data>
+  <data name="Updates_ColumnType" xml:space="preserve"><value>Тип</value></data>
+  <data name="Updates_ColumnUpdate" xml:space="preserve"><value>Оновлення</value></data>
+  <data name="Updates_CopyTooltip" xml:space="preserve"><value>Скопіювати відомості про оновлення в буфер обміну</value></data>
+  <data name="Updates_Description" xml:space="preserve"><value>Опис</value></data>
+  <data name="Updates_GroupHistory" xml:space="preserve"><value>Журнал встановлення</value></data>
+  <data name="Updates_GroupPending" xml:space="preserve"><value>Чекають на встановлення або перезавантаження</value></data>
+  <data name="Updates_KindDefender" xml:space="preserve"><value>Захисник Windows</value></data>
+  <data name="Updates_KindDefinitions" xml:space="preserve"><value>Бази антивіруса</value></data>
+  <data name="Updates_KindDriver" xml:space="preserve"><value>Драйвер</value></data>
+  <data name="Updates_KindGeneric" xml:space="preserve"><value>Оновлення</value></data>
+  <data name="Updates_KindMsrt" xml:space="preserve"><value>Засіб MSRT</value></data>
+  <data name="Updates_KindStoreApp" xml:space="preserve"><value>Застосунок Store</value></data>
+  <data name="Updates_KindWindows" xml:space="preserve"><value>Оновлення Windows</value></data>
+  <data name="Updates_NotLoaded" xml:space="preserve"><value>Журнал оновлень ще не завантажено</value></data>
+  <data name="Updates_OnlyImportant" xml:space="preserve"><value>Лише Windows і драйвери</value></data>
+  <data name="Updates_OnlyImportantTooltip" xml:space="preserve"><value>Приховати бази антивіруса Microsoft Defender і оновлення застосунків Microsoft Store</value></data>
+  <data name="Updates_OnlyReboot" xml:space="preserve"><value>Лише з перезавантаженням</value></data>
+  <data name="Updates_OnlyRebootTooltip" xml:space="preserve"><value>Оновлення, встановлення яких потребуватиме або може потребувати перезавантаження комп’ютера</value></data>
+  <data name="Updates_PendingSince" xml:space="preserve"><value>з {0}</value></data>
+  <data name="Updates_Reading" xml:space="preserve"><value>Читаю журнал Windows Update…</value></data>
+  <data name="Updates_RebootAlways" xml:space="preserve"><value>Потребуватиме</value></data>
+  <data name="Updates_RebootAlwaysHint" xml:space="preserve"><value>Встановлення цього оновлення потребуватиме перезавантаження комп’ютера</value></data>
+  <data name="Updates_RebootMaybe" xml:space="preserve"><value>Може потребувати</value></data>
+  <data name="Updates_RebootMaybeHint" xml:space="preserve"><value>Перезавантаження може знадобитися — Windows вирішить це під час встановлення (наприклад, якщо драйвер зайнятий)</value></data>
+  <data name="Updates_RebootNever" xml:space="preserve"><value>Не потребуватиме</value></data>
+  <data name="Updates_RebootNeverHint" xml:space="preserve"><value>Встановлюється без перезавантаження</value></data>
+  <data name="Updates_SearchPlaceholder" xml:space="preserve"><value>Пошук за назвою, KB, описом…</value></data>
+  <data name="Updates_SelectHint" xml:space="preserve"><value>Виберіть оновлення в списку</value></data>
+  <data name="Updates_StateDownloaded" xml:space="preserve"><value>Завантажено</value></data>
+  <data name="Updates_StateNotDownloaded" xml:space="preserve"><value>Не завантажено</value></data>
+  <data name="Updates_StateWaitsForReboot" xml:space="preserve"><value>Чекає на перезавантаження</value></data>
+  <data name="Updates_StatusCached" xml:space="preserve"><value>збережені дані від {0}</value></data>
+  <data name="Updates_StatusFound" xml:space="preserve"><value>Знайдено: {0}</value></data>
+  <data name="Updates_StatusJournal" xml:space="preserve"><value>встановлень у журналі: {0} · чекають на встановлення: {1}</value></data>
+  <data name="Updates_StatusNeedReboot" xml:space="preserve"><value>(з перезавантаженням: {0})</value></data>
+  <data name="Updates_StatusRefreshedAt" xml:space="preserve"><value>оновлено о {0}</value></data>
+  <data name="Updates_StatusRefreshing" xml:space="preserve"><value>оновлюю…</value></data>
+  <data name="Updates_WindowsUpdateFailed" xml:space="preserve"><value>Windows Update не відповів: {0}</value></data>
+</root>

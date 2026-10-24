@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Alert_NotifyTitle" xml:space="preserve"><value>Windows-ը պատրաստվում է վերագործարկել համակարգիչը</value></data>
+  <data name="Alert_NotifyTitleTest" xml:space="preserve"><value>Ստուգում՝ Windows-ը պատրաստվում է վերագործարկել համակարգիչը</value></data>
+  <data name="Alert_PresenceReason" xml:space="preserve"><value>RebootWhy․ Windows Update-ը սպասում է վերագործարկման — Windows-ին ցույց ենք տալիս, որ օգտատերը համակարգչի մոտ է</value></data>
+  <data name="Alert_SampleText" xml:space="preserve"><value>Այսպես կերևա ծանուցումը, երբ Windows-ը պատրաստվի վերագործարկել համակարգիչը։</value></data>
+  <data name="Alert_SampleTitle" xml:space="preserve"><value>RebootWhy-ի զգուշացման օրինակ</value></data>
+  <data name="ForecastWin_BadgeSample" xml:space="preserve"><value>ՕՐԻՆԱԿ</value></data>
+  <data name="ForecastWin_BadgeTest" xml:space="preserve"><value>ՍՏՈՒԳՈՒՄ</value></data>
+  <data name="ForecastWin_CheckAgain" xml:space="preserve"><value>Կրկին ստուգել</value></data>
+  <data name="ForecastWin_CheckedAt" xml:space="preserve"><value>Ստուգվել է {0}-ին</value></data>
+  <data name="ForecastWin_Checking" xml:space="preserve"><value>Ստուգում եմ…</value></data>
+  <data name="ForecastWin_CloseSample" xml:space="preserve"><value>Փակել օրինակը</value></data>
+  <data name="ForecastWin_EnableProtection" xml:space="preserve"><value>Միացնել պահումը</value></data>
+  <data name="ForecastWin_EvidenceSection" xml:space="preserve"><value>Ինչի վրա է հիմնված եզրակացությունը</value></data>
+  <data name="ForecastWin_GotIt" xml:space="preserve"><value>Պարզ է</value></data>
+  <data name="ForecastWin_HeaderAlert" xml:space="preserve"><value>Windows-ը պատրաստվում է վերագործարկել համակարգիչը</value></data>
+  <data name="ForecastWin_HeaderNone" xml:space="preserve"><value>Թարմացումների համար վերագործարկում չի սպասվում</value></data>
+  <data name="ForecastWin_HeaderPending" xml:space="preserve"><value>Windows-ը սպասում է վերագործարկման</value></data>
+  <data name="ForecastWin_HeaderSample" xml:space="preserve"><value>Վերագործարկման զգուշացման օրինակ</value></data>
+  <data name="ForecastWin_HeaderTestPrefix" xml:space="preserve"><value>Արձագանքի ստուգում՝ </value></data>
+  <data name="ForecastWin_NextWork" xml:space="preserve"><value>Windows Update-ի հաջորդ պլանային գործարկումը՝ {0}</value></data>
+  <data name="ForecastWin_NotBefore" xml:space="preserve"><value>Ոչ շուտ, քան {0}՝ {1} հետո</value></data>
+  <data name="ForecastWin_OpenMain" xml:space="preserve"><value>Բացել RebootWhy-ը</value></data>
+  <data name="ForecastWin_PendingSection" xml:space="preserve"><value>Սպասում են վերագործարկման</value></data>
+  <data name="ForecastWin_PossibleNow" xml:space="preserve"><value>Հնարավոր է հենց հիմա ({0}-ից)</value></data>
+  <data name="ForecastWin_ProblemsSection" xml:space="preserve"><value>Ինչը չհաջողվեց ստուգել</value></data>
+  <data name="ForecastWin_ProtectionOffText" xml:space="preserve"><value>Միացրեք պահումը, որպեսզի Windows Update-ը հետաձգի վերագործարկումը, քանի դեռ RebootWhy-ը գործարկված է։</value></data>
+  <data name="ForecastWin_ProtectionOffTitle" xml:space="preserve"><value>Պահումն անջատված է․ Windows-ը կարող է վերագործարկել համակարգիչը, երբ դուք հեռանաք</value></data>
+  <data name="ForecastWin_ProtectionOnText" xml:space="preserve"><value>RebootWhy-ը Windows-ին հայտնում է, որ դուք համակարգչի մոտ եք (ինչպես տեսանվագարկիչը), և Windows Update-ը հետաձգում է ավտոմատ վերագործարկումը։ Աշխատում է, քանի դեռ RebootWhy-ը գործարկված է։ Էկրանն այդ ընթացքում չի մարում։ Եթե ինքներդ սեղմեք «Վերագործարկել», համակարգիչը կվերագործարկվի սովորականի պես։</value></data>
+  <data name="ForecastWin_ProtectionOnTitle" xml:space="preserve"><value>Պահումը միացված է․ RebootWhy-ը թույլ չի տալիս Windows-ին ավտոմատ վերագործարկել համակարգիչը</value></data>
+  <data name="ForecastWin_ScheduleFromLog" xml:space="preserve"><value> · ժամանակացույցը Windows Update-ի մատյանից</value></data>
+  <data name="ForecastWin_ScheduleFromScheduler" xml:space="preserve"><value> · ժամանակացույցը Առաջադրանքների պլանավորիչից</value></data>
+  <data name="ForecastWin_SimulationBanner" xml:space="preserve"><value>Սա արձագանքի ստուգում է․ մատյանի գրառումները փոխարինել է RebootWhy-ը, համակարգիչը չի վերագործարկվի։ Մի քանի րոպեից ստուգումն ինքնին կավարտվի։</value></data>
+  <data name="ForecastWin_Snooze" xml:space="preserve"><value>Հիշեցնել</value></data>
+  <data name="ForecastWin_SnoozeHour" xml:space="preserve"><value>1 ժամից</value></data>
+  <data name="ForecastWin_SnoozeMinutes" xml:space="preserve"><value>{0} րոպեից</value></data>
+  <data name="ForecastWin_SnoozeTwoHours" xml:space="preserve"><value>2 ժամից</value></data>
+  <data name="ForecastWin_SnoozeWarning" xml:space="preserve"><value>Windows-ը կարող է ավելի շուտ վերագործարկել համակարգիչը՝ արդեն {0}-ից</value></data>
+  <data name="ForecastWin_SourceLocal" xml:space="preserve"><value>RebootWhy ծառայությունը միացված չէ, վերլուծությունն առանց դրա է</value></data>
+  <data name="ForecastWin_SourceService" xml:space="preserve"><value>RebootWhy ծառայության տվյալներ</value></data>
+  <data name="ForecastWin_StopSound" xml:space="preserve"><value>Անջատել ձայնը</value></data>
+  <data name="ForecastWin_StopSoundTip" xml:space="preserve"><value>Դադարեցնել այս զգուշացման ձայնը․ հաջորդ զգուշացումները կրկին կհնչեն</value></data>
+  <data name="ForecastWin_StopTest" xml:space="preserve"><value>Դադարեցնել ստուգումը</value></data>
+  <data name="ForecastWin_SummaryNone" xml:space="preserve"><value>Ոչ մի թարմացում վերագործարկման չի սպասում։ RebootWhy-ը շարունակում է հետևել և կզգուշացնի, եթե Windows-ը որոշի վերագործարկել համակարգիչը։</value></data>
+  <data name="ForecastWin_Title" xml:space="preserve"><value>RebootWhy — Windows-ի թարմացումներ</value></data>
+  <data name="ForecastWin_UpdateLine" xml:space="preserve"><value>{0} — {1}</value></data>
+  <data name="ForecastWin_UpdateLineSince" xml:space="preserve"><value>{0} — {1}, սպասում է {2}-ից</value></data>
+  <data name="ForecastWin_WhySection" xml:space="preserve"><value>Ինչու</value></data>
+  <data name="Host_SampleUpdateTitle" xml:space="preserve"><value>Թարմացման անվանումը</value></data>
+  <data name="Host_ServiceNotStoppedText" xml:space="preserve"><value>Ադմինիստրատորի հարցումը մերժվել է։ Ծրագիրը շարունակում է աշխատել։</value></data>
+  <data name="Host_ServiceNotStoppedTitle" xml:space="preserve"><value>RebootWhy ծառայությունը չի դադարեցվել</value></data>
+  <data name="Host_StillRunningText" xml:space="preserve"><value>Windows Update-ին հետևելը շարունակվում է ֆոնում։ Ելքը՝ ծանուցումների տիրույթի պատկերակի ընտրացանկից։</value></data>
+  <data name="Host_StillRunningTitle" xml:space="preserve"><value>RebootWhy-ը շարունակում է աշխատել</value></data>
+  <data name="Language_Interface" xml:space="preserve"><value>Ինտերֆեյսի լեզու</value></data>
+  <data name="Language_Interface_Hint" xml:space="preserve"><value>Պատուհանների, ծանուցումների և վերագործարկումների ու թարմացումների մասին տեքստերի լեզուն։</value></data>
+  <data name="Language_RestartFailed" xml:space="preserve"><value>Չհաջողվեց վերագործարկել RebootWhy-ը — փակեք և նորից գործարկեք ծրագիրը։</value></data>
+  <data name="Language_RestartNote" xml:space="preserve"><value>Լեզուն կփոխվի RebootWhy-ի վերագործարկումից հետո։</value></data>
+  <data name="Language_RestartNow" xml:space="preserve"><value>Վերագործարկել հիմա</value></data>
+  <data name="Language_System" xml:space="preserve"><value>Ինչպես Windows-ում</value></data>
+  <data name="Main_ActiveTime" xml:space="preserve"><value>Ակտիվ ժամանակ՝ առանց քնի</value></data>
+  <data name="Main_ActiveTimeCaption" xml:space="preserve"><value>վերջին լրիվ բեռնումից ի վեր</value></data>
+  <data name="Main_Check" xml:space="preserve"><value>Ստուգել</value></data>
+  <data name="Main_CheckedAt" xml:space="preserve"><value>Ստուգվել է {0}-ին</value></data>
+  <data name="Main_Checking" xml:space="preserve"><value>Ստուգում եմ…</value></data>
+  <data name="Main_CheckingUpdates" xml:space="preserve"><value>Ստուգում եմ Windows Update-ը…</value></data>
+  <data name="Main_Copied" xml:space="preserve"><value>Պատճենված է ✓</value></data>
+  <data name="Main_Copy" xml:space="preserve"><value>Պատճենել</value></data>
+  <data name="Main_CopyFailed" xml:space="preserve"><value>Չհաջողվեց պատճենել սեղմատախտակին՝ {0}</value></data>
+  <data name="Main_Details" xml:space="preserve"><value>Մանրամասն</value></data>
+  <data name="Main_DetailsHeader" xml:space="preserve"><value>Մանրամասներ</value></data>
+  <data name="Main_FastStartupHint" xml:space="preserve"><value>Արագ գործարկումը միացված է. «Անջատել»-ը չի վերագործարկում Windows-ի միջուկը։ Համակարգը լրիվ վերագործարկում է միայն «Վերագործարկել»-ը։</value></data>
+  <data name="Main_FullBootAgo" xml:space="preserve"><value>{0} · {1} առաջ</value></data>
+  <data name="Main_KeepingActive" xml:space="preserve"><value>վերագործարկման արգելափակումը միացված է</value></data>
+  <data name="Main_LastFullBoot" xml:space="preserve"><value>Վերջին լրիվ բեռնումը</value></data>
+  <data name="Main_NoData" xml:space="preserve"><value>տվյալներ չկան</value></data>
+  <data name="Main_OpenLogFilter" xml:space="preserve"><value>Իրադարձությունների մատյաններ</value></data>
+  <data name="Main_OpenLogTitle" xml:space="preserve"><value>Այլ համակարգչից արտահանված System մատյան</value></data>
+  <data name="Main_Period1Year" xml:space="preserve"><value>1 տարի</value></data>
+  <data name="Main_Period30Days" xml:space="preserve"><value>30 օր</value></data>
+  <data name="Main_Period7Days" xml:space="preserve"><value>7 օր</value></data>
+  <data name="Main_Period90Days" xml:space="preserve"><value>90 օր</value></data>
+  <data name="Main_ReadLogFailed" xml:space="preserve"><value>Չհաջողվեց կարդալ մատյանը՝ {0}</value></data>
+  <data name="Main_ReadingLog" xml:space="preserve"><value>Մատյանի ընթերցում…</value></data>
+  <data name="Main_Refresh" xml:space="preserve"><value>Թարմացնել</value></data>
+  <data name="Main_ServiceNotConnected" xml:space="preserve"><value>RebootWhy ծառայությունը միացված չէ, ստուգում եմ ինքս</value></data>
+  <data name="Main_ServiceWatching" xml:space="preserve"><value>հետևում է RebootWhy ծառայությունը</value></data>
+  <data name="Main_Settings" xml:space="preserve"><value>Կարգավորումներ</value></data>
+  <data name="Main_SourceFile" xml:space="preserve"><value>Ֆայլ՝ {0}</value></data>
+  <data name="Main_SourceLive" xml:space="preserve"><value>Այս համակարգչի System մատյանը</value></data>
+  <data name="Main_StatusBoots" xml:space="preserve"><value>բեռնումներ՝ {0}</value></data>
+  <data name="Main_StatusEvents" xml:space="preserve"><value>վերլուծված իրադարձություններ՝ {0}</value></data>
+  <data name="Main_StatusRefreshedAt" xml:space="preserve"><value>թարմացվել է {0}-ին</value></data>
+  <data name="Main_StopTest" xml:space="preserve"><value>Դադարեցնել ստուգումը</value></data>
+  <data name="Main_Subtitle" xml:space="preserve"><value>Համակարգչի աշխատաժամանակը, վերագործարկումների պատճառները և Windows Update-ի պլանները</value></data>
+  <data name="Main_TabReboots" xml:space="preserve"><value>Վերագործարկումներ</value></data>
+  <data name="Main_TabUpdates" xml:space="preserve"><value>Թարմացումներ</value></data>
+  <data name="Main_UpdatesLabel" xml:space="preserve"><value>Windows-ի թարմացումներ՝</value></data>
+  <data name="Main_Uptime" xml:space="preserve"><value>Աշխատաժամանակ</value></data>
+  <data name="Main_UptimeSince" xml:space="preserve"><value>{0}-ից · {1}</value></data>
+  <data name="Main_WindowTitle" xml:space="preserve"><value>RebootWhy — աշխատաժամանակ և վերագործարկումների պատճառներ</value></data>
+  <data name="Policy_ActiveHours" xml:space="preserve"><value>Ակտիվ ժամեր</value></data>
+  <data name="Policy_ActiveHours_NotSet" xml:space="preserve"><value>Ակտիվ ժամերը սահմանված չեն։</value></data>
+  <data name="Policy_ActiveHours_Now" xml:space="preserve"><value>Այժմ՝ {0}։ Այս ժամանակից դուրս Windows-ը կարող է վերագործարկել համակարգիչը թարմացումների համար։</value></data>
+  <data name="Policy_Applied" xml:space="preserve"><value>Քաղաքականությունները կիրառված են, Windows Update-ն ընդունել է դրանք։</value></data>
+  <data name="Policy_AppliedLater" xml:space="preserve"><value>Քաղաքականությունները գրանցված են, բայց Windows Update-ը դեռ չի ընդունել դրանք․ դա տեղի կունենա համակարգչի վերագործարկումից հետո։</value></data>
+  <data name="Policy_Applying" xml:space="preserve"><value>Windows Update-ի քաղաքականությունները կիրառվում են — հաստատեք Windows-ի հարցումը…</value></data>
+  <data name="Policy_AutoUpdate" xml:space="preserve"><value>Ավտոմատ թարմացումներ</value></data>
+  <data name="Policy_AutoUpdate_Download" xml:space="preserve"><value>Ներբեռնել, հարցնել տեղադրելուց առաջ</value></data>
+  <data name="Policy_AutoUpdate_Hint" xml:space="preserve"><value>Երբ է Windows-ը ներբեռնում և տեղադրում թարմացումներն առանց ձեր մասնակցության։</value></data>
+  <data name="Policy_AutoUpdate_Install" xml:space="preserve"><value>Ներբեռնել և տեղադրել ինքնուրույն</value></data>
+  <data name="Policy_AutoUpdate_NotSet" xml:space="preserve"><value>Սահմանված չէ (որոշում է Windows-ը)</value></data>
+  <data name="Policy_AutoUpdate_Notify" xml:space="preserve"><value>Հարցնել ներբեռնելուց առաջ</value></data>
+  <data name="Policy_AutoUpdate_Value" xml:space="preserve"><value>Արժեք {0}</value></data>
+  <data name="Policy_Enabled" xml:space="preserve"><value>միացված է</value></data>
+  <data name="Policy_ExcludeDrivers" xml:space="preserve"><value>Չստանալ դրայվերներ Windows Update-ի միջոցով</value></data>
+  <data name="Policy_ExcludeDrivers_Hint" xml:space="preserve"><value>Դրայվերներն այլևս ավտոմատ չեն տեղադրվի և կանհետանան ոչ պարտադիր թարմացումներից․ դրանք պետք է թարմացնել արտադրողների կայքերից։</value></data>
+  <data name="Policy_NoAutoReboot" xml:space="preserve"><value>Ավտոմատ չվերագործարկել, եթե օգտատերը մուտք է գործել համակարգ</value></data>
+  <data name="Policy_NoAutoReboot_Hint" xml:space="preserve"><value>Windows Update-ը ծանուցում կցուցադրի և կսպասի, մինչև ինքներդ վերագործարկեք համակարգիչը։ Էկրանի կողպումը դուրս գալ չի համարվում։</value></data>
+  <data name="Policy_NotApplied" xml:space="preserve"><value>Քաղաքականությունները չեն կիրառվել․ ադմինիստրատորի հարցումը մերժվել է, կամ հրամանն ավարտվել է սխալով։</value></data>
+  <data name="Policy_NotSet" xml:space="preserve"><value>սահմանված չէ</value></data>
+  <data name="Policy_StateNow" xml:space="preserve"><value>Այժմ համակարգում՝ {0}</value></data>
+  <data name="Policy_StatePending" xml:space="preserve"><value>Գրանցված է՝ {0}․ Windows Update-ը դեռ օգտագործում է՝ {1}</value></data>
+  <data name="Policy_Unapplied" xml:space="preserve"><value>Կան չկիրառված փոփոխություններ քաղաքականություններում — սեղմեք «Կիրառել»։</value></data>
+  <data name="Policy_Warning" xml:space="preserve"><value>Այս կարգավորումները փոխում են Windows Update-ի քաղաքականությունները ամբողջ համակարգչի համար։ Դրանք կիրառվում են «Կիրառել» կամ «Լավ» կոճակով․ Windows-ը կպահանջի ադմինիստրատորի իրավունքներ, իսկ Windows Update-ի ծառայությունները կվերագործարկվեն՝ փոփոխություններն ընդունելու համար։</value></data>
+  <data name="Policy_WindowsUpdateSettings" xml:space="preserve"><value>Windows Update-ի կարգավորումներ</value></data>
+  <data name="Reboots_ColumnBoot" xml:space="preserve"><value>Բեռնում</value></data>
+  <data name="Reboots_ColumnBootType" xml:space="preserve"><value>Բեռնման տեսակ</value></data>
+  <data name="Reboots_ColumnConfidence" xml:space="preserve"><value>Վստահություն</value></data>
+  <data name="Reboots_ColumnWhat" xml:space="preserve"><value>Ինչ է տեղի ունեցել</value></data>
+  <data name="Reboots_CopyTooltip" xml:space="preserve"><value>Պատճենել մանրամասները սեղմատախտակին</value></data>
+  <data name="Reboots_Evidence" xml:space="preserve"><value>Մատյանի իրադարձություններ, որոնց վրա հիմնված է եզրակացությունը</value></data>
+  <data name="Reboots_InstalledUpdates" xml:space="preserve"><value>Տեղադրված թարմացումներ</value></data>
+  <data name="Reboots_Notes" xml:space="preserve"><value>Ուշադրություն դարձրեք</value></data>
+  <data name="Reboots_OnlyFullBoots" xml:space="preserve"><value>Միայն լրիվ բեռնումները</value></data>
+  <data name="Reboots_OpenEvtx" xml:space="preserve"><value>Բացել .evtx մատյանը…</value></data>
+  <data name="Reboots_Period" xml:space="preserve"><value>Ժամանակահատված</value></data>
+  <data name="Reboots_SelectHint" xml:space="preserve"><value>Ընտրեք բեռնումը ցանկում</value></data>
+  <data name="Reboots_ThisComputer" xml:space="preserve"><value>Այս համակարգիչը</value></data>
+  <data name="Search_Clear" xml:space="preserve"><value>Մաքրել</value></data>
+  <data name="Search_ClearAutomation" xml:space="preserve"><value>Մաքրել որոնումը</value></data>
+  <data name="Search_Placeholder" xml:space="preserve"><value>Որոնում</value></data>
+  <data name="Service_Description" xml:space="preserve"><value>Հետևում է Windows Update-ին և զգուշացնում RebootWhy ծրագրին, երբ Windows-ը պատրաստվում է վերագործարկել համակարգիչը։</value></data>
+  <data name="Service_DisplayName" xml:space="preserve"><value>RebootWhy — վերագործարկումների հսկում</value></data>
+  <data name="Service_Hint" xml:space="preserve"><value>Ծառայությունը մշտապես հետևում է Windows Update-ին, նույնիսկ առանց համակարգ մուտք գործելու, և տեսնում է Windows Update-ի ճշգրիտ ժամանակացույցը Առաջադրանքների պլանավորիչում։ Տեղադրումն ու հեռացումը պահանջում են ադմինիստրատորի իրավունքներ։</value></data>
+  <data name="Service_Install" xml:space="preserve"><value>Տեղադրել</value></data>
+  <data name="Service_Installed" xml:space="preserve"><value>Ծառայությունը տեղադրված է և աշխատում է։</value></data>
+  <data name="Service_Installing" xml:space="preserve"><value>Ծառայությունը տեղադրվում է — հաստատեք Windows-ի հարցումը…</value></data>
+  <data name="Service_Reinstall" xml:space="preserve"><value>Վերատեղադրել</value></data>
+  <data name="Service_Remove" xml:space="preserve"><value>Հեռացնել</value></data>
+  <data name="Service_Removed" xml:space="preserve"><value>Ծառայությունը հեռացված է։</value></data>
+  <data name="Service_Removing" xml:space="preserve"><value>Ծառայությունը հեռացվում է — հաստատեք Windows-ի հարցումը…</value></data>
+  <data name="Service_Section" xml:space="preserve"><value>RebootWhy ծառայություն</value></data>
+  <data name="Service_StateLabel" xml:space="preserve"><value>Վիճակ՝</value></data>
+  <data name="Service_State_NotInstalled" xml:space="preserve"><value>տեղադրված չէ</value></data>
+  <data name="Service_State_OtherFolder" xml:space="preserve"><value>{0} (գործարկվում է այլ թղթապանակից՝ {1})</value></data>
+  <data name="Service_State_Running" xml:space="preserve"><value>աշխատում է</value></data>
+  <data name="Service_State_Starting" xml:space="preserve"><value>գործարկվում է</value></data>
+  <data name="Service_State_Stopped" xml:space="preserve"><value>կանգնեցված է</value></data>
+  <data name="Service_State_Stopping" xml:space="preserve"><value>կանգնեցվում է</value></data>
+  <data name="Settings_About_OpenFolder" xml:space="preserve"><value>Բացել թղթապանակը</value></data>
+  <data name="Settings_About_Program" xml:space="preserve"><value>Ծրագիր</value></data>
+  <data name="Settings_About_SettingsFile" xml:space="preserve"><value>Կարգավորումների ֆայլ</value></data>
+  <data name="Settings_About_Tagline" xml:space="preserve"><value>Համակարգչի աշխատաժամանակը, վերագործարկումների պատճառները և Windows Update-ի պլանները։</value></data>
+  <data name="Settings_About_Version" xml:space="preserve"><value>Տարբերակ {0}</value></data>
+  <data name="Settings_AlertBefore" xml:space="preserve"><value>Պատուհան բոլորի վրա — ևս մեկ անգամ վերագործարկումից առաջ</value></data>
+  <data name="Settings_AlertBefore_Hint" xml:space="preserve"><value>Երբ քիչ ժամանակ է մնացել մինչև այն պահը, որից հետո Windows-ը կարող է վերագործարկել համակարգիչը։</value></data>
+  <data name="Settings_AlertBefore_Prefix" xml:space="preserve"><value>Ցուցադրել</value></data>
+  <data name="Settings_AlertBefore_Suffix" xml:space="preserve"><value>հնարավոր վերագործարկումից առաջ</value></data>
+  <data name="Settings_AlertOnDetection" xml:space="preserve"><value>Պատուհան բոլորի վրա — հայտնաբերելուն պես</value></data>
+  <data name="Settings_AlertOnDetection_Hint" xml:space="preserve"><value>Հենց որ RebootWhy-ը նկատում է, որ Windows-ը սպասում է վերագործարկման։ Պատուհանում հիշեցումը կարելի է հետաձգել։</value></data>
+  <data name="Settings_Alerts_Intro" xml:space="preserve"><value>Ինչպես է RebootWhy-ը տեղեկացնում, որ Windows Update-ը պատրաստվում է վերագործարկել համակարգիչը։</value></data>
+  <data name="Settings_Apply" xml:space="preserve"><value>Կիրառել</value></data>
+  <data name="Settings_Autostart" xml:space="preserve"><value>Գործարկել RebootWhy-ը Windows մուտք գործելիս</value></data>
+  <data name="Settings_Autostart_Hint" xml:space="preserve"><value>Պատկերակը կհայտնվի ծանուցումների տարածքում, պատուհանը չի բացվի։ Առանց դրա վերագործարկումից հետո զգուշացումներ չեն լինի, մինչև չգործարկեք ծրագիրը։</value></data>
+  <data name="Settings_Cancel" xml:space="preserve"><value>Չեղարկել</value></data>
+  <data name="Settings_ElevationFailed" xml:space="preserve"><value>Չստացվեց․ ադմինիստրատորի հարցումը մերժվել է, կամ հրամանն ավարտվել է սխալով։</value></data>
+  <data name="Settings_HowItWorks" xml:space="preserve"><value>Ինչպես է դա աշխատում</value></data>
+  <data name="Settings_HowItWorks_1" xml:space="preserve"><value>• RebootWhy-ը պահում է «էկրանն անհրաժեշտ է» հարցումը, ինչպես անում են տեսանվագարկիչները։ Windows Update-ը տեսնում է, որ օգտատերը համակարգչի մոտ է, և հետաձգում է վերագործարկումը։</value></data>
+  <data name="Settings_HowItWorks_2" xml:space="preserve"><value>• Քանի դեռ սպասումը չի վերացել, էկրանը չի անջատվում, և համակարգիչն ինքնուրույն քնի ռեժիմ չի անցնում։</value></data>
+  <data name="Settings_HowItWorks_3" xml:space="preserve"><value>• Պաշտպանությունն աշխատում է, քանի դեռ RebootWhy-ը գործարկված է (պատկերակը ծանուցումների տարածքում)։</value></data>
+  <data name="Settings_HowItWorks_4" xml:space="preserve"><value>• RebootWhy-ը չի արգելափակում ձեր սեփական գործողությունները․ «Վերագործարկել» կամ «Անջատել» հրամանները «Մեկնարկ» ցանկից կաշխատեն սովորականի պես։</value></data>
+  <data name="Settings_HowItWorks_5" xml:space="preserve"><value>• Ամենահուսալին հարմար պահին ինքներդ վերագործարկելն է․ այդ դեպքում սպասումը կվերանա։</value></data>
+  <data name="Settings_KeepActive" xml:space="preserve"><value>Պաշտպանել համակարգիչը ավտոմատ վերագործարկումից</value></data>
+  <data name="Settings_KeepActive_Hint" xml:space="preserve"><value>Քանի դեռ Windows-ը սպասում է վերագործարկման, RebootWhy-ը Windows-ին ցույց է տալիս, որ դուք համակարգչի մոտ եք։</value></data>
+  <data name="Settings_Keywords_About" xml:space="preserve"><value>ծրագրի մասին տարբերակ թղթապանակ</value></data>
+  <data name="Settings_Keywords_Alerts" xml:space="preserve"><value>ծանուցում պատուհան բոլորի վրա զգուշացում օրինակ հետաձգել րոպե ռեակցիայի ստուգում սիմուլյացիա թեստ</value></data>
+  <data name="Settings_Keywords_Language" xml:space="preserve"><value>լեզու ինտերֆեյս անգլերեն ռուսերեն ուկրաիներեն հայերեն թարգմանություն</value></data>
+  <data name="Settings_Keywords_Policies" xml:space="preserve"><value>քաղաքականություններ windows update դրայվերներ ավտոմատ թարմացումներ ակտիվ ժամեր վերագործարկում մուտք գործած օգտատեր</value></data>
+  <data name="Settings_Keywords_Protection" xml:space="preserve"><value>պահում էկրանը անհրաժեշտ է օգտատեր համակարգչի մոտ պաշտպանություն վերագործարկում</value></data>
+  <data name="Settings_Keywords_Sound" xml:space="preserve"><value>ձայն ազդանշան mp3 wav ogg ֆայլ մեղեդի</value></data>
+  <data name="Settings_Keywords_Startup" xml:space="preserve"><value>գործարկում ինքնագործարկում մուտք սկուտեղ ծառայություն ադմինիստրատոր</value></data>
+  <data name="Settings_Minutes_120" xml:space="preserve"><value>2 ժամ</value></data>
+  <data name="Settings_Minutes_15" xml:space="preserve"><value>15 րոպե</value></data>
+  <data name="Settings_Minutes_240" xml:space="preserve"><value>4 ժամ</value></data>
+  <data name="Settings_Minutes_30" xml:space="preserve"><value>30 րոպե</value></data>
+  <data name="Settings_Minutes_60" xml:space="preserve"><value>1 ժամ</value></data>
+  <data name="Settings_Notification" xml:space="preserve"><value>Windows-ի ծանուցում</value></data>
+  <data name="Settings_Notification_Hint" xml:space="preserve"><value>Թռուցիկ ծանուցում էկրանի անկյունում․ այն մնում է ծանուցումների կենտրոնում։</value></data>
+  <data name="Settings_Ok" xml:space="preserve"><value>Լավ</value></data>
+  <data name="Settings_Page_About" xml:space="preserve"><value>Ծրագրի մասին</value></data>
+  <data name="Settings_Page_Alerts" xml:space="preserve"><value>Զգուշացումներ</value></data>
+  <data name="Settings_Page_Language" xml:space="preserve"><value>Լեզու</value></data>
+  <data name="Settings_Page_Policies" xml:space="preserve"><value>Windows Update-ի քաղաքականություններ</value></data>
+  <data name="Settings_Page_Protection" xml:space="preserve"><value>Պաշտպանություն վերագործարկումից</value></data>
+  <data name="Settings_Page_Sound" xml:space="preserve"><value>Ձայն</value></data>
+  <data name="Settings_Page_Startup" xml:space="preserve"><value>Գործարկում և ծառայություն</value></data>
+  <data name="Settings_ReactionTest" xml:space="preserve"><value>Ռեակցիայի ստուգում</value></data>
+  <data name="Settings_ReactionTest_Hint" xml:space="preserve"><value>RebootWhy-ը կներկայացնի, թե Windows-ը վերագործարկում է պլանավորել 3 րոպեից․ Windows Update-ի մատյանի փոխարինված գրառումները կանցնեն ծառայության միջով, և կաշխատեն ծանուցումը, ձայնը, պատուհանը և պաշտպանությունը՝ ինչպես իրական իրավիճակում։ Համակարգում ոչինչ չի փոխվում, համակարգիչը չի վերագործարկվի․ 5 րոպե անց ամեն ինչ կվերադառնա սովորական վիճակին։</value></data>
+  <data name="Settings_Sample" xml:space="preserve"><value>Զգուշացման օրինակ</value></data>
+  <data name="Settings_Sample_Hint" xml:space="preserve"><value>Ծանուցում, ձայն և պատուհան՝ այս էջի կարգավորումներով, նույնիսկ դեռ չպահպանված։ Իրական վիճակը չի փոխվում։</value></data>
+  <data name="Settings_Saved" xml:space="preserve"><value>Կարգավորումները պահպանված են։</value></data>
+  <data name="Settings_SearchPlaceholder" xml:space="preserve"><value>Որոնել կարգավորումներում</value></data>
+  <data name="Settings_ShowSample" xml:space="preserve"><value>Ցույց տալ օրինակը</value></data>
+  <data name="Settings_StartTest" xml:space="preserve"><value>Սկսել ստուգումը</value></data>
+  <data name="Settings_StopTest" xml:space="preserve"><value>Դադարեցնել ստուգումը</value></data>
+  <data name="Settings_TestFailed" xml:space="preserve"><value>Չհաջողվեց սկսել ստուգումը․ հսկումը դեռ պատրաստ չէ, փորձեք մի քանի վայրկյանից։</value></data>
+  <data name="Settings_TestStarted" xml:space="preserve"><value>Ստուգումը սկսված է․ մի քանի վայրկյանից կաշխատեն զգուշացումները։ Համակարգիչը չի վերագործարկվի․ 5 րոպե անց ամեն ինչ կվերադառնա սովորական վիճակին։</value></data>
+  <data name="Settings_WindowTitle" xml:space="preserve"><value>Կարգավորումներ — RebootWhy</value></data>
+  <data name="Sound_ChooseFile" xml:space="preserve"><value>Ընտրել ֆայլ…</value></data>
+  <data name="Sound_DialogTitle" xml:space="preserve"><value>Վերագործարկման զգուշացման ձայն</value></data>
+  <data name="Sound_FileFilter" xml:space="preserve"><value>Ձայնային ֆայլեր (*.mp3;*.wav;*.ogg)|*.mp3;*.wav;*.ogg</value></data>
+  <data name="Sound_Formats" xml:space="preserve"><value>Աջակցվում են mp3, wav և ogg ֆայլերը։</value></data>
+  <data name="Sound_Listen" xml:space="preserve"><value>Լսել</value></data>
+  <data name="Sound_NoFile" xml:space="preserve"><value>Ֆայլ ընտրված չէ</value></data>
+  <data name="Sound_PlaybackFailed" xml:space="preserve"><value>Ֆայլը չնվագարկվեց, հնչում է համակարգային ձայնը՝ {0}</value></data>
+  <data name="Sound_Reset" xml:space="preserve"><value>Վերակայել</value></data>
+  <data name="Sound_Signal" xml:space="preserve"><value>Ձայնային ազդանշան</value></data>
+  <data name="Sound_Signal_Hint" xml:space="preserve"><value>Հնչում է, երբ RebootWhy-ը հայտնաբերում է վերագործարկման սպասում, և երբ բացվում է զգուշացման պատուհանը։</value></data>
+  <data name="Sound_Stop" xml:space="preserve"><value>Կանգնեցնել</value></data>
+  <data name="Sound_System" xml:space="preserve"><value>Windows-ի համակարգային ձայն</value></data>
+  <data name="Tray_CheckNow" xml:space="preserve"><value>Ստուգել Windows Update-ը հիմա</value></data>
+  <data name="Tray_Exit" xml:space="preserve"><value>Ելք</value></data>
+  <data name="Tray_ExitAndStopService" xml:space="preserve"><value>Ելք և ծառայության դադարեցում</value></data>
+  <data name="Tray_Open" xml:space="preserve"><value>Բացել RebootWhy-ը</value></data>
+  <data name="Tray_Settings" xml:space="preserve"><value>Կարգավորումներ…</value></data>
+  <data name="Tray_StopSound" xml:space="preserve"><value>Անջատել զգուշացման ձայնը</value></data>
+  <data name="Tray_TestReaction" xml:space="preserve"><value>Ստուգել արձագանքը վերագործարկմանը</value></data>
+  <data name="Tray_TipChecking" xml:space="preserve"><value>RebootWhy․ ստուգում եմ Windows Update-ը…</value></data>
+  <data name="Tray_TipHoldOn" xml:space="preserve"><value> · պահումը միացված է</value></data>
+  <data name="Tray_TipNone" xml:space="preserve"><value>RebootWhy․ թարմացումների համար վերագործարկում չի սպասվում</value></data>
+  <data name="Tray_TipPending" xml:space="preserve"><value>RebootWhy․ Windows-ը սպասում է վերագործարկման</value></data>
+  <data name="Tray_TipPendingTest" xml:space="preserve"><value>RebootWhy․ ստուգում — Windows-ը սպասում է վերագործարկման</value></data>
+  <data name="Updates_ColumnDate" xml:space="preserve"><value>Ամսաթիվ</value></data>
+  <data name="Updates_ColumnResult" xml:space="preserve"><value>Արդյունք</value></data>
+  <data name="Updates_ColumnType" xml:space="preserve"><value>Տեսակ</value></data>
+  <data name="Updates_ColumnUpdate" xml:space="preserve"><value>Թարմացում</value></data>
+  <data name="Updates_CopyTooltip" xml:space="preserve"><value>Պատճենել թարմացման տվյալները սեղմատախտակին</value></data>
+  <data name="Updates_Description" xml:space="preserve"><value>Նկարագրություն</value></data>
+  <data name="Updates_GroupHistory" xml:space="preserve"><value>Տեղադրման մատյան</value></data>
+  <data name="Updates_GroupPending" xml:space="preserve"><value>Սպասում են տեղադրման կամ վերագործարկման</value></data>
+  <data name="Updates_KindDefender" xml:space="preserve"><value>Windows Defender</value></data>
+  <data name="Updates_KindDefinitions" xml:space="preserve"><value>Հակավիրուսի բազաներ</value></data>
+  <data name="Updates_KindDriver" xml:space="preserve"><value>Դրայվեր</value></data>
+  <data name="Updates_KindGeneric" xml:space="preserve"><value>Թարմացում</value></data>
+  <data name="Updates_KindMsrt" xml:space="preserve"><value>MSRT գործիք</value></data>
+  <data name="Updates_KindStoreApp" xml:space="preserve"><value>Store հավելված</value></data>
+  <data name="Updates_KindWindows" xml:space="preserve"><value>Windows-ի թարմացում</value></data>
+  <data name="Updates_NotLoaded" xml:space="preserve"><value>Թարմացումների մատյանը դեռ բեռնված չէ</value></data>
+  <data name="Updates_OnlyImportant" xml:space="preserve"><value>Միայն Windows և դրայվերներ</value></data>
+  <data name="Updates_OnlyImportantTooltip" xml:space="preserve"><value>Թաքցնել Microsoft Defender հակավիրուսի բազաները և Microsoft Store հավելվածների թարմացումները</value></data>
+  <data name="Updates_OnlyReboot" xml:space="preserve"><value>Միայն վերագործարկումով</value></data>
+  <data name="Updates_OnlyRebootTooltip" xml:space="preserve"><value>Թարմացումներ, որոնց տեղադրումը կպահանջի կամ կարող է պահանջել համակարգչի վերագործարկում</value></data>
+  <data name="Updates_PendingSince" xml:space="preserve"><value>{0}-ից</value></data>
+  <data name="Updates_Reading" xml:space="preserve"><value>Կարդում եմ Windows Update-ի մատյանը…</value></data>
+  <data name="Updates_RebootAlways" xml:space="preserve"><value>Կպահանջի</value></data>
+  <data name="Updates_RebootAlwaysHint" xml:space="preserve"><value>Այս թարմացման տեղադրումը կպահանջի համակարգչի վերագործարկում</value></data>
+  <data name="Updates_RebootMaybe" xml:space="preserve"><value>Կարող է պահանջել</value></data>
+  <data name="Updates_RebootMaybeHint" xml:space="preserve"><value>Կարող է անհրաժեշտ լինել վերագործարկում․ Windows-ը կորոշի տեղադրման ընթացքում (օրինակ՝ եթե դրայվերը զբաղված է)</value></data>
+  <data name="Updates_RebootNever" xml:space="preserve"><value>Չի պահանջի</value></data>
+  <data name="Updates_RebootNeverHint" xml:space="preserve"><value>Տեղադրվում է առանց վերագործարկման</value></data>
+  <data name="Updates_SearchPlaceholder" xml:space="preserve"><value>Որոնում ըստ անվան, KB-ի, նկարագրության…</value></data>
+  <data name="Updates_SelectHint" xml:space="preserve"><value>Ընտրեք թարմացումը ցանկում</value></data>
+  <data name="Updates_StateDownloaded" xml:space="preserve"><value>Ներբեռնված է</value></data>
+  <data name="Updates_StateNotDownloaded" xml:space="preserve"><value>Ներբեռնված չէ</value></data>
+  <data name="Updates_StateWaitsForReboot" xml:space="preserve"><value>Սպասում է վերագործարկման</value></data>
+  <data name="Updates_StatusCached" xml:space="preserve"><value>պահպանված տվյալներ՝ {0}</value></data>
+  <data name="Updates_StatusFound" xml:space="preserve"><value>Գտնվել է՝ {0}</value></data>
+  <data name="Updates_StatusJournal" xml:space="preserve"><value>տեղադրումներ մատյանում՝ {0} · սպասում են տեղադրման՝ {1}</value></data>
+  <data name="Updates_StatusNeedReboot" xml:space="preserve"><value>(վերագործարկումով՝ {0})</value></data>
+  <data name="Updates_StatusRefreshedAt" xml:space="preserve"><value>թարմացվել է {0}-ին</value></data>
+  <data name="Updates_StatusRefreshing" xml:space="preserve"><value>թարմացնում եմ…</value></data>
+  <data name="Updates_WindowsUpdateFailed" xml:space="preserve"><value>Windows Update-ը չպատասխանեց՝ {0}</value></data>
+</root>

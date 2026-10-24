@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Alert_NotifyTitle" xml:space="preserve"><value>Windows собирается перезагрузить компьютер</value></data>
+  <data name="Alert_NotifyTitleTest" xml:space="preserve"><value>Проверка: Windows собирается перезагрузить компьютер</value></data>
+  <data name="Alert_PresenceReason" xml:space="preserve"><value>RebootWhy: Windows Update ждёт перезагрузки — показываем Windows, что пользователь за компьютером</value></data>
+  <data name="Alert_SampleText" xml:space="preserve"><value>Так будет выглядеть уведомление, когда Windows соберётся перезагрузить компьютер.</value></data>
+  <data name="Alert_SampleTitle" xml:space="preserve"><value>Пример предупреждения RebootWhy</value></data>
+  <data name="ForecastWin_BadgeSample" xml:space="preserve"><value>ПРИМЕР</value></data>
+  <data name="ForecastWin_BadgeTest" xml:space="preserve"><value>ПРОВЕРКА</value></data>
+  <data name="ForecastWin_CheckAgain" xml:space="preserve"><value>Проверить снова</value></data>
+  <data name="ForecastWin_CheckedAt" xml:space="preserve"><value>Проверено в {0}</value></data>
+  <data name="ForecastWin_Checking" xml:space="preserve"><value>Проверяю…</value></data>
+  <data name="ForecastWin_CloseSample" xml:space="preserve"><value>Закрыть пример</value></data>
+  <data name="ForecastWin_EnableProtection" xml:space="preserve"><value>Включить удержание</value></data>
+  <data name="ForecastWin_EvidenceSection" xml:space="preserve"><value>На чём основан вывод</value></data>
+  <data name="ForecastWin_GotIt" xml:space="preserve"><value>Понятно</value></data>
+  <data name="ForecastWin_HeaderAlert" xml:space="preserve"><value>Windows собирается перезагрузить компьютер</value></data>
+  <data name="ForecastWin_HeaderNone" xml:space="preserve"><value>Перезагрузка для обновлений не ожидается</value></data>
+  <data name="ForecastWin_HeaderPending" xml:space="preserve"><value>Windows ждёт перезагрузки</value></data>
+  <data name="ForecastWin_HeaderSample" xml:space="preserve"><value>Пример предупреждения о перезагрузке</value></data>
+  <data name="ForecastWin_HeaderTestPrefix" xml:space="preserve"><value>Проверка реакции: </value></data>
+  <data name="ForecastWin_NextWork" xml:space="preserve"><value>Следующий плановый запуск Windows Update: {0}</value></data>
+  <data name="ForecastWin_NotBefore" xml:space="preserve"><value>Не раньше {0} — через {1}</value></data>
+  <data name="ForecastWin_OpenMain" xml:space="preserve"><value>Открыть RebootWhy</value></data>
+  <data name="ForecastWin_PendingSection" xml:space="preserve"><value>Ждут перезагрузки</value></data>
+  <data name="ForecastWin_PossibleNow" xml:space="preserve"><value>Возможна уже сейчас (с {0})</value></data>
+  <data name="ForecastWin_ProblemsSection" xml:space="preserve"><value>Что не удалось проверить</value></data>
+  <data name="ForecastWin_ProtectionOffText" xml:space="preserve"><value>Включите удержание, чтобы Windows Update откладывал перезагрузку, пока RebootWhy запущен.</value></data>
+  <data name="ForecastWin_ProtectionOffTitle" xml:space="preserve"><value>Удержание выключено — Windows может перезагрузить компьютер, когда вы отойдёте</value></data>
+  <data name="ForecastWin_ProtectionOnText" xml:space="preserve"><value>RebootWhy сообщает Windows, что вы за компьютером (как видеоплеер), и Windows Update откладывает автоматическую перезагрузку. Работает, пока RebootWhy запущен. Экран при этом не гаснет. Если вы сами нажмёте «Перезагрузка», компьютер перезагрузится как обычно.</value></data>
+  <data name="ForecastWin_ProtectionOnTitle" xml:space="preserve"><value>Удержание включено — RebootWhy не даёт Windows перезагрузить компьютер автоматически</value></data>
+  <data name="ForecastWin_ScheduleFromLog" xml:space="preserve"><value> · расписание из журнала Windows Update</value></data>
+  <data name="ForecastWin_ScheduleFromScheduler" xml:space="preserve"><value> · расписание из Планировщика заданий</value></data>
+  <data name="ForecastWin_SimulationBanner" xml:space="preserve"><value>Это проверка реакции: записи журнала подставлены RebootWhy, компьютер не перезагрузится. Через несколько минут проверка закончится сама.</value></data>
+  <data name="ForecastWin_Snooze" xml:space="preserve"><value>Напомнить</value></data>
+  <data name="ForecastWin_SnoozeHour" xml:space="preserve"><value>через час</value></data>
+  <data name="ForecastWin_SnoozeMinutes" xml:space="preserve"><value>через {0} минут</value></data>
+  <data name="ForecastWin_SnoozeTwoHours" xml:space="preserve"><value>через 2 часа</value></data>
+  <data name="ForecastWin_SnoozeWarning" xml:space="preserve"><value>Windows может перезагрузить компьютер раньше — уже с {0}</value></data>
+  <data name="ForecastWin_SourceLocal" xml:space="preserve"><value>Служба RebootWhy не подключена, анализ без её участия</value></data>
+  <data name="ForecastWin_SourceService" xml:space="preserve"><value>Данные службы RebootWhy</value></data>
+  <data name="ForecastWin_StopSound" xml:space="preserve"><value>Остановить звук</value></data>
+  <data name="ForecastWin_StopSoundTip" xml:space="preserve"><value>Остановить звук этого предупреждения — следующие предупреждения снова прозвучат</value></data>
+  <data name="ForecastWin_StopTest" xml:space="preserve"><value>Остановить проверку</value></data>
+  <data name="ForecastWin_SummaryNone" xml:space="preserve"><value>Ни одно обновление не ждёт перезагрузки. RebootWhy продолжает следить и предупредит, если Windows соберётся перезагрузить компьютер.</value></data>
+  <data name="ForecastWin_Title" xml:space="preserve"><value>RebootWhy — обновления Windows</value></data>
+  <data name="ForecastWin_UpdateLine" xml:space="preserve"><value>{0} — {1}</value></data>
+  <data name="ForecastWin_UpdateLineSince" xml:space="preserve"><value>{0} — {1}, ждёт с {2}</value></data>
+  <data name="ForecastWin_WhySection" xml:space="preserve"><value>Почему так</value></data>
+  <data name="Host_SampleUpdateTitle" xml:space="preserve"><value>Название обновления</value></data>
+  <data name="Host_ServiceNotStoppedText" xml:space="preserve"><value>Запрос администратора отклонён. Программа продолжает работать.</value></data>
+  <data name="Host_ServiceNotStoppedTitle" xml:space="preserve"><value>Служба RebootWhy не остановлена</value></data>
+  <data name="Host_StillRunningText" xml:space="preserve"><value>Наблюдение за Windows Update идёт в фоне. Выход — через меню значка в области уведомлений.</value></data>
+  <data name="Host_StillRunningTitle" xml:space="preserve"><value>RebootWhy продолжает работать</value></data>
+  <data name="Language_Interface" xml:space="preserve"><value>Язык интерфейса</value></data>
+  <data name="Language_Interface_Hint" xml:space="preserve"><value>Язык окон, уведомлений и текстов о перезагрузках и обновлениях.</value></data>
+  <data name="Language_RestartFailed" xml:space="preserve"><value>Не удалось перезапустить RebootWhy — закройте и запустите программу снова.</value></data>
+  <data name="Language_RestartNote" xml:space="preserve"><value>Язык сменится после перезапуска RebootWhy.</value></data>
+  <data name="Language_RestartNow" xml:space="preserve"><value>Перезапустить сейчас</value></data>
+  <data name="Language_System" xml:space="preserve"><value>Как в Windows</value></data>
+  <data name="Main_ActiveTime" xml:space="preserve"><value>Активное время без сна</value></data>
+  <data name="Main_ActiveTimeCaption" xml:space="preserve"><value>с последней полной загрузки</value></data>
+  <data name="Main_Check" xml:space="preserve"><value>Проверить</value></data>
+  <data name="Main_CheckedAt" xml:space="preserve"><value>Проверено в {0}</value></data>
+  <data name="Main_Checking" xml:space="preserve"><value>Проверяю…</value></data>
+  <data name="Main_CheckingUpdates" xml:space="preserve"><value>Проверяю Windows Update…</value></data>
+  <data name="Main_Copied" xml:space="preserve"><value>Скопировано ✓</value></data>
+  <data name="Main_Copy" xml:space="preserve"><value>Копировать</value></data>
+  <data name="Main_CopyFailed" xml:space="preserve"><value>Не удалось скопировать в буфер обмена: {0}</value></data>
+  <data name="Main_Details" xml:space="preserve"><value>Подробнее</value></data>
+  <data name="Main_DetailsHeader" xml:space="preserve"><value>Подробности</value></data>
+  <data name="Main_FastStartupHint" xml:space="preserve"><value>Включён быстрый запуск: «Завершение работы» не перезагружает ядро Windows. Полностью перезапускает систему только «Перезагрузка».</value></data>
+  <data name="Main_FullBootAgo" xml:space="preserve"><value>{0} · {1} назад</value></data>
+  <data name="Main_KeepingActive" xml:space="preserve"><value>удержание от перезагрузки включено</value></data>
+  <data name="Main_LastFullBoot" xml:space="preserve"><value>Последняя полная загрузка</value></data>
+  <data name="Main_NoData" xml:space="preserve"><value>нет данных</value></data>
+  <data name="Main_OpenLogFilter" xml:space="preserve"><value>Журналы событий</value></data>
+  <data name="Main_OpenLogTitle" xml:space="preserve"><value>Журнал System, экспортированный с другого компьютера</value></data>
+  <data name="Main_Period1Year" xml:space="preserve"><value>1 год</value></data>
+  <data name="Main_Period30Days" xml:space="preserve"><value>30 дней</value></data>
+  <data name="Main_Period7Days" xml:space="preserve"><value>7 дней</value></data>
+  <data name="Main_Period90Days" xml:space="preserve"><value>90 дней</value></data>
+  <data name="Main_ReadLogFailed" xml:space="preserve"><value>Не удалось прочитать журнал: {0}</value></data>
+  <data name="Main_ReadingLog" xml:space="preserve"><value>Чтение журнала…</value></data>
+  <data name="Main_Refresh" xml:space="preserve"><value>Обновить</value></data>
+  <data name="Main_ServiceNotConnected" xml:space="preserve"><value>служба RebootWhy не подключена, проверяю сам</value></data>
+  <data name="Main_ServiceWatching" xml:space="preserve"><value>наблюдает служба RebootWhy</value></data>
+  <data name="Main_Settings" xml:space="preserve"><value>Настройки</value></data>
+  <data name="Main_SourceFile" xml:space="preserve"><value>Файл: {0}</value></data>
+  <data name="Main_SourceLive" xml:space="preserve"><value>Журнал System этого компьютера</value></data>
+  <data name="Main_StatusBoots" xml:space="preserve"><value>загрузок: {0}</value></data>
+  <data name="Main_StatusEvents" xml:space="preserve"><value>событий проанализировано: {0}</value></data>
+  <data name="Main_StatusRefreshedAt" xml:space="preserve"><value>обновлено в {0}</value></data>
+  <data name="Main_StopTest" xml:space="preserve"><value>Остановить проверку</value></data>
+  <data name="Main_Subtitle" xml:space="preserve"><value>Время работы компьютера, причины перезагрузок и планы Windows Update</value></data>
+  <data name="Main_TabReboots" xml:space="preserve"><value>Перезагрузки</value></data>
+  <data name="Main_TabUpdates" xml:space="preserve"><value>Обновления</value></data>
+  <data name="Main_UpdatesLabel" xml:space="preserve"><value>Обновления Windows:</value></data>
+  <data name="Main_Uptime" xml:space="preserve"><value>Время работы</value></data>
+  <data name="Main_UptimeSince" xml:space="preserve"><value>с {0} · {1}</value></data>
+  <data name="Main_WindowTitle" xml:space="preserve"><value>RebootWhy — время работы и причины перезагрузок</value></data>
+  <data name="Policy_ActiveHours" xml:space="preserve"><value>Активные часы</value></data>
+  <data name="Policy_ActiveHours_NotSet" xml:space="preserve"><value>Активные часы не заданы.</value></data>
+  <data name="Policy_ActiveHours_Now" xml:space="preserve"><value>Сейчас: {0}. Вне этого времени Windows может перезагружать компьютер для обновлений.</value></data>
+  <data name="Policy_Applied" xml:space="preserve"><value>Политики применены, Windows Update их принял.</value></data>
+  <data name="Policy_AppliedLater" xml:space="preserve"><value>Политики записаны, но Windows Update пока их не подхватил — это произойдёт после перезагрузки компьютера.</value></data>
+  <data name="Policy_Applying" xml:space="preserve"><value>Применяю политики Windows Update — подтвердите запрос Windows…</value></data>
+  <data name="Policy_AutoUpdate" xml:space="preserve"><value>Автоматические обновления</value></data>
+  <data name="Policy_AutoUpdate_Download" xml:space="preserve"><value>Загружать, спрашивать перед установкой</value></data>
+  <data name="Policy_AutoUpdate_Hint" xml:space="preserve"><value>Когда Windows скачивает и устанавливает обновления без вашего участия.</value></data>
+  <data name="Policy_AutoUpdate_Install" xml:space="preserve"><value>Загружать и устанавливать сами</value></data>
+  <data name="Policy_AutoUpdate_NotSet" xml:space="preserve"><value>Не задано (решает Windows)</value></data>
+  <data name="Policy_AutoUpdate_Notify" xml:space="preserve"><value>Спрашивать перед загрузкой</value></data>
+  <data name="Policy_AutoUpdate_Value" xml:space="preserve"><value>Значение {0}</value></data>
+  <data name="Policy_Enabled" xml:space="preserve"><value>включена</value></data>
+  <data name="Policy_ExcludeDrivers" xml:space="preserve"><value>Не получать драйверы через Windows Update</value></data>
+  <data name="Policy_ExcludeDrivers_Hint" xml:space="preserve"><value>Драйверы перестанут устанавливаться автоматически и исчезнут из необязательных обновлений — обновлять их придётся с сайтов производителей.</value></data>
+  <data name="Policy_NoAutoReboot" xml:space="preserve"><value>Не перезагружать автоматически, если пользователь вошёл в систему</value></data>
+  <data name="Policy_NoAutoReboot_Hint" xml:space="preserve"><value>Windows Update покажет уведомление и будет ждать, пока вы перезагрузите компьютер сами. Блокировка экрана выходом не считается.</value></data>
+  <data name="Policy_NotApplied" xml:space="preserve"><value>Политики не применены: запрос администратора отклонён или команда завершилась с ошибкой.</value></data>
+  <data name="Policy_NotSet" xml:space="preserve"><value>не задана</value></data>
+  <data name="Policy_StateNow" xml:space="preserve"><value>Сейчас в системе: {0}</value></data>
+  <data name="Policy_StatePending" xml:space="preserve"><value>Записано: {0}; Windows Update пока использует: {1}</value></data>
+  <data name="Policy_Unapplied" xml:space="preserve"><value>Есть неприменённые изменения политик — нажмите «Применить».</value></data>
+  <data name="Policy_Warning" xml:space="preserve"><value>Эти настройки меняют политики Windows Update для всего компьютера. Они применяются кнопкой «Применить» или «ОК»: Windows запросит права администратора, а службы Windows Update будут перезапущены, чтобы подхватить изменения.</value></data>
+  <data name="Policy_WindowsUpdateSettings" xml:space="preserve"><value>Параметры Windows Update</value></data>
+  <data name="Reboots_ColumnBoot" xml:space="preserve"><value>Загрузка</value></data>
+  <data name="Reboots_ColumnBootType" xml:space="preserve"><value>Тип загрузки</value></data>
+  <data name="Reboots_ColumnConfidence" xml:space="preserve"><value>Уверенность</value></data>
+  <data name="Reboots_ColumnWhat" xml:space="preserve"><value>Что произошло</value></data>
+  <data name="Reboots_CopyTooltip" xml:space="preserve"><value>Скопировать подробности в буфер обмена</value></data>
+  <data name="Reboots_Evidence" xml:space="preserve"><value>События журнала, на которых основан вывод</value></data>
+  <data name="Reboots_InstalledUpdates" xml:space="preserve"><value>Установленные обновления</value></data>
+  <data name="Reboots_Notes" xml:space="preserve"><value>Обратите внимание</value></data>
+  <data name="Reboots_OnlyFullBoots" xml:space="preserve"><value>Только полные загрузки</value></data>
+  <data name="Reboots_OpenEvtx" xml:space="preserve"><value>Открыть журнал .evtx…</value></data>
+  <data name="Reboots_Period" xml:space="preserve"><value>Период</value></data>
+  <data name="Reboots_SelectHint" xml:space="preserve"><value>Выберите загрузку в списке</value></data>
+  <data name="Reboots_ThisComputer" xml:space="preserve"><value>Этот компьютер</value></data>
+  <data name="Search_Clear" xml:space="preserve"><value>Очистить</value></data>
+  <data name="Search_ClearAutomation" xml:space="preserve"><value>Очистить поиск</value></data>
+  <data name="Search_Placeholder" xml:space="preserve"><value>Поиск</value></data>
+  <data name="Service_Description" xml:space="preserve"><value>Следит за Windows Update и предупреждает программу RebootWhy, когда Windows собирается перезагрузить компьютер.</value></data>
+  <data name="Service_DisplayName" xml:space="preserve"><value>RebootWhy — наблюдение за перезагрузками</value></data>
+  <data name="Service_Hint" xml:space="preserve"><value>Служба следит за Windows Update постоянно, даже без входа в систему, и видит точное расписание Windows Update в Планировщике заданий. Установка и удаление требуют прав администратора.</value></data>
+  <data name="Service_Install" xml:space="preserve"><value>Установить</value></data>
+  <data name="Service_Installed" xml:space="preserve"><value>Служба установлена и запущена.</value></data>
+  <data name="Service_Installing" xml:space="preserve"><value>Устанавливаю службу — подтвердите запрос Windows…</value></data>
+  <data name="Service_Reinstall" xml:space="preserve"><value>Переустановить</value></data>
+  <data name="Service_Remove" xml:space="preserve"><value>Удалить</value></data>
+  <data name="Service_Removed" xml:space="preserve"><value>Служба удалена.</value></data>
+  <data name="Service_Removing" xml:space="preserve"><value>Удаляю службу — подтвердите запрос Windows…</value></data>
+  <data name="Service_Section" xml:space="preserve"><value>Служба RebootWhy</value></data>
+  <data name="Service_StateLabel" xml:space="preserve"><value>Состояние:</value></data>
+  <data name="Service_State_NotInstalled" xml:space="preserve"><value>не установлена</value></data>
+  <data name="Service_State_OtherFolder" xml:space="preserve"><value>{0} (запускается из другой папки: {1})</value></data>
+  <data name="Service_State_Running" xml:space="preserve"><value>работает</value></data>
+  <data name="Service_State_Starting" xml:space="preserve"><value>запускается</value></data>
+  <data name="Service_State_Stopped" xml:space="preserve"><value>остановлена</value></data>
+  <data name="Service_State_Stopping" xml:space="preserve"><value>останавливается</value></data>
+  <data name="Settings_About_OpenFolder" xml:space="preserve"><value>Открыть папку</value></data>
+  <data name="Settings_About_Program" xml:space="preserve"><value>Программа</value></data>
+  <data name="Settings_About_SettingsFile" xml:space="preserve"><value>Файл настроек</value></data>
+  <data name="Settings_About_Tagline" xml:space="preserve"><value>Время работы компьютера, причины перезагрузок и планы Windows Update.</value></data>
+  <data name="Settings_About_Version" xml:space="preserve"><value>Версия {0}</value></data>
+  <data name="Settings_AlertBefore" xml:space="preserve"><value>Окно поверх всех — ещё раз перед перезагрузкой</value></data>
+  <data name="Settings_AlertBefore_Hint" xml:space="preserve"><value>Когда до момента, с которого Windows может перезагрузить компьютер, осталось немного.</value></data>
+  <data name="Settings_AlertBefore_Prefix" xml:space="preserve"><value>Показывать</value></data>
+  <data name="Settings_AlertBefore_Suffix" xml:space="preserve"><value>до возможной перезагрузки</value></data>
+  <data name="Settings_AlertOnDetection" xml:space="preserve"><value>Окно поверх всех — сразу при обнаружении</value></data>
+  <data name="Settings_AlertOnDetection_Hint" xml:space="preserve"><value>Как только RebootWhy заметил, что Windows ждёт перезагрузки. В окне можно отложить напоминание.</value></data>
+  <data name="Settings_Alerts_Intro" xml:space="preserve"><value>Как RebootWhy сообщает, что Windows Update собирается перезагрузить компьютер.</value></data>
+  <data name="Settings_Apply" xml:space="preserve"><value>Применить</value></data>
+  <data name="Settings_Autostart" xml:space="preserve"><value>Запускать RebootWhy при входе в Windows</value></data>
+  <data name="Settings_Autostart_Hint" xml:space="preserve"><value>Значок появится в области уведомлений, окно не откроется. Без этого после перезагрузки предупреждений не будет, пока вы не запустите программу.</value></data>
+  <data name="Settings_Cancel" xml:space="preserve"><value>Отмена</value></data>
+  <data name="Settings_ElevationFailed" xml:space="preserve"><value>Не получилось: запрос администратора отклонён или команда завершилась с ошибкой.</value></data>
+  <data name="Settings_HowItWorks" xml:space="preserve"><value>Как это работает</value></data>
+  <data name="Settings_HowItWorks_1" xml:space="preserve"><value>• RebootWhy держит запрос «экран нужен» — так делают видеоплееры. Windows Update видит, что пользователь за компьютером, и откладывает перезагрузку.</value></data>
+  <data name="Settings_HowItWorks_2" xml:space="preserve"><value>• Пока ожидание не снято, экран не гаснет и компьютер не уходит в сон сам.</value></data>
+  <data name="Settings_HowItWorks_3" xml:space="preserve"><value>• Удержание работает, пока RebootWhy запущен (значок в области уведомлений).</value></data>
+  <data name="Settings_HowItWorks_4" xml:space="preserve"><value>• Ваши собственные действия RebootWhy не блокирует: «Перезагрузка» или «Завершение работы» из меню «Пуск» сработают как обычно.</value></data>
+  <data name="Settings_HowItWorks_5" xml:space="preserve"><value>• Надёжнее всего — перезагрузиться самому в удобный момент: тогда ожидание снимется.</value></data>
+  <data name="Settings_KeepActive" xml:space="preserve"><value>Удерживать компьютер от автоматической перезагрузки</value></data>
+  <data name="Settings_KeepActive_Hint" xml:space="preserve"><value>Пока Windows ждёт перезагрузки, RebootWhy показывает Windows, что вы за компьютером.</value></data>
+  <data name="Settings_Keywords_About" xml:space="preserve"><value>о программе версия папка</value></data>
+  <data name="Settings_Keywords_Alerts" xml:space="preserve"><value>уведомление окно поверх всех предупреждение пример отложить минут проверка реакции симуляция тест</value></data>
+  <data name="Settings_Keywords_Language" xml:space="preserve"><value>язык интерфейс английский русский украинский армянский перевод</value></data>
+  <data name="Settings_Keywords_Policies" xml:space="preserve"><value>политики windows update драйверы автоматические обновления активные часы перезагрузка вошедший пользователь</value></data>
+  <data name="Settings_Keywords_Protection" xml:space="preserve"><value>удержание экран нужен пользователь за компьютером защита перезагрузка</value></data>
+  <data name="Settings_Keywords_Sound" xml:space="preserve"><value>звук сигнал mp3 wav ogg файл мелодия</value></data>
+  <data name="Settings_Keywords_Startup" xml:space="preserve"><value>запуск автозапуск вход трей служба администратор</value></data>
+  <data name="Settings_Minutes_120" xml:space="preserve"><value>за 2 часа</value></data>
+  <data name="Settings_Minutes_15" xml:space="preserve"><value>за 15 минут</value></data>
+  <data name="Settings_Minutes_240" xml:space="preserve"><value>за 4 часа</value></data>
+  <data name="Settings_Minutes_30" xml:space="preserve"><value>за 30 минут</value></data>
+  <data name="Settings_Minutes_60" xml:space="preserve"><value>за час</value></data>
+  <data name="Settings_Notification" xml:space="preserve"><value>Уведомление Windows</value></data>
+  <data name="Settings_Notification_Hint" xml:space="preserve"><value>Всплывающее уведомление в углу экрана; остаётся в центре уведомлений.</value></data>
+  <data name="Settings_Ok" xml:space="preserve"><value>ОК</value></data>
+  <data name="Settings_Page_About" xml:space="preserve"><value>О программе</value></data>
+  <data name="Settings_Page_Alerts" xml:space="preserve"><value>Предупреждения</value></data>
+  <data name="Settings_Page_Language" xml:space="preserve"><value>Язык</value></data>
+  <data name="Settings_Page_Policies" xml:space="preserve"><value>Политики Windows Update</value></data>
+  <data name="Settings_Page_Protection" xml:space="preserve"><value>Удержание от перезагрузки</value></data>
+  <data name="Settings_Page_Sound" xml:space="preserve"><value>Звук</value></data>
+  <data name="Settings_Page_Startup" xml:space="preserve"><value>Запуск и служба</value></data>
+  <data name="Settings_ReactionTest" xml:space="preserve"><value>Проверка реакции</value></data>
+  <data name="Settings_ReactionTest_Hint" xml:space="preserve"><value>RebootWhy изобразит, что Windows запланировал перезагрузку через 3 минуты: подставленные записи журнала Windows Update пройдут через службу и сработают уведомление, звук, окно и удержание — как в реальной ситуации. В системе ничего не меняется, компьютер не перезагрузится; через 5 минут всё вернётся к обычному состоянию.</value></data>
+  <data name="Settings_Sample" xml:space="preserve"><value>Пример предупреждения</value></data>
+  <data name="Settings_Sample_Hint" xml:space="preserve"><value>Уведомление, звук и окно — с настройками на этой странице, даже ещё не сохранёнными. Реальное состояние не меняется.</value></data>
+  <data name="Settings_Saved" xml:space="preserve"><value>Настройки сохранены.</value></data>
+  <data name="Settings_SearchPlaceholder" xml:space="preserve"><value>Поиск настроек</value></data>
+  <data name="Settings_ShowSample" xml:space="preserve"><value>Показать пример</value></data>
+  <data name="Settings_StartTest" xml:space="preserve"><value>Запустить проверку</value></data>
+  <data name="Settings_StopTest" xml:space="preserve"><value>Остановить проверку</value></data>
+  <data name="Settings_TestFailed" xml:space="preserve"><value>Не удалось запустить проверку: наблюдение ещё не готово, попробуйте через несколько секунд.</value></data>
+  <data name="Settings_TestStarted" xml:space="preserve"><value>Проверка запущена: через несколько секунд сработают предупреждения. Компьютер не перезагрузится; через 5 минут всё вернётся к обычному состоянию.</value></data>
+  <data name="Settings_WindowTitle" xml:space="preserve"><value>Настройки — RebootWhy</value></data>
+  <data name="Sound_ChooseFile" xml:space="preserve"><value>Выбрать файл…</value></data>
+  <data name="Sound_DialogTitle" xml:space="preserve"><value>Звук предупреждения о перезагрузке</value></data>
+  <data name="Sound_FileFilter" xml:space="preserve"><value>Звуковые файлы (*.mp3;*.wav;*.ogg)|*.mp3;*.wav;*.ogg</value></data>
+  <data name="Sound_Formats" xml:space="preserve"><value>Поддерживаются файлы mp3, wav и ogg.</value></data>
+  <data name="Sound_Listen" xml:space="preserve"><value>Прослушать</value></data>
+  <data name="Sound_NoFile" xml:space="preserve"><value>Файл не выбран</value></data>
+  <data name="Sound_PlaybackFailed" xml:space="preserve"><value>Файл не воспроизвёлся, звучит системный звук: {0}</value></data>
+  <data name="Sound_Reset" xml:space="preserve"><value>Сбросить</value></data>
+  <data name="Sound_Signal" xml:space="preserve"><value>Звуковой сигнал</value></data>
+  <data name="Sound_Signal_Hint" xml:space="preserve"><value>Звучит, когда RebootWhy обнаружил ожидание перезагрузки и когда открывается окно предупреждения.</value></data>
+  <data name="Sound_Stop" xml:space="preserve"><value>Остановить</value></data>
+  <data name="Sound_System" xml:space="preserve"><value>Системный звук Windows</value></data>
+  <data name="Tray_CheckNow" xml:space="preserve"><value>Проверить Windows Update сейчас</value></data>
+  <data name="Tray_Exit" xml:space="preserve"><value>Выход</value></data>
+  <data name="Tray_ExitAndStopService" xml:space="preserve"><value>Выход и остановка службы</value></data>
+  <data name="Tray_Open" xml:space="preserve"><value>Открыть RebootWhy</value></data>
+  <data name="Tray_Settings" xml:space="preserve"><value>Настройки…</value></data>
+  <data name="Tray_StopSound" xml:space="preserve"><value>Остановить звук предупреждения</value></data>
+  <data name="Tray_TestReaction" xml:space="preserve"><value>Проверить реакцию на перезагрузку</value></data>
+  <data name="Tray_TipChecking" xml:space="preserve"><value>RebootWhy: проверяю Windows Update…</value></data>
+  <data name="Tray_TipHoldOn" xml:space="preserve"><value> · удержание включено</value></data>
+  <data name="Tray_TipNone" xml:space="preserve"><value>RebootWhy: перезагрузка для обновлений не ожидается</value></data>
+  <data name="Tray_TipPending" xml:space="preserve"><value>RebootWhy: Windows ждёт перезагрузки</value></data>
+  <data name="Tray_TipPendingTest" xml:space="preserve"><value>RebootWhy: проверка — Windows ждёт перезагрузки</value></data>
+  <data name="Updates_ColumnDate" xml:space="preserve"><value>Дата</value></data>
+  <data name="Updates_ColumnResult" xml:space="preserve"><value>Результат</value></data>
+  <data name="Updates_ColumnType" xml:space="preserve"><value>Тип</value></data>
+  <data name="Updates_ColumnUpdate" xml:space="preserve"><value>Обновление</value></data>
+  <data name="Updates_CopyTooltip" xml:space="preserve"><value>Скопировать сведения об обновлении в буфер обмена</value></data>
+  <data name="Updates_Description" xml:space="preserve"><value>Описание</value></data>
+  <data name="Updates_GroupHistory" xml:space="preserve"><value>Журнал установки</value></data>
+  <data name="Updates_GroupPending" xml:space="preserve"><value>Ждут установки или перезагрузки</value></data>
+  <data name="Updates_KindDefender" xml:space="preserve"><value>Защитник Windows</value></data>
+  <data name="Updates_KindDefinitions" xml:space="preserve"><value>Базы антивируса</value></data>
+  <data name="Updates_KindDriver" xml:space="preserve"><value>Драйвер</value></data>
+  <data name="Updates_KindGeneric" xml:space="preserve"><value>Обновление</value></data>
+  <data name="Updates_KindMsrt" xml:space="preserve"><value>Средство MSRT</value></data>
+  <data name="Updates_KindStoreApp" xml:space="preserve"><value>Приложение Store</value></data>
+  <data name="Updates_KindWindows" xml:space="preserve"><value>Обновление Windows</value></data>
+  <data name="Updates_NotLoaded" xml:space="preserve"><value>Журнал обновлений ещё не загружен</value></data>
+  <data name="Updates_OnlyImportant" xml:space="preserve"><value>Только Windows и драйверы</value></data>
+  <data name="Updates_OnlyImportantTooltip" xml:space="preserve"><value>Скрыть базы антивируса Microsoft Defender и обновления приложений Microsoft Store</value></data>
+  <data name="Updates_OnlyReboot" xml:space="preserve"><value>Только с перезагрузкой</value></data>
+  <data name="Updates_OnlyRebootTooltip" xml:space="preserve"><value>Обновления, установка которых потребует или может потребовать перезагрузки компьютера</value></data>
+  <data name="Updates_PendingSince" xml:space="preserve"><value>с {0}</value></data>
+  <data name="Updates_Reading" xml:space="preserve"><value>Читаю журнал Windows Update…</value></data>
+  <data name="Updates_RebootAlways" xml:space="preserve"><value>Потребует</value></data>
+  <data name="Updates_RebootAlwaysHint" xml:space="preserve"><value>Установка этого обновления потребует перезагрузки компьютера</value></data>
+  <data name="Updates_RebootMaybe" xml:space="preserve"><value>Может потребовать</value></data>
+  <data name="Updates_RebootMaybeHint" xml:space="preserve"><value>Перезагрузка может понадобиться — Windows решит это во время установки (например, если драйвер занят)</value></data>
+  <data name="Updates_RebootNever" xml:space="preserve"><value>Не потребует</value></data>
+  <data name="Updates_RebootNeverHint" xml:space="preserve"><value>Устанавливается без перезагрузки</value></data>
+  <data name="Updates_SearchPlaceholder" xml:space="preserve"><value>Поиск по названию, KB, описанию…</value></data>
+  <data name="Updates_SelectHint" xml:space="preserve"><value>Выберите обновление в списке</value></data>
+  <data name="Updates_StateDownloaded" xml:space="preserve"><value>Загружено</value></data>
+  <data name="Updates_StateNotDownloaded" xml:space="preserve"><value>Не загружено</value></data>
+  <data name="Updates_StateWaitsForReboot" xml:space="preserve"><value>Ждёт перезагрузки</value></data>
+  <data name="Updates_StatusCached" xml:space="preserve"><value>сохранённые данные от {0}</value></data>
+  <data name="Updates_StatusFound" xml:space="preserve"><value>Найдено: {0}</value></data>
+  <data name="Updates_StatusJournal" xml:space="preserve"><value>установок в журнале: {0} · ждут установки: {1}</value></data>
+  <data name="Updates_StatusNeedReboot" xml:space="preserve"><value>(с перезагрузкой: {0})</value></data>
+  <data name="Updates_StatusRefreshedAt" xml:space="preserve"><value>обновлено в {0}</value></data>
+  <data name="Updates_StatusRefreshing" xml:space="preserve"><value>обновляю…</value></data>
+  <data name="Updates_WindowsUpdateFailed" xml:space="preserve"><value>Windows Update не ответил: {0}</value></data>
+</root>

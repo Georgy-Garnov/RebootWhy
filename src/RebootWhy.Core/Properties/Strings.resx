@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="AvailableState_Downloaded" xml:space="preserve"><value>downloaded, waiting to be installed</value></data>
+  <data name="AvailableState_Known" xml:space="preserve"><value>known to Windows, not downloaded</value></data>
+  <data name="AvailableState_WaitsForReboot" xml:space="preserve"><value>installed, waiting for a restart</value></data>
+  <data name="BootType_Cold" xml:space="preserve"><value>Full boot</value></data>
+  <data name="BootType_FastStartup" xml:space="preserve"><value>Fast startup</value></data>
+  <data name="BootType_HibernateResume" xml:space="preserve"><value>Resume from hibernation</value></data>
+  <data name="BootType_Unknown" xml:space="preserve"><value>Unknown boot type</value></data>
+  <data name="Bugcheck_0A" xml:space="preserve"><value>A driver accessed memory at an invalid IRQL — usually a driver bug.</value></data>
+  <data name="Bugcheck_101" xml:space="preserve"><value>A processor core stopped responding — CPU, overclocking or BIOS.</value></data>
+  <data name="Bugcheck_109" xml:space="preserve"><value>Critical kernel structures are corrupted — a driver or RAM.</value></data>
+  <data name="Bugcheck_10E" xml:space="preserve"><value>Internal video driver memory management error.</value></data>
+  <data name="Bugcheck_116" xml:space="preserve"><value>The video driver failed to recover after hanging.</value></data>
+  <data name="Bugcheck_117" xml:space="preserve"><value>The video driver stopped responding.</value></data>
+  <data name="Bugcheck_119" xml:space="preserve"><value>Internal video scheduler error.</value></data>
+  <data name="Bugcheck_124" xml:space="preserve"><value>Uncorrectable hardware error: CPU, memory, power or overheating.</value></data>
+  <data name="Bugcheck_133" xml:space="preserve"><value>A driver took too long — often an SSD, network or video driver.</value></data>
+  <data name="Bugcheck_139" xml:space="preserve"><value>The kernel detected data corruption — a driver or RAM.</value></data>
+  <data name="Bugcheck_13A" xml:space="preserve"><value>The kernel-mode heap is corrupted — usually a driver.</value></data>
+  <data name="Bugcheck_154" xml:space="preserve"><value>Memory store error — often a disk problem.</value></data>
+  <data name="Bugcheck_19" xml:space="preserve"><value>The kernel memory pool is corrupted — a driver or RAM.</value></data>
+  <data name="Bugcheck_1A" xml:space="preserve"><value>Memory management error — check RAM and drivers.</value></data>
+  <data name="Bugcheck_1C8" xml:space="preserve"><value>The power button was held while the system was not responding.</value></data>
+  <data name="Bugcheck_1E" xml:space="preserve"><value>Unhandled exception in kernel mode — usually a driver.</value></data>
+  <data name="Bugcheck_24" xml:space="preserve"><value>NTFS file system error — check the disk.</value></data>
+  <data name="Bugcheck_3B" xml:space="preserve"><value>Exception while executing a system call — usually a driver.</value></data>
+  <data name="Bugcheck_4E" xml:space="preserve"><value>The page frame list is corrupted — a driver or RAM.</value></data>
+  <data name="Bugcheck_50" xml:space="preserve"><value>Access to non-existent memory — a driver, RAM or antivirus.</value></data>
+  <data name="Bugcheck_77" xml:space="preserve"><value>Kernel stack could not be read from the page file — check the disk.</value></data>
+  <data name="Bugcheck_7A" xml:space="preserve"><value>Kernel data could not be read from the page file — check the disk.</value></data>
+  <data name="Bugcheck_7B" xml:space="preserve"><value>The system lost access to the boot disk.</value></data>
+  <data name="Bugcheck_7E" xml:space="preserve"><value>Unhandled exception in a system thread — usually a driver.</value></data>
+  <data name="Bugcheck_7F" xml:space="preserve"><value>Hardware trap in kernel mode — a driver or hardware.</value></data>
+  <data name="Bugcheck_9C" xml:space="preserve"><value>Processor hardware error.</value></data>
+  <data name="Bugcheck_9F" xml:space="preserve"><value>A driver failed to handle a power state change (often when going to or resuming from sleep).</value></data>
+  <data name="Bugcheck_A0" xml:space="preserve"><value>Internal power manager error.</value></data>
+  <data name="Bugcheck_BE" xml:space="preserve"><value>A driver tried to write to read-only memory.</value></data>
+  <data name="Bugcheck_C2" xml:space="preserve"><value>Invalid memory pool operation — usually a driver.</value></data>
+  <data name="Bugcheck_C5" xml:space="preserve"><value>A driver corrupted the memory pool.</value></data>
+  <data name="Bugcheck_CodeOnly" xml:space="preserve"><value>Code 0x{0:X}</value></data>
+  <data name="Bugcheck_CodeWithHint" xml:space="preserve"><value>Code 0x{0:X}. {1}</value></data>
+  <data name="Bugcheck_D1" xml:space="preserve"><value>A driver accessed memory at an invalid IRQL.</value></data>
+  <data name="Bugcheck_E2" xml:space="preserve"><value>The crash was triggered manually — from the keyboard or a debugger.</value></data>
+  <data name="Bugcheck_EA" xml:space="preserve"><value>A thread got stuck in a device driver — often the video driver.</value></data>
+  <data name="Bugcheck_EF" xml:space="preserve"><value>A critical system process terminated unexpectedly.</value></data>
+  <data name="Bugcheck_F4" xml:space="preserve"><value>A critical process or thread terminated.</value></data>
+  <data name="Bugcheck_FC" xml:space="preserve"><value>Attempt to execute code from non-executable memory — a driver.</value></data>
+  <data name="Bugcheck_NotRecorded" xml:space="preserve"><value>code not recorded</value></data>
+  <data name="Confidence_High" xml:space="preserve"><value>high</value></data>
+  <data name="Confidence_Low" xml:space="preserve"><value>low</value></data>
+  <data name="Confidence_Medium" xml:space="preserve"><value>medium</value></data>
+  <data name="Copy_Description" xml:space="preserve"><value>Description</value></data>
+  <data name="Copy_Evidence" xml:space="preserve"><value>Log events this conclusion is based on</value></data>
+  <data name="Copy_InstalledUpdates" xml:space="preserve"><value>Installed updates</value></data>
+  <data name="Copy_Notes" xml:space="preserve"><value>Notes</value></data>
+  <data name="Duration_Days" xml:space="preserve"><value>{0} d</value></data>
+  <data name="Duration_Hours" xml:space="preserve"><value>{0} h</value></data>
+  <data name="Duration_LessThanMinute" xml:space="preserve"><value>less than a minute</value></data>
+  <data name="Duration_Minutes" xml:space="preserve"><value>{0} min</value></data>
+  <data name="Event_BlueScreen" xml:space="preserve"><value>Blue screen: {0}</value></data>
+  <data name="Event_BootType" xml:space="preserve"><value>Boot type: {0}</value></data>
+  <data name="Event_HardwareErrorCorrected" xml:space="preserve"><value>Corrected hardware error</value></data>
+  <data name="Event_HardwareErrorCritical" xml:space="preserve"><value>Critical hardware error</value></data>
+  <data name="Event_LogCleared" xml:space="preserve"><value>Log cleared</value></data>
+  <data name="Event_LogStarted" xml:space="preserve"><value>Event log service started</value></data>
+  <data name="Event_LogStopped" xml:space="preserve"><value>Event log service stopped cleanly</value></data>
+  <data name="Event_OsStarted" xml:space="preserve"><value>Operating system started</value></data>
+  <data name="Event_OsStopped" xml:space="preserve"><value>Operating system shut down</value></data>
+  <data name="Event_PowerButtonPressed" xml:space="preserve"><value>, the power button was pressed</value></data>
+  <data name="Event_Requested" xml:space="preserve"><value>{0} requested {1}</value></data>
+  <data name="Event_RequestedOnBehalf" xml:space="preserve"><value>{0} requested {1} on behalf of {2}</value></data>
+  <data name="Event_ShutdownTransition" xml:space="preserve"><value>Power manager started a shutdown</value></data>
+  <data name="Event_UncleanReboot" xml:space="preserve"><value>Rebooted without a clean shutdown</value></data>
+  <data name="Event_UncleanRebootCode" xml:space="preserve"><value>Rebooted without a clean shutdown, error code 0x{0:X}</value></data>
+  <data name="Event_UnexpectedShutdown" xml:space="preserve"><value>The previous shutdown was unexpected</value></data>
+  <data name="Event_UpdateInstalled" xml:space="preserve"><value>Update installed: {0}</value></data>
+  <data name="Fact_Boot" xml:space="preserve"><value>Boot</value></data>
+  <data name="Fact_Confidence" xml:space="preserve"><value>Confidence</value></data>
+  <data name="Fact_Details" xml:space="preserve"><value>Details</value></data>
+  <data name="Fact_Initiator" xml:space="preserve"><value>Initiator</value></data>
+  <data name="Fact_Shutdown" xml:space="preserve"><value>Shutdown</value></data>
+  <data name="Fact_User" xml:space="preserve"><value>User</value></data>
+  <data name="ForecastEvidence_Task" xml:space="preserve"><value>Task "{0}" is scheduled for {1}</value></data>
+  <data name="ForecastEvidence_Waiting" xml:space="preserve"><value>Waiting for a restart since {0}: {1}</value></data>
+  <data name="ForecastEvidence_WaitingNoTime" xml:space="preserve"><value>Waiting for a restart: {0}</value></data>
+  <data name="ForecastNote_ActiveHours" xml:space="preserve"><value>Active hours: {0}:00–{1}:00. Outside them Windows may restart the computer on its own.</value></data>
+  <data name="ForecastNote_ApprovedEarlier" xml:space="preserve"><value>"{0}": at {1} Windows allowed the installation, treating the update as already approved by you — there will be no separate question.</value></data>
+  <data name="ForecastNote_DeferredWhileActive" xml:space="preserve"><value>At {0} Windows postponed the restart because you were using the computer. The restart becomes possible once you stop using the keyboard and mouse.</value></data>
+  <data name="ForecastNote_NoAutoRebootPolicy" xml:space="preserve"><value>The "no automatic restart with logged-on users" policy is enabled. It should prevent an automatic restart, but this has not been verified in practice.</value></data>
+  <data name="ForecastNote_Overdue" xml:space="preserve"><value>"{0}" is marked as overdue — Windows will push harder to install it.</value></data>
+  <data name="ForecastNote_RebootRequired" xml:space="preserve"><value>Windows Update reports that a restart is needed to finish installation.</value></data>
+  <data name="ForecastNote_SampleNotice" xml:space="preserve"><value>This is a sample: no real restart is scheduled, the data is made up.</value></data>
+  <data name="ForecastNote_SampleReason" xml:space="preserve"><value>Here you will see why Windows decided to restart — for example, that the installation is treated as approved earlier.</value></data>
+  <data name="ForecastNote_ServicingPending" xml:space="preserve"><value>Windows components are waiting for a restart to finish servicing (Component Based Servicing).</value></data>
+  <data name="ForecastNote_Simulation" xml:space="preserve"><value>This is a RebootWhy reaction test: the Windows Update log entries were substituted by the program. No real restart is scheduled and none will happen. The test ends at {0}.</value></data>
+  <data name="Forecast_Failed" xml:space="preserve"><value>Could not analyze Windows Update</value></data>
+  <data name="Forecast_Imminent" xml:space="preserve"><value>Windows may restart the computer within the hour (around {0}) {1}</value></data>
+  <data name="Forecast_None" xml:space="preserve"><value>No restart for updates is expected</value></data>
+  <data name="Forecast_Planned" xml:space="preserve"><value>Windows is waiting for a restart {0}. Not before {1}</value></data>
+  <data name="Forecast_Sample" xml:space="preserve"><value>This is how RebootWhy will tell you that Windows is about to restart the computer to install an update.</value></data>
+  <data name="Forecast_SimulationPrefix" xml:space="preserve"><value>Test: </value></data>
+  <data name="Forecast_What_Many" xml:space="preserve"><value>to install "{0}" and {1} more</value></data>
+  <data name="Forecast_What_None" xml:space="preserve"><value>to finish installing updates</value></data>
+  <data name="Forecast_What_One" xml:space="preserve"><value>to install "{0}"</value></data>
+  <data name="Format_Date" xml:space="preserve"><value>yyyy-MM-dd</value></data>
+  <data name="Format_DateTime" xml:space="preserve"><value>yyyy-MM-dd HH:mm</value></data>
+  <data name="Format_DateTimeSeconds" xml:space="preserve"><value>yyyy-MM-dd HH:mm:ss</value></data>
+  <data name="Format_ShortDateTime" xml:space="preserve"><value>MMM d, HH:mm</value></data>
+  <data name="Initiator_AutomaticUpdates" xml:space="preserve"><value>Automatic Updates</value></data>
+  <data name="Initiator_NotSpecified" xml:space="preserve"><value>not specified</value></data>
+  <data name="Initiator_WindowsUpdate" xml:space="preserve"><value>Windows Update (automatic)</value></data>
+  <data name="KindObject_PowerOff" xml:space="preserve"><value>a shutdown</value></data>
+  <data name="KindObject_Restart" xml:space="preserve"><value>a restart</value></data>
+  <data name="KindObject_Unknown" xml:space="preserve"><value>a restart or shutdown</value></data>
+  <data name="Kind_PowerOff" xml:space="preserve"><value>Shutdown</value></data>
+  <data name="Kind_Restart" xml:space="preserve"><value>Restart</value></data>
+  <data name="Kind_Unknown" xml:space="preserve"><value>Restart or shutdown</value></data>
+  <data name="Note_CleanShutdownHint" xml:space="preserve"><value>This happens, for example, after a short press of the power button or a critically low battery.</value></data>
+  <data name="Note_Comment" xml:space="preserve"><value>Comment: {0}</value></data>
+  <data name="Note_DumpPath" xml:space="preserve"><value>Memory dump: {0}</value></data>
+  <data name="Note_EarliestBoot" xml:space="preserve"><value>This is the earliest boot in the examined part of the log — events before it were not kept or are outside the period.</value></data>
+  <data name="Note_FastStartup" xml:space="preserve"><value>Power-on after "Shut down" with Fast Startup: the Windows kernel was not restarted.</value></data>
+  <data name="Note_LogCleared" xml:space="preserve"><value>The System log was cleared during this period — some events may be missing.</value></data>
+  <data name="Note_NoShutdownRecord" xml:space="preserve"><value>The log has no record of how the previous session ended.</value></data>
+  <data name="Note_RequestBeforeCrash" xml:space="preserve"><value>{0} requested {1} before the crash, but Windows did not shut down cleanly.</value></data>
+  <data name="Note_ShutdownHung" xml:space="preserve"><value>Shutdown started cleanly but did not finish — the system hung at the last stage.</value></data>
+  <data name="Note_Whea" xml:space="preserve"><value>Hardware errors (WHEA) were logged: {0} (critical: {1}).</value></data>
+  <data name="Note_WheaLikelyCause" xml:space="preserve"><value> A hardware cause of the crash is likely.</value></data>
+  <data name="Problem_CannotRead" xml:space="preserve"><value>Could not read {0}: {1}</value></data>
+  <data name="Problem_NoUsoFolder" xml:space="preserve"><value>Update Orchestrator log folder not found: {0}</value></data>
+  <data name="Problem_WindowsUpdateSilent" xml:space="preserve"><value>Windows Update did not say whether a restart is needed: {0}</value></data>
+  <data name="ReasonMajor_0" xml:space="preserve"><value>other</value></data>
+  <data name="ReasonMajor_1" xml:space="preserve"><value>hardware</value></data>
+  <data name="ReasonMajor_2" xml:space="preserve"><value>operating system</value></data>
+  <data name="ReasonMajor_3" xml:space="preserve"><value>software</value></data>
+  <data name="ReasonMajor_4" xml:space="preserve"><value>application</value></data>
+  <data name="ReasonMajor_5" xml:space="preserve"><value>system</value></data>
+  <data name="ReasonMajor_6" xml:space="preserve"><value>power</value></data>
+  <data name="ReasonMajor_7" xml:space="preserve"><value>legacy API</value></data>
+  <data name="ReasonMajor_Other" xml:space="preserve"><value>category 0x{0:X}</value></data>
+  <data name="ReasonMinor_00" xml:space="preserve"><value>other</value></data>
+  <data name="ReasonMinor_01" xml:space="preserve"><value>maintenance</value></data>
+  <data name="ReasonMinor_02" xml:space="preserve"><value>installation</value></data>
+  <data name="ReasonMinor_03" xml:space="preserve"><value>upgrade</value></data>
+  <data name="ReasonMinor_04" xml:space="preserve"><value>reconfiguration</value></data>
+  <data name="ReasonMinor_05" xml:space="preserve"><value>hung</value></data>
+  <data name="ReasonMinor_06" xml:space="preserve"><value>unstable</value></data>
+  <data name="ReasonMinor_07" xml:space="preserve"><value>disk</value></data>
+  <data name="ReasonMinor_08" xml:space="preserve"><value>processor</value></data>
+  <data name="ReasonMinor_09" xml:space="preserve"><value>network card</value></data>
+  <data name="ReasonMinor_0A" xml:space="preserve"><value>power supply</value></data>
+  <data name="ReasonMinor_0B" xml:space="preserve"><value>power cord unplugged</value></data>
+  <data name="ReasonMinor_0C" xml:space="preserve"><value>environment</value></data>
+  <data name="ReasonMinor_0D" xml:space="preserve"><value>hardware driver</value></data>
+  <data name="ReasonMinor_0E" xml:space="preserve"><value>other driver</value></data>
+  <data name="ReasonMinor_0F" xml:space="preserve"><value>blue screen</value></data>
+  <data name="ReasonMinor_10" xml:space="preserve"><value>service pack</value></data>
+  <data name="ReasonMinor_11" xml:space="preserve"><value>hotfix</value></data>
+  <data name="ReasonMinor_12" xml:space="preserve"><value>security fix</value></data>
+  <data name="ReasonMinor_13" xml:space="preserve"><value>security</value></data>
+  <data name="ReasonMinor_14" xml:space="preserve"><value>network connectivity</value></data>
+  <data name="ReasonMinor_15" xml:space="preserve"><value>WMI</value></data>
+  <data name="ReasonMinor_16" xml:space="preserve"><value>service pack uninstall</value></data>
+  <data name="ReasonMinor_17" xml:space="preserve"><value>hotfix uninstall</value></data>
+  <data name="ReasonMinor_18" xml:space="preserve"><value>security fix uninstall</value></data>
+  <data name="ReasonMinor_19" xml:space="preserve"><value>MMC</value></data>
+  <data name="ReasonMinor_1A" xml:space="preserve"><value>system restore</value></data>
+  <data name="ReasonMinor_20" xml:space="preserve"><value>terminal services</value></data>
+  <data name="ReasonMinor_21" xml:space="preserve"><value>domain controller promotion</value></data>
+  <data name="ReasonMinor_22" xml:space="preserve"><value>domain controller demotion</value></data>
+  <data name="ReasonMinor_FF" xml:space="preserve"><value>not specified</value></data>
+  <data name="ReasonMinor_Other" xml:space="preserve"><value>subcategory 0x{0:X}</value></data>
+  <data name="Reason_Format" xml:space="preserve"><value>{0}: {1} — {2} (0x{3:X})</value></data>
+  <data name="Reason_Planned" xml:space="preserve"><value>Planned</value></data>
+  <data name="Reason_Unplanned" xml:space="preserve"><value>Unplanned</value></data>
+  <data name="RebootBehavior_Always" xml:space="preserve"><value>will require a restart</value></data>
+  <data name="RebootBehavior_Maybe" xml:space="preserve"><value>may require a restart</value></data>
+  <data name="RebootBehavior_Never" xml:space="preserve"><value>no restart needed</value></data>
+  <data name="Simulation_UpdateTitle" xml:space="preserve"><value>RebootWhy test update (driver)</value></data>
+  <data name="Title_Application" xml:space="preserve"><value>{0} requested by {1}</value></data>
+  <data name="Title_BlueScreen" xml:space="preserve"><value>Blue screen (BSOD): {0}</value></data>
+  <data name="Title_CleanShutdown" xml:space="preserve"><value>Clean shutdown, initiator not recorded</value></data>
+  <data name="Title_Command" xml:space="preserve"><value>{0} by the command {1}</value></data>
+  <data name="Title_Hibernation" xml:space="preserve"><value>Resume from hibernation</value></data>
+  <data name="Title_Installer" xml:space="preserve"><value>{0} requested by the installer {1}</value></data>
+  <data name="Title_PowerButtonBugcheck" xml:space="preserve"><value>Forced shutdown: the power button was held while the system was not responding</value></data>
+  <data name="Title_PowerButtonHold" xml:space="preserve"><value>Forced shutdown by holding the power button</value></data>
+  <data name="Title_PowerLoss" xml:space="preserve"><value>Sudden shutdown: power loss, system hang or Reset button</value></data>
+  <data name="Title_SleepFailure" xml:space="preserve"><value>Failure while entering or resuming from sleep</value></data>
+  <data name="Title_Unknown" xml:space="preserve"><value>Cause not determined</value></data>
+  <data name="Title_User" xml:space="preserve"><value>{0} by the user</value></data>
+  <data name="Title_WindowsUpdate" xml:space="preserve"><value>{0} to install Windows updates</value></data>
+  <data name="Title_WindowsUpdateByUser" xml:space="preserve"><value>{0} by the user to install Windows updates</value></data>
+  <data name="Title_WindowsUpdateGuess" xml:space="preserve"><value>{0} to install Windows updates (initiated by {1})</value></data>
+  <data name="UnknownProcess" xml:space="preserve"><value>unknown process</value></data>
+  <data name="UntitledUpdate" xml:space="preserve"><value>untitled update</value></data>
+  <data name="UpdateError_80070002" xml:space="preserve"><value>file not found</value></data>
+  <data name="UpdateError_80070005" xml:space="preserve"><value>access denied</value></data>
+  <data name="UpdateError_80070643" xml:space="preserve"><value>installer error</value></data>
+  <data name="UpdateError_80073712" xml:space="preserve"><value>the Windows component store is corrupted</value></data>
+  <data name="UpdateError_800F081F" xml:space="preserve"><value>component source files not found</value></data>
+  <data name="UpdateError_800F0922" xml:space="preserve"><value>Windows servicing error (often too little space in the recovery partition)</value></data>
+  <data name="UpdateError_80240016" xml:space="preserve"><value>another installation is in progress</value></data>
+  <data name="UpdateError_80240017" xml:space="preserve"><value>the update does not apply to this computer</value></data>
+  <data name="UpdateError_8024001E" xml:space="preserve"><value>operation aborted: the service stopped</value></data>
+  <data name="UpdateError_80240022" xml:space="preserve"><value>none of the updates could be installed</value></data>
+  <data name="UpdateError_8024200D" xml:space="preserve"><value>the update needs to be downloaded again</value></data>
+  <data name="UpdateError_80242016" xml:space="preserve"><value>after the restart the installation was in an unexpected state</value></data>
+  <data name="UpdateError_8024402C" xml:space="preserve"><value>no connection to the update server</value></data>
+  <data name="UpdateError_80246007" xml:space="preserve"><value>the update was not downloaded</value></data>
+  <data name="UpdateError_WithText" xml:space="preserve"><value>0x{0:X8} — {1}</value></data>
+  <data name="UpdateFact_Article" xml:space="preserve"><value>Article</value></data>
+  <data name="UpdateFact_Category" xml:space="preserve"><value>Category</value></data>
+  <data name="UpdateFact_Date" xml:space="preserve"><value>Date</value></data>
+  <data name="UpdateFact_ErrorCode" xml:space="preserve"><value>Error code</value></data>
+  <data name="UpdateFact_Identifier" xml:space="preserve"><value>Identifier</value></data>
+  <data name="UpdateFact_IdentifierValue" xml:space="preserve"><value>{0} (revision {1})</value></data>
+  <data name="UpdateFact_Initiator" xml:space="preserve"><value>Initiator</value></data>
+  <data name="UpdateFact_MoreInfo" xml:space="preserve"><value>More info</value></data>
+  <data name="UpdateFact_Published" xml:space="preserve"><value>Published</value></data>
+  <data name="UpdateFact_Restart" xml:space="preserve"><value>Restart</value></data>
+  <data name="UpdateFact_Result" xml:space="preserve"><value>Result</value></data>
+  <data name="UpdateFact_ResultValue" xml:space="preserve"><value>{0} ({1})</value></data>
+  <data name="UpdateFact_Severity" xml:space="preserve"><value>Severity</value></data>
+  <data name="UpdateFact_State" xml:space="preserve"><value>State</value></data>
+  <data name="UpdateFact_Type" xml:space="preserve"><value>Type</value></data>
+  <data name="UpdateOperation_Installation" xml:space="preserve"><value>installation</value></data>
+  <data name="UpdateOperation_Other" xml:space="preserve"><value>operation</value></data>
+  <data name="UpdateOperation_Uninstallation" xml:space="preserve"><value>removal</value></data>
+  <data name="UpdateResult_Aborted" xml:space="preserve"><value>Aborted</value></data>
+  <data name="UpdateResult_Failed" xml:space="preserve"><value>Failed</value></data>
+  <data name="UpdateResult_InProgress" xml:space="preserve"><value>Installing</value></data>
+  <data name="UpdateResult_NotStarted" xml:space="preserve"><value>Not started</value></data>
+  <data name="UpdateResult_Succeeded" xml:space="preserve"><value>Installed</value></data>
+  <data name="UpdateResult_SucceededWithErrors" xml:space="preserve"><value>Installed with errors</value></data>
+  <data name="UpdateType_Driver" xml:space="preserve"><value>driver</value></data>
+  <data name="UpdateType_Feature" xml:space="preserve"><value>Windows feature update</value></data>
+  <data name="UpdateType_Generic" xml:space="preserve"><value>update</value></data>
+  <data name="UpdateType_Quality" xml:space="preserve"><value>cumulative update</value></data>
+  <data name="UpdateType_Software" xml:space="preserve"><value>software update</value></data>
+  <data name="UpdateWithId" xml:space="preserve"><value>update {0}</value></data>
+</root>

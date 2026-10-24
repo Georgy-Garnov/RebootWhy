@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Alert_NotifyTitle" xml:space="preserve"><value>Windows is about to restart the computer</value></data>
+  <data name="Alert_NotifyTitleTest" xml:space="preserve"><value>Test: Windows is about to restart the computer</value></data>
+  <data name="Alert_PresenceReason" xml:space="preserve"><value>RebootWhy: Windows Update is waiting for a restart — telling Windows that the user is at the computer</value></data>
+  <data name="Alert_SampleText" xml:space="preserve"><value>This is how the notification will look when Windows is about to restart the computer.</value></data>
+  <data name="Alert_SampleTitle" xml:space="preserve"><value>RebootWhy sample alert</value></data>
+  <data name="ForecastWin_BadgeSample" xml:space="preserve"><value>SAMPLE</value></data>
+  <data name="ForecastWin_BadgeTest" xml:space="preserve"><value>TEST</value></data>
+  <data name="ForecastWin_CheckAgain" xml:space="preserve"><value>Check again</value></data>
+  <data name="ForecastWin_CheckedAt" xml:space="preserve"><value>Checked at {0}</value></data>
+  <data name="ForecastWin_Checking" xml:space="preserve"><value>Checking…</value></data>
+  <data name="ForecastWin_CloseSample" xml:space="preserve"><value>Close sample</value></data>
+  <data name="ForecastWin_EnableProtection" xml:space="preserve"><value>Turn on hold</value></data>
+  <data name="ForecastWin_EvidenceSection" xml:space="preserve"><value>What this conclusion is based on</value></data>
+  <data name="ForecastWin_GotIt" xml:space="preserve"><value>Got it</value></data>
+  <data name="ForecastWin_HeaderAlert" xml:space="preserve"><value>Windows is about to restart the computer</value></data>
+  <data name="ForecastWin_HeaderNone" xml:space="preserve"><value>No restart for updates is expected</value></data>
+  <data name="ForecastWin_HeaderPending" xml:space="preserve"><value>Windows is waiting for a restart</value></data>
+  <data name="ForecastWin_HeaderSample" xml:space="preserve"><value>Sample restart alert</value></data>
+  <data name="ForecastWin_HeaderTestPrefix" xml:space="preserve"><value>Reaction test: </value></data>
+  <data name="ForecastWin_NextWork" xml:space="preserve"><value>Next scheduled Windows Update run: {0}</value></data>
+  <data name="ForecastWin_NotBefore" xml:space="preserve"><value>Not before {0} — in {1}</value></data>
+  <data name="ForecastWin_OpenMain" xml:space="preserve"><value>Open RebootWhy</value></data>
+  <data name="ForecastWin_PendingSection" xml:space="preserve"><value>Waiting for a restart</value></data>
+  <data name="ForecastWin_PossibleNow" xml:space="preserve"><value>Possible right now (since {0})</value></data>
+  <data name="ForecastWin_ProblemsSection" xml:space="preserve"><value>What could not be checked</value></data>
+  <data name="ForecastWin_ProtectionOffText" xml:space="preserve"><value>Turn on hold so that Windows Update postpones the restart while RebootWhy is running.</value></data>
+  <data name="ForecastWin_ProtectionOffTitle" xml:space="preserve"><value>Hold is off — Windows may restart the computer when you step away</value></data>
+  <data name="ForecastWin_ProtectionOnText" xml:space="preserve"><value>RebootWhy tells Windows that you are at the computer (like a video player does), so Windows Update postpones the automatic restart. It works while RebootWhy is running. The screen does not turn off meanwhile. If you click "Restart" yourself, the computer restarts as usual.</value></data>
+  <data name="ForecastWin_ProtectionOnTitle" xml:space="preserve"><value>Hold is on — RebootWhy prevents Windows from restarting the computer automatically</value></data>
+  <data name="ForecastWin_ScheduleFromLog" xml:space="preserve"><value> · schedule from the Windows Update log</value></data>
+  <data name="ForecastWin_ScheduleFromScheduler" xml:space="preserve"><value> · schedule from Task Scheduler</value></data>
+  <data name="ForecastWin_SimulationBanner" xml:space="preserve"><value>This is a reaction test: the log entries were substituted by RebootWhy, the computer will not restart. The test ends by itself in a few minutes.</value></data>
+  <data name="ForecastWin_Snooze" xml:space="preserve"><value>Remind me</value></data>
+  <data name="ForecastWin_SnoozeHour" xml:space="preserve"><value>in an hour</value></data>
+  <data name="ForecastWin_SnoozeMinutes" xml:space="preserve"><value>in {0} minutes</value></data>
+  <data name="ForecastWin_SnoozeTwoHours" xml:space="preserve"><value>in 2 hours</value></data>
+  <data name="ForecastWin_SnoozeWarning" xml:space="preserve"><value>Windows may restart the computer earlier — as soon as {0}</value></data>
+  <data name="ForecastWin_SourceLocal" xml:space="preserve"><value>RebootWhy service not connected, analyzed without it</value></data>
+  <data name="ForecastWin_SourceService" xml:space="preserve"><value>Data from the RebootWhy service</value></data>
+  <data name="ForecastWin_StopSound" xml:space="preserve"><value>Stop sound</value></data>
+  <data name="ForecastWin_StopSoundTip" xml:space="preserve"><value>Stop the sound of this alert — later alerts will sound again</value></data>
+  <data name="ForecastWin_StopTest" xml:space="preserve"><value>Stop the test</value></data>
+  <data name="ForecastWin_SummaryNone" xml:space="preserve"><value>No update is waiting for a restart. RebootWhy keeps watching and will warn you if Windows decides to restart the computer.</value></data>
+  <data name="ForecastWin_Title" xml:space="preserve"><value>RebootWhy — Windows updates</value></data>
+  <data name="ForecastWin_UpdateLine" xml:space="preserve"><value>{0} — {1}</value></data>
+  <data name="ForecastWin_UpdateLineSince" xml:space="preserve"><value>{0} — {1}, waiting since {2}</value></data>
+  <data name="ForecastWin_WhySection" xml:space="preserve"><value>Why</value></data>
+  <data name="Host_SampleUpdateTitle" xml:space="preserve"><value>Update title</value></data>
+  <data name="Host_ServiceNotStoppedText" xml:space="preserve"><value>The administrator request was declined. The program keeps running.</value></data>
+  <data name="Host_ServiceNotStoppedTitle" xml:space="preserve"><value>The RebootWhy service was not stopped</value></data>
+  <data name="Host_StillRunningText" xml:space="preserve"><value>Windows Update is monitored in the background. To exit, use the menu of the notification area icon.</value></data>
+  <data name="Host_StillRunningTitle" xml:space="preserve"><value>RebootWhy keeps running</value></data>
+  <data name="Language_Interface" xml:space="preserve"><value>Interface language</value></data>
+  <data name="Language_Interface_Hint" xml:space="preserve"><value>The language of windows, notifications and texts about restarts and updates.</value></data>
+  <data name="Language_RestartFailed" xml:space="preserve"><value>Could not restart RebootWhy — close it and start it again.</value></data>
+  <data name="Language_RestartNote" xml:space="preserve"><value>The language changes after RebootWhy restarts.</value></data>
+  <data name="Language_RestartNow" xml:space="preserve"><value>Restart now</value></data>
+  <data name="Language_System" xml:space="preserve"><value>Same as Windows</value></data>
+  <data name="Main_ActiveTime" xml:space="preserve"><value>Active time excluding sleep</value></data>
+  <data name="Main_ActiveTimeCaption" xml:space="preserve"><value>since the last full boot</value></data>
+  <data name="Main_Check" xml:space="preserve"><value>Check</value></data>
+  <data name="Main_CheckedAt" xml:space="preserve"><value>Checked at {0}</value></data>
+  <data name="Main_Checking" xml:space="preserve"><value>Checking…</value></data>
+  <data name="Main_CheckingUpdates" xml:space="preserve"><value>Checking Windows Update…</value></data>
+  <data name="Main_Copied" xml:space="preserve"><value>Copied ✓</value></data>
+  <data name="Main_Copy" xml:space="preserve"><value>Copy</value></data>
+  <data name="Main_CopyFailed" xml:space="preserve"><value>Could not copy to the clipboard: {0}</value></data>
+  <data name="Main_Details" xml:space="preserve"><value>Details</value></data>
+  <data name="Main_DetailsHeader" xml:space="preserve"><value>Details</value></data>
+  <data name="Main_FastStartupHint" xml:space="preserve"><value>Fast Startup is on: "Shut down" does not restart the Windows kernel. Only "Restart" fully restarts the system.</value></data>
+  <data name="Main_FullBootAgo" xml:space="preserve"><value>{0} · {1} ago</value></data>
+  <data name="Main_KeepingActive" xml:space="preserve"><value>restart hold is on</value></data>
+  <data name="Main_LastFullBoot" xml:space="preserve"><value>Last full boot</value></data>
+  <data name="Main_NoData" xml:space="preserve"><value>no data</value></data>
+  <data name="Main_OpenLogFilter" xml:space="preserve"><value>Event logs</value></data>
+  <data name="Main_OpenLogTitle" xml:space="preserve"><value>System log exported from another computer</value></data>
+  <data name="Main_Period1Year" xml:space="preserve"><value>1 year</value></data>
+  <data name="Main_Period30Days" xml:space="preserve"><value>30 days</value></data>
+  <data name="Main_Period7Days" xml:space="preserve"><value>7 days</value></data>
+  <data name="Main_Period90Days" xml:space="preserve"><value>90 days</value></data>
+  <data name="Main_ReadLogFailed" xml:space="preserve"><value>Could not read the log: {0}</value></data>
+  <data name="Main_ReadingLog" xml:space="preserve"><value>Reading the log…</value></data>
+  <data name="Main_Refresh" xml:space="preserve"><value>Refresh</value></data>
+  <data name="Main_ServiceNotConnected" xml:space="preserve"><value>the RebootWhy service is not connected, checking on my own</value></data>
+  <data name="Main_ServiceWatching" xml:space="preserve"><value>the RebootWhy service is watching</value></data>
+  <data name="Main_Settings" xml:space="preserve"><value>Settings</value></data>
+  <data name="Main_SourceFile" xml:space="preserve"><value>File: {0}</value></data>
+  <data name="Main_SourceLive" xml:space="preserve"><value>System log of this computer</value></data>
+  <data name="Main_StatusBoots" xml:space="preserve"><value>boots: {0}</value></data>
+  <data name="Main_StatusEvents" xml:space="preserve"><value>events analyzed: {0}</value></data>
+  <data name="Main_StatusRefreshedAt" xml:space="preserve"><value>refreshed at {0}</value></data>
+  <data name="Main_StopTest" xml:space="preserve"><value>Stop test</value></data>
+  <data name="Main_Subtitle" xml:space="preserve"><value>Computer uptime, restart causes and Windows Update plans</value></data>
+  <data name="Main_TabReboots" xml:space="preserve"><value>Restarts</value></data>
+  <data name="Main_TabUpdates" xml:space="preserve"><value>Updates</value></data>
+  <data name="Main_UpdatesLabel" xml:space="preserve"><value>Windows updates:</value></data>
+  <data name="Main_Uptime" xml:space="preserve"><value>Uptime</value></data>
+  <data name="Main_UptimeSince" xml:space="preserve"><value>since {0} · {1}</value></data>
+  <data name="Main_WindowTitle" xml:space="preserve"><value>RebootWhy — uptime and restart causes</value></data>
+  <data name="Policy_ActiveHours" xml:space="preserve"><value>Active hours</value></data>
+  <data name="Policy_ActiveHours_NotSet" xml:space="preserve"><value>Active hours are not set.</value></data>
+  <data name="Policy_ActiveHours_Now" xml:space="preserve"><value>Now: {0}. Outside this time Windows may restart the computer for updates.</value></data>
+  <data name="Policy_Applied" xml:space="preserve"><value>Policies applied, Windows Update accepted them.</value></data>
+  <data name="Policy_AppliedLater" xml:space="preserve"><value>Policies are written, but Windows Update has not picked them up yet — this will happen after the computer restarts.</value></data>
+  <data name="Policy_Applying" xml:space="preserve"><value>Applying Windows Update policies — confirm the Windows prompt…</value></data>
+  <data name="Policy_AutoUpdate" xml:space="preserve"><value>Automatic updates</value></data>
+  <data name="Policy_AutoUpdate_Download" xml:space="preserve"><value>Download, ask before installing</value></data>
+  <data name="Policy_AutoUpdate_Hint" xml:space="preserve"><value>When Windows downloads and installs updates without your involvement.</value></data>
+  <data name="Policy_AutoUpdate_Install" xml:space="preserve"><value>Download and install automatically</value></data>
+  <data name="Policy_AutoUpdate_NotSet" xml:space="preserve"><value>Not set (Windows decides)</value></data>
+  <data name="Policy_AutoUpdate_Notify" xml:space="preserve"><value>Ask before downloading</value></data>
+  <data name="Policy_AutoUpdate_Value" xml:space="preserve"><value>Value {0}</value></data>
+  <data name="Policy_Enabled" xml:space="preserve"><value>enabled</value></data>
+  <data name="Policy_ExcludeDrivers" xml:space="preserve"><value>Do not get drivers through Windows Update</value></data>
+  <data name="Policy_ExcludeDrivers_Hint" xml:space="preserve"><value>Drivers will no longer install automatically and will disappear from optional updates — you will have to update them from the manufacturers' websites.</value></data>
+  <data name="Policy_NoAutoReboot" xml:space="preserve"><value>Do not restart automatically while a user is signed in</value></data>
+  <data name="Policy_NoAutoReboot_Hint" xml:space="preserve"><value>Windows Update will show a notification and wait until you restart the computer yourself. Locking the screen does not count as signing out.</value></data>
+  <data name="Policy_NotApplied" xml:space="preserve"><value>Policies were not applied: the administrator prompt was declined or the command failed.</value></data>
+  <data name="Policy_NotSet" xml:space="preserve"><value>not set</value></data>
+  <data name="Policy_StateNow" xml:space="preserve"><value>Currently in the system: {0}</value></data>
+  <data name="Policy_StatePending" xml:space="preserve"><value>Written: {0}; Windows Update still uses: {1}</value></data>
+  <data name="Policy_Unapplied" xml:space="preserve"><value>There are unapplied policy changes — click "Apply".</value></data>
+  <data name="Policy_Warning" xml:space="preserve"><value>These settings change Windows Update policies for the whole computer. They are applied with "Apply" or "OK": Windows will ask for administrator rights, and the Windows Update services will be restarted to pick up the changes.</value></data>
+  <data name="Policy_WindowsUpdateSettings" xml:space="preserve"><value>Windows Update settings</value></data>
+  <data name="Reboots_ColumnBoot" xml:space="preserve"><value>Boot</value></data>
+  <data name="Reboots_ColumnBootType" xml:space="preserve"><value>Boot type</value></data>
+  <data name="Reboots_ColumnConfidence" xml:space="preserve"><value>Confidence</value></data>
+  <data name="Reboots_ColumnWhat" xml:space="preserve"><value>What happened</value></data>
+  <data name="Reboots_CopyTooltip" xml:space="preserve"><value>Copy the details to the clipboard</value></data>
+  <data name="Reboots_Evidence" xml:space="preserve"><value>Log events this conclusion is based on</value></data>
+  <data name="Reboots_InstalledUpdates" xml:space="preserve"><value>Installed updates</value></data>
+  <data name="Reboots_Notes" xml:space="preserve"><value>Notes</value></data>
+  <data name="Reboots_OnlyFullBoots" xml:space="preserve"><value>Full boots only</value></data>
+  <data name="Reboots_OpenEvtx" xml:space="preserve"><value>Open .evtx log…</value></data>
+  <data name="Reboots_Period" xml:space="preserve"><value>Period</value></data>
+  <data name="Reboots_SelectHint" xml:space="preserve"><value>Select a boot in the list</value></data>
+  <data name="Reboots_ThisComputer" xml:space="preserve"><value>This computer</value></data>
+  <data name="Search_Clear" xml:space="preserve"><value>Clear</value></data>
+  <data name="Search_ClearAutomation" xml:space="preserve"><value>Clear search</value></data>
+  <data name="Search_Placeholder" xml:space="preserve"><value>Search</value></data>
+  <data name="Service_Description" xml:space="preserve"><value>Watches Windows Update and warns the RebootWhy program when Windows is about to restart the computer.</value></data>
+  <data name="Service_DisplayName" xml:space="preserve"><value>RebootWhy — restart monitoring</value></data>
+  <data name="Service_Hint" xml:space="preserve"><value>The service watches Windows Update all the time, even when nobody is signed in, and sees the exact Windows Update schedule in Task Scheduler. Installing and removing it requires administrator rights.</value></data>
+  <data name="Service_Install" xml:space="preserve"><value>Install</value></data>
+  <data name="Service_Installed" xml:space="preserve"><value>The service is installed and running.</value></data>
+  <data name="Service_Installing" xml:space="preserve"><value>Installing the service — confirm the Windows prompt…</value></data>
+  <data name="Service_Reinstall" xml:space="preserve"><value>Reinstall</value></data>
+  <data name="Service_Remove" xml:space="preserve"><value>Remove</value></data>
+  <data name="Service_Removed" xml:space="preserve"><value>The service has been removed.</value></data>
+  <data name="Service_Removing" xml:space="preserve"><value>Removing the service — confirm the Windows prompt…</value></data>
+  <data name="Service_Section" xml:space="preserve"><value>RebootWhy service</value></data>
+  <data name="Service_StateLabel" xml:space="preserve"><value>State:</value></data>
+  <data name="Service_State_NotInstalled" xml:space="preserve"><value>not installed</value></data>
+  <data name="Service_State_OtherFolder" xml:space="preserve"><value>{0} (runs from another folder: {1})</value></data>
+  <data name="Service_State_Running" xml:space="preserve"><value>running</value></data>
+  <data name="Service_State_Starting" xml:space="preserve"><value>starting</value></data>
+  <data name="Service_State_Stopped" xml:space="preserve"><value>stopped</value></data>
+  <data name="Service_State_Stopping" xml:space="preserve"><value>stopping</value></data>
+  <data name="Settings_About_OpenFolder" xml:space="preserve"><value>Open folder</value></data>
+  <data name="Settings_About_Program" xml:space="preserve"><value>Program</value></data>
+  <data name="Settings_About_SettingsFile" xml:space="preserve"><value>Settings file</value></data>
+  <data name="Settings_About_Tagline" xml:space="preserve"><value>Computer uptime, restart causes and Windows Update plans.</value></data>
+  <data name="Settings_About_Version" xml:space="preserve"><value>Version {0}</value></data>
+  <data name="Settings_AlertBefore" xml:space="preserve"><value>Window on top — once more before the restart</value></data>
+  <data name="Settings_AlertBefore_Hint" xml:space="preserve"><value>When little time is left until the moment from which Windows may restart the computer.</value></data>
+  <data name="Settings_AlertBefore_Prefix" xml:space="preserve"><value>Show</value></data>
+  <data name="Settings_AlertBefore_Suffix" xml:space="preserve"><value>a possible restart</value></data>
+  <data name="Settings_AlertOnDetection" xml:space="preserve"><value>Window on top — as soon as it is detected</value></data>
+  <data name="Settings_AlertOnDetection_Hint" xml:space="preserve"><value>As soon as RebootWhy notices that Windows is waiting for a restart. The reminder can be snoozed in the window.</value></data>
+  <data name="Settings_Alerts_Intro" xml:space="preserve"><value>How RebootWhy tells you that Windows Update is about to restart the computer.</value></data>
+  <data name="Settings_Apply" xml:space="preserve"><value>Apply</value></data>
+  <data name="Settings_Autostart" xml:space="preserve"><value>Start RebootWhy when signing in to Windows</value></data>
+  <data name="Settings_Autostart_Hint" xml:space="preserve"><value>The icon appears in the notification area; the window does not open. Without this, there will be no alerts after a restart until you start the program.</value></data>
+  <data name="Settings_Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="Settings_ElevationFailed" xml:space="preserve"><value>Did not work: the administrator prompt was declined or the command failed.</value></data>
+  <data name="Settings_HowItWorks" xml:space="preserve"><value>How it works</value></data>
+  <data name="Settings_HowItWorks_1" xml:space="preserve"><value>• RebootWhy holds a "display required" request, just like video players do. Windows Update sees that the user is at the computer and postpones the restart.</value></data>
+  <data name="Settings_HowItWorks_2" xml:space="preserve"><value>• Until the wait is over, the screen does not turn off and the computer does not go to sleep on its own.</value></data>
+  <data name="Settings_HowItWorks_3" xml:space="preserve"><value>• The protection works while RebootWhy is running (the icon in the notification area).</value></data>
+  <data name="Settings_HowItWorks_4" xml:space="preserve"><value>• RebootWhy does not block your own actions: "Restart" or "Shut down" from the Start menu work as usual.</value></data>
+  <data name="Settings_HowItWorks_5" xml:space="preserve"><value>• The most reliable option is to restart yourself at a convenient moment: then the wait is over.</value></data>
+  <data name="Settings_KeepActive" xml:space="preserve"><value>Keep the computer from restarting automatically</value></data>
+  <data name="Settings_KeepActive_Hint" xml:space="preserve"><value>While Windows is waiting for a restart, RebootWhy shows Windows that you are at the computer.</value></data>
+  <data name="Settings_Keywords_About" xml:space="preserve"><value>about version folder</value></data>
+  <data name="Settings_Keywords_Alerts" xml:space="preserve"><value>notification window on top alert sample snooze minutes reaction test simulation</value></data>
+  <data name="Settings_Keywords_Language" xml:space="preserve"><value>language interface english russian ukrainian armenian translation</value></data>
+  <data name="Settings_Keywords_Policies" xml:space="preserve"><value>policies windows update drivers automatic updates active hours restart logged-on user</value></data>
+  <data name="Settings_Keywords_Protection" xml:space="preserve"><value>hold display required user at the computer protection restart</value></data>
+  <data name="Settings_Keywords_Sound" xml:space="preserve"><value>sound signal mp3 wav ogg file melody</value></data>
+  <data name="Settings_Keywords_Startup" xml:space="preserve"><value>startup autostart sign-in tray service administrator</value></data>
+  <data name="Settings_Minutes_120" xml:space="preserve"><value>2 hours before</value></data>
+  <data name="Settings_Minutes_15" xml:space="preserve"><value>15 minutes before</value></data>
+  <data name="Settings_Minutes_240" xml:space="preserve"><value>4 hours before</value></data>
+  <data name="Settings_Minutes_30" xml:space="preserve"><value>30 minutes before</value></data>
+  <data name="Settings_Minutes_60" xml:space="preserve"><value>an hour before</value></data>
+  <data name="Settings_Notification" xml:space="preserve"><value>Windows notification</value></data>
+  <data name="Settings_Notification_Hint" xml:space="preserve"><value>A pop-up notification in the corner of the screen; it stays in the notification center.</value></data>
+  <data name="Settings_Ok" xml:space="preserve"><value>OK</value></data>
+  <data name="Settings_Page_About" xml:space="preserve"><value>About</value></data>
+  <data name="Settings_Page_Alerts" xml:space="preserve"><value>Alerts</value></data>
+  <data name="Settings_Page_Language" xml:space="preserve"><value>Language</value></data>
+  <data name="Settings_Page_Policies" xml:space="preserve"><value>Windows Update policies</value></data>
+  <data name="Settings_Page_Protection" xml:space="preserve"><value>Restart protection</value></data>
+  <data name="Settings_Page_Sound" xml:space="preserve"><value>Sound</value></data>
+  <data name="Settings_Page_Startup" xml:space="preserve"><value>Startup and service</value></data>
+  <data name="Settings_ReactionTest" xml:space="preserve"><value>Reaction test</value></data>
+  <data name="Settings_ReactionTest_Hint" xml:space="preserve"><value>RebootWhy will pretend that Windows has scheduled a restart in 3 minutes: substituted Windows Update log entries go through the service, and the notification, sound, window and restart protection fire just like in a real situation. Nothing changes in the system and the computer will not restart; after 5 minutes everything returns to normal.</value></data>
+  <data name="Settings_Sample" xml:space="preserve"><value>Sample alert</value></data>
+  <data name="Settings_Sample_Hint" xml:space="preserve"><value>Notification, sound and window — with the settings on this page, even unsaved ones. The real state does not change.</value></data>
+  <data name="Settings_Saved" xml:space="preserve"><value>Settings saved.</value></data>
+  <data name="Settings_SearchPlaceholder" xml:space="preserve"><value>Search settings</value></data>
+  <data name="Settings_ShowSample" xml:space="preserve"><value>Show sample</value></data>
+  <data name="Settings_StartTest" xml:space="preserve"><value>Start test</value></data>
+  <data name="Settings_StopTest" xml:space="preserve"><value>Stop test</value></data>
+  <data name="Settings_TestFailed" xml:space="preserve"><value>Could not start the test: monitoring is not ready yet, try again in a few seconds.</value></data>
+  <data name="Settings_TestStarted" xml:space="preserve"><value>The test has started: the alerts will fire in a few seconds. The computer will not restart; after 5 minutes everything returns to normal.</value></data>
+  <data name="Settings_WindowTitle" xml:space="preserve"><value>Settings — RebootWhy</value></data>
+  <data name="Sound_ChooseFile" xml:space="preserve"><value>Choose file…</value></data>
+  <data name="Sound_DialogTitle" xml:space="preserve"><value>Restart alert sound</value></data>
+  <data name="Sound_FileFilter" xml:space="preserve"><value>Sound files (*.mp3;*.wav;*.ogg)|*.mp3;*.wav;*.ogg</value></data>
+  <data name="Sound_Formats" xml:space="preserve"><value>mp3, wav and ogg files are supported.</value></data>
+  <data name="Sound_Listen" xml:space="preserve"><value>Listen</value></data>
+  <data name="Sound_NoFile" xml:space="preserve"><value>No file selected</value></data>
+  <data name="Sound_PlaybackFailed" xml:space="preserve"><value>The file did not play, the system sound is used instead: {0}</value></data>
+  <data name="Sound_Reset" xml:space="preserve"><value>Reset</value></data>
+  <data name="Sound_Signal" xml:space="preserve"><value>Sound signal</value></data>
+  <data name="Sound_Signal_Hint" xml:space="preserve"><value>Plays when RebootWhy detects a pending restart and when the alert window opens.</value></data>
+  <data name="Sound_Stop" xml:space="preserve"><value>Stop</value></data>
+  <data name="Sound_System" xml:space="preserve"><value>Windows system sound</value></data>
+  <data name="Tray_CheckNow" xml:space="preserve"><value>Check Windows Update now</value></data>
+  <data name="Tray_Exit" xml:space="preserve"><value>Exit</value></data>
+  <data name="Tray_ExitAndStopService" xml:space="preserve"><value>Exit and stop the service</value></data>
+  <data name="Tray_Open" xml:space="preserve"><value>Open RebootWhy</value></data>
+  <data name="Tray_Settings" xml:space="preserve"><value>Settings…</value></data>
+  <data name="Tray_StopSound" xml:space="preserve"><value>Stop the alert sound</value></data>
+  <data name="Tray_TestReaction" xml:space="preserve"><value>Test the restart reaction</value></data>
+  <data name="Tray_TipChecking" xml:space="preserve"><value>RebootWhy: checking Windows Update…</value></data>
+  <data name="Tray_TipHoldOn" xml:space="preserve"><value> · hold is on</value></data>
+  <data name="Tray_TipNone" xml:space="preserve"><value>RebootWhy: no restart for updates is expected</value></data>
+  <data name="Tray_TipPending" xml:space="preserve"><value>RebootWhy: Windows is waiting for a restart</value></data>
+  <data name="Tray_TipPendingTest" xml:space="preserve"><value>RebootWhy: test — Windows is waiting for a restart</value></data>
+  <data name="Updates_ColumnDate" xml:space="preserve"><value>Date</value></data>
+  <data name="Updates_ColumnResult" xml:space="preserve"><value>Result</value></data>
+  <data name="Updates_ColumnType" xml:space="preserve"><value>Type</value></data>
+  <data name="Updates_ColumnUpdate" xml:space="preserve"><value>Update</value></data>
+  <data name="Updates_CopyTooltip" xml:space="preserve"><value>Copy the update information to the clipboard</value></data>
+  <data name="Updates_Description" xml:space="preserve"><value>Description</value></data>
+  <data name="Updates_GroupHistory" xml:space="preserve"><value>Installation history</value></data>
+  <data name="Updates_GroupPending" xml:space="preserve"><value>Waiting to be installed or for a restart</value></data>
+  <data name="Updates_KindDefender" xml:space="preserve"><value>Windows Defender</value></data>
+  <data name="Updates_KindDefinitions" xml:space="preserve"><value>Antivirus definitions</value></data>
+  <data name="Updates_KindDriver" xml:space="preserve"><value>Driver</value></data>
+  <data name="Updates_KindGeneric" xml:space="preserve"><value>Update</value></data>
+  <data name="Updates_KindMsrt" xml:space="preserve"><value>MSRT tool</value></data>
+  <data name="Updates_KindStoreApp" xml:space="preserve"><value>Store app</value></data>
+  <data name="Updates_KindWindows" xml:space="preserve"><value>Windows update</value></data>
+  <data name="Updates_NotLoaded" xml:space="preserve"><value>The update history has not been loaded yet</value></data>
+  <data name="Updates_OnlyImportant" xml:space="preserve"><value>Windows and drivers only</value></data>
+  <data name="Updates_OnlyImportantTooltip" xml:space="preserve"><value>Hide Microsoft Defender antivirus definitions and Microsoft Store app updates</value></data>
+  <data name="Updates_OnlyReboot" xml:space="preserve"><value>Restart required only</value></data>
+  <data name="Updates_OnlyRebootTooltip" xml:space="preserve"><value>Updates whose installation will or may require a computer restart</value></data>
+  <data name="Updates_PendingSince" xml:space="preserve"><value>since {0}</value></data>
+  <data name="Updates_Reading" xml:space="preserve"><value>Reading the Windows Update history…</value></data>
+  <data name="Updates_RebootAlways" xml:space="preserve"><value>Will require</value></data>
+  <data name="Updates_RebootAlwaysHint" xml:space="preserve"><value>Installing this update will require a computer restart</value></data>
+  <data name="Updates_RebootMaybe" xml:space="preserve"><value>May require</value></data>
+  <data name="Updates_RebootMaybeHint" xml:space="preserve"><value>A restart may be needed — Windows decides during installation (for example, if a driver is in use)</value></data>
+  <data name="Updates_RebootNever" xml:space="preserve"><value>Will not require</value></data>
+  <data name="Updates_RebootNeverHint" xml:space="preserve"><value>Installs without a restart</value></data>
+  <data name="Updates_SearchPlaceholder" xml:space="preserve"><value>Search by title, KB, description…</value></data>
+  <data name="Updates_SelectHint" xml:space="preserve"><value>Select an update in the list</value></data>
+  <data name="Updates_StateDownloaded" xml:space="preserve"><value>Downloaded</value></data>
+  <data name="Updates_StateNotDownloaded" xml:space="preserve"><value>Not downloaded</value></data>
+  <data name="Updates_StateWaitsForReboot" xml:space="preserve"><value>Waiting for a restart</value></data>
+  <data name="Updates_StatusCached" xml:space="preserve"><value>saved data from {0}</value></data>
+  <data name="Updates_StatusFound" xml:space="preserve"><value>Found: {0}</value></data>
+  <data name="Updates_StatusJournal" xml:space="preserve"><value>installations in history: {0} · waiting to install: {1}</value></data>
+  <data name="Updates_StatusNeedReboot" xml:space="preserve"><value>(with restart: {0})</value></data>
+  <data name="Updates_StatusRefreshedAt" xml:space="preserve"><value>refreshed at {0}</value></data>
+  <data name="Updates_StatusRefreshing" xml:space="preserve"><value>refreshing…</value></data>
+  <data name="Updates_WindowsUpdateFailed" xml:space="preserve"><value>Windows Update did not respond: {0}</value></data>
+</root>

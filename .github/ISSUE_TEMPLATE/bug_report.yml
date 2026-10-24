@@ -1,0 +1,45 @@
+name: Bug report
+description: Something works incorrectly, or a restart cause is wrong or missing
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report! For a wrong restart cause, select the restart in RebootWhy, press **Copy** and paste the text below.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Copied details
+      description: The text from the Copy button (restart or update details), or the output of `rebootwhy-cli --updates`.
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: RebootWhy version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version and language
+      description: "From `winver`, e.g. Windows 11 25H2 (26200.6899), English"
+    validations:
+      required: true
+  - type: dropdown
+    id: service
+    attributes:
+      label: Is the RebootWhy service installed?
+      options: ["Yes", "No", "Not sure"]
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: Steps to reproduce, screenshots. Attach logs only if you are fine with sharing your computer and user names.

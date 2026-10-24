@@ -1,0 +1,36 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Test
+        run: dotnet test --configuration Release
+
+      - name: Publish single exe
+        shell: pwsh
+        run: |
+          $version = "${{ github.ref_name }}".TrimStart("v")
+          dotnet publish src/RebootWhy.App -p:PublishProfile=win-x64 -p:Version=$version
+          $hash = (Get-FileHash publish/win-x64/RebootWhy.exe -Algorithm SHA256).Hash
+          "$hash  RebootWhy.exe" | Out-File publish/win-x64/RebootWhy.exe.sha256 -Encoding ascii
+
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            publish/win-x64/RebootWhy.exe
+            publish/win-x64/RebootWhy.exe.sha256
+          generate_release_notes: true

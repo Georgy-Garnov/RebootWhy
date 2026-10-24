@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RebootWhy.App/RebootWhy.App.csproj" />
+    <Project Path="src/RebootWhy.Cli/RebootWhy.Cli.csproj" />
+    <Project Path="src/RebootWhy.Core/RebootWhy.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RebootWhy.Core.Tests/RebootWhy.Core.Tests.csproj" />
+  </Folder>
+</Solution>

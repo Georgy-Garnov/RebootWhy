@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="AvailableState_Downloaded" xml:space="preserve"><value>завантажено, очікує встановлення</value></data>
+  <data name="AvailableState_Known" xml:space="preserve"><value>відоме системі, не завантажено</value></data>
+  <data name="AvailableState_WaitsForReboot" xml:space="preserve"><value>встановлено, очікує перезавантаження</value></data>
+  <data name="BootType_Cold" xml:space="preserve"><value>Повне завантаження</value></data>
+  <data name="BootType_FastStartup" xml:space="preserve"><value>Швидкий запуск</value></data>
+  <data name="BootType_HibernateResume" xml:space="preserve"><value>Вихід із глибокого сну</value></data>
+  <data name="BootType_Unknown" xml:space="preserve"><value>Тип не визначено</value></data>
+  <data name="Bugcheck_0A" xml:space="preserve"><value>Звернення до пам’яті на неприпустимому рівні IRQL — зазвичай помилка драйвера.</value></data>
+  <data name="Bugcheck_101" xml:space="preserve"><value>Ядро процесора перестало відповідати — процесор, розгін або BIOS.</value></data>
+  <data name="Bugcheck_109" xml:space="preserve"><value>Пошкоджено критичні структури ядра — драйвер або ОЗП.</value></data>
+  <data name="Bugcheck_10E" xml:space="preserve"><value>Внутрішня помилка відеодрайвера під час роботи з пам’яттю.</value></data>
+  <data name="Bugcheck_116" xml:space="preserve"><value>Відеодрайвер не відновився після зависання.</value></data>
+  <data name="Bugcheck_117" xml:space="preserve"><value>Відеодрайвер перестав відповідати.</value></data>
+  <data name="Bugcheck_119" xml:space="preserve"><value>Внутрішня помилка планувальника відеопідсистеми.</value></data>
+  <data name="Bugcheck_124" xml:space="preserve"><value>Невиправна апаратна помилка: процесор, пам’ять, живлення або перегрів.</value></data>
+  <data name="Bugcheck_133" xml:space="preserve"><value>Драйвер надто довго виконував операцію — часто драйвер SSD, мережі або відео.</value></data>
+  <data name="Bugcheck_139" xml:space="preserve"><value>Ядро виявило пошкодження даних — драйвер або ОЗП.</value></data>
+  <data name="Bugcheck_13A" xml:space="preserve"><value>Пошкоджено купу режиму ядра — зазвичай драйвер.</value></data>
+  <data name="Bugcheck_154" xml:space="preserve"><value>Помилка сховища пам’яті — часто проблеми з диском.</value></data>
+  <data name="Bugcheck_19" xml:space="preserve"><value>Пошкоджено пул пам’яті ядра — драйвер або ОЗП.</value></data>
+  <data name="Bugcheck_1A" xml:space="preserve"><value>Помилка керування пам’яттю — перевірте ОЗП і драйвери.</value></data>
+  <data name="Bugcheck_1C8" xml:space="preserve"><value>Кнопку живлення утримували, поки система не відповідала.</value></data>
+  <data name="Bugcheck_1E" xml:space="preserve"><value>Необроблений виняток у режимі ядра — зазвичай драйвер.</value></data>
+  <data name="Bugcheck_24" xml:space="preserve"><value>Помилка файлової системи NTFS — перевірте диск.</value></data>
+  <data name="Bugcheck_3B" xml:space="preserve"><value>Виняток під час системного виклику — зазвичай драйвер.</value></data>
+  <data name="Bugcheck_4E" xml:space="preserve"><value>Пошкоджено список сторінок пам’яті — драйвер або ОЗП.</value></data>
+  <data name="Bugcheck_50" xml:space="preserve"><value>Звернення до неіснуючої пам’яті — драйвер, ОЗП або антивірус.</value></data>
+  <data name="Bugcheck_77" xml:space="preserve"><value>Не вдалося прочитати стек ядра з файлу підкачки — перевірте диск.</value></data>
+  <data name="Bugcheck_7A" xml:space="preserve"><value>Не вдалося прочитати дані ядра з файлу підкачки — перевірте диск.</value></data>
+  <data name="Bugcheck_7B" xml:space="preserve"><value>Система втратила доступ до завантажувального диска.</value></data>
+  <data name="Bugcheck_7E" xml:space="preserve"><value>Необроблений виняток у системному потоці — зазвичай драйвер.</value></data>
+  <data name="Bugcheck_7F" xml:space="preserve"><value>Апаратна пастка в режимі ядра — драйвер або обладнання.</value></data>
+  <data name="Bugcheck_9C" xml:space="preserve"><value>Апаратна помилка процесора.</value></data>
+  <data name="Bugcheck_9F" xml:space="preserve"><value>Драйвер не впорався зі зміною режиму живлення (часто під час переходу в сон або виходу з нього).</value></data>
+  <data name="Bugcheck_A0" xml:space="preserve"><value>Внутрішня помилка диспетчера живлення.</value></data>
+  <data name="Bugcheck_BE" xml:space="preserve"><value>Драйвер спробував записати в пам’ять лише для читання.</value></data>
+  <data name="Bugcheck_C2" xml:space="preserve"><value>Некоректна робота з пулом пам’яті — зазвичай драйвер.</value></data>
+  <data name="Bugcheck_C5" xml:space="preserve"><value>Драйвер пошкодив пул пам’яті.</value></data>
+  <data name="Bugcheck_CodeOnly" xml:space="preserve"><value>Код 0x{0:X}</value></data>
+  <data name="Bugcheck_CodeWithHint" xml:space="preserve"><value>Код 0x{0:X}. {1}</value></data>
+  <data name="Bugcheck_D1" xml:space="preserve"><value>Драйвер звернувся до пам’яті на неприпустимому рівні IRQL.</value></data>
+  <data name="Bugcheck_E2" xml:space="preserve"><value>Збій викликано вручну — з клавіатури або налагоджувачем.</value></data>
+  <data name="Bugcheck_EA" xml:space="preserve"><value>Потік завис у драйвері пристрою — часто відеодрайвер.</value></data>
+  <data name="Bugcheck_EF" xml:space="preserve"><value>Аварійно завершився критично важливий системний процес.</value></data>
+  <data name="Bugcheck_F4" xml:space="preserve"><value>Завершився критично важливий процес або потік.</value></data>
+  <data name="Bugcheck_FC" xml:space="preserve"><value>Спроба виконати код із невиконуваної пам’яті — драйвер.</value></data>
+  <data name="Bugcheck_NotRecorded" xml:space="preserve"><value>код не записано</value></data>
+  <data name="Confidence_High" xml:space="preserve"><value>висока</value></data>
+  <data name="Confidence_Low" xml:space="preserve"><value>низька</value></data>
+  <data name="Confidence_Medium" xml:space="preserve"><value>середня</value></data>
+  <data name="Copy_Description" xml:space="preserve"><value>Опис</value></data>
+  <data name="Copy_Evidence" xml:space="preserve"><value>Події журналу, на яких ґрунтується висновок</value></data>
+  <data name="Copy_InstalledUpdates" xml:space="preserve"><value>Встановлені оновлення</value></data>
+  <data name="Copy_Notes" xml:space="preserve"><value>Зверніть увагу</value></data>
+  <data name="Duration_Days" xml:space="preserve"><value>{0} д</value></data>
+  <data name="Duration_Hours" xml:space="preserve"><value>{0} год</value></data>
+  <data name="Duration_LessThanMinute" xml:space="preserve"><value>менше хвилини</value></data>
+  <data name="Duration_Minutes" xml:space="preserve"><value>{0} хв</value></data>
+  <data name="Event_BlueScreen" xml:space="preserve"><value>Синій екран: {0}</value></data>
+  <data name="Event_BootType" xml:space="preserve"><value>Тип завантаження: {0}</value></data>
+  <data name="Event_HardwareErrorCorrected" xml:space="preserve"><value>Виправлена апаратна помилка</value></data>
+  <data name="Event_HardwareErrorCritical" xml:space="preserve"><value>Критична апаратна помилка</value></data>
+  <data name="Event_LogCleared" xml:space="preserve"><value>Журнал очищено</value></data>
+  <data name="Event_LogStarted" xml:space="preserve"><value>Запущено службу журналу подій</value></data>
+  <data name="Event_LogStopped" xml:space="preserve"><value>Службу журналу подій штатно зупинено</value></data>
+  <data name="Event_OsStarted" xml:space="preserve"><value>Запуск операційної системи</value></data>
+  <data name="Event_OsStopped" xml:space="preserve"><value>Завершення роботи операційної системи</value></data>
+  <data name="Event_PowerButtonPressed" xml:space="preserve"><value>, було натиснуто кнопку живлення</value></data>
+  <data name="Event_Requested" xml:space="preserve"><value>{0} запросив {1}</value></data>
+  <data name="Event_RequestedOnBehalf" xml:space="preserve"><value>{0} запросив {1} від імені {2}</value></data>
+  <data name="Event_ShutdownTransition" xml:space="preserve"><value>Диспетчер живлення почав завершення роботи</value></data>
+  <data name="Event_UncleanReboot" xml:space="preserve"><value>Перезавантаження без штатного завершення роботи</value></data>
+  <data name="Event_UncleanRebootCode" xml:space="preserve"><value>Перезавантаження без штатного завершення роботи, код помилки 0x{0:X}</value></data>
+  <data name="Event_UnexpectedShutdown" xml:space="preserve"><value>Попереднє завершення роботи було неочікуваним</value></data>
+  <data name="Event_UpdateInstalled" xml:space="preserve"><value>Встановлено оновлення: {0}</value></data>
+  <data name="Fact_Boot" xml:space="preserve"><value>Завантаження</value></data>
+  <data name="Fact_Confidence" xml:space="preserve"><value>Впевненість</value></data>
+  <data name="Fact_Details" xml:space="preserve"><value>Подробиці</value></data>
+  <data name="Fact_Initiator" xml:space="preserve"><value>Ініціатор</value></data>
+  <data name="Fact_Shutdown" xml:space="preserve"><value>Завершення роботи</value></data>
+  <data name="Fact_User" xml:space="preserve"><value>Користувач</value></data>
+  <data name="ForecastEvidence_Task" xml:space="preserve"><value>Завдання «{0}» заплановано на {1}</value></data>
+  <data name="ForecastEvidence_Waiting" xml:space="preserve"><value>Очікує перезавантаження з {0}: {1}</value></data>
+  <data name="ForecastEvidence_WaitingNoTime" xml:space="preserve"><value>Очікує перезавантаження: {0}</value></data>
+  <data name="ForecastNote_ActiveHours" xml:space="preserve"><value>Активні години: {0}:00–{1}:00. Поза ними Windows може перезавантажити комп’ютер сам.</value></data>
+  <data name="ForecastNote_ApprovedEarlier" xml:space="preserve"><value>«{0}»: о {1} Windows дозволив встановлення, вважаючи оновлення вже схваленим вами — окремого запитання не буде.</value></data>
+  <data name="ForecastNote_DeferredWhileActive" xml:space="preserve"><value>О {0} Windows відклав перезавантаження, бо ви були за комп’ютером. Перезавантаження можливе, коли ви перестанете користуватися клавіатурою та мишею.</value></data>
+  <data name="ForecastNote_NoAutoRebootPolicy" xml:space="preserve"><value>Увімкнено політику «не перезавантажувати, коли користувач увійшов». Вона має запобігти автоматичному перезавантаженню, але на практиці це не перевірено.</value></data>
+  <data name="ForecastNote_Overdue" xml:space="preserve"><value>«{0}» позначено як прострочене — Windows наполегливіше добиватиметься встановлення.</value></data>
+  <data name="ForecastNote_RebootRequired" xml:space="preserve"><value>Windows Update повідомляє, що для завершення встановлення потрібне перезавантаження.</value></data>
+  <data name="ForecastNote_SampleNotice" xml:space="preserve"><value>Це приклад: справжнє перезавантаження не заплановано, дані вигадані.</value></data>
+  <data name="ForecastNote_SampleReason" xml:space="preserve"><value>Тут буде пояснення, чому Windows вирішив перезавантажитися — наприклад, що встановлення вважається схваленим раніше.</value></data>
+  <data name="ForecastNote_ServicingPending" xml:space="preserve"><value>Компоненти Windows очікують перезавантаження для завершення обслуговування (Component Based Servicing).</value></data>
+  <data name="ForecastNote_Simulation" xml:space="preserve"><value>Це перевірка реакції RebootWhy: записи журналу Windows Update підставлено програмою. Справжнє перезавантаження не заплановано і не відбудеться. Перевірка закінчиться о {0}.</value></data>
+  <data name="Forecast_Failed" xml:space="preserve"><value>Не вдалося проаналізувати Windows Update</value></data>
+  <data name="Forecast_Imminent" xml:space="preserve"><value>Windows може перезавантажити комп’ютер протягом години (близько {0}) {1}</value></data>
+  <data name="Forecast_None" xml:space="preserve"><value>Перезавантаження для оновлень не очікується</value></data>
+  <data name="Forecast_Planned" xml:space="preserve"><value>Windows очікує перезавантаження {0}. Можливе не раніше {1}</value></data>
+  <data name="Forecast_Sample" xml:space="preserve"><value>Так RebootWhy повідомить, що Windows збирається перезавантажити комп’ютер для встановлення оновлення.</value></data>
+  <data name="Forecast_SimulationPrefix" xml:space="preserve"><value>Перевірка: </value></data>
+  <data name="Forecast_What_Many" xml:space="preserve"><value>для встановлення «{0}» та ще {1}</value></data>
+  <data name="Forecast_What_None" xml:space="preserve"><value>для завершення встановлення оновлень</value></data>
+  <data name="Forecast_What_One" xml:space="preserve"><value>для встановлення «{0}»</value></data>
+  <data name="Format_Date" xml:space="preserve"><value>dd.MM.yyyy</value></data>
+  <data name="Format_DateTime" xml:space="preserve"><value>dd.MM.yyyy HH:mm</value></data>
+  <data name="Format_DateTimeSeconds" xml:space="preserve"><value>dd.MM.yyyy HH:mm:ss</value></data>
+  <data name="Format_ShortDateTime" xml:space="preserve"><value>dd.MM HH:mm</value></data>
+  <data name="Initiator_AutomaticUpdates" xml:space="preserve"><value>Автоматичне оновлення</value></data>
+  <data name="Initiator_NotSpecified" xml:space="preserve"><value>не вказано</value></data>
+  <data name="Initiator_WindowsUpdate" xml:space="preserve"><value>Windows Update (автоматично)</value></data>
+  <data name="KindObject_PowerOff" xml:space="preserve"><value>вимкнення</value></data>
+  <data name="KindObject_Restart" xml:space="preserve"><value>перезавантаження</value></data>
+  <data name="KindObject_Unknown" xml:space="preserve"><value>перезавантаження або вимкнення</value></data>
+  <data name="Kind_PowerOff" xml:space="preserve"><value>Вимкнення</value></data>
+  <data name="Kind_Restart" xml:space="preserve"><value>Перезавантаження</value></data>
+  <data name="Kind_Unknown" xml:space="preserve"><value>Перезавантаження або вимкнення</value></data>
+  <data name="Note_CleanShutdownHint" xml:space="preserve"><value>Так буває, наприклад, після короткого натискання кнопки живлення або критичного розряду батареї.</value></data>
+  <data name="Note_Comment" xml:space="preserve"><value>Коментар: {0}</value></data>
+  <data name="Note_DumpPath" xml:space="preserve"><value>Дамп пам’яті: {0}</value></data>
+  <data name="Note_EarliestBoot" xml:space="preserve"><value>Це найраніше завантаження в переглянутій частині журналу — події до нього не збереглися або не потрапили в період.</value></data>
+  <data name="Note_FastStartup" xml:space="preserve"><value>Увімкнення після «Завершення роботи» зі швидким запуском: ядро Windows не перезавантажувалося.</value></data>
+  <data name="Note_LogCleared" xml:space="preserve"><value>Журнал System у цей період очищався — частина подій могла зникнути.</value></data>
+  <data name="Note_NoShutdownRecord" xml:space="preserve"><value>У журналі немає записів про завершення попереднього сеансу.</value></data>
+  <data name="Note_RequestBeforeCrash" xml:space="preserve"><value>До збою {0} запросив {1}, але штатного завершення роботи не було.</value></data>
+  <data name="Note_ShutdownHung" xml:space="preserve"><value>Завершення роботи почалося штатно, але не закінчилося — система зависла на останньому етапі.</value></data>
+  <data name="Note_Whea" xml:space="preserve"><value>Зафіксовано апаратні помилки WHEA: {0} (критичних: {1}).</value></data>
+  <data name="Note_WheaLikelyCause" xml:space="preserve"><value> Ймовірна апаратна причина збою.</value></data>
+  <data name="Problem_CannotRead" xml:space="preserve"><value>Не вдалося прочитати {0}: {1}</value></data>
+  <data name="Problem_NoUsoFolder" xml:space="preserve"><value>Немає папки журналів Update Orchestrator: {0}</value></data>
+  <data name="Problem_WindowsUpdateSilent" xml:space="preserve"><value>Windows Update не відповів на запитання про перезавантаження: {0}</value></data>
+  <data name="ReasonMajor_0" xml:space="preserve"><value>інше</value></data>
+  <data name="ReasonMajor_1" xml:space="preserve"><value>обладнання</value></data>
+  <data name="ReasonMajor_2" xml:space="preserve"><value>операційна система</value></data>
+  <data name="ReasonMajor_3" xml:space="preserve"><value>програмне забезпечення</value></data>
+  <data name="ReasonMajor_4" xml:space="preserve"><value>застосунок</value></data>
+  <data name="ReasonMajor_5" xml:space="preserve"><value>система</value></data>
+  <data name="ReasonMajor_6" xml:space="preserve"><value>живлення</value></data>
+  <data name="ReasonMajor_7" xml:space="preserve"><value>застарілий API</value></data>
+  <data name="ReasonMajor_Other" xml:space="preserve"><value>категорія 0x{0:X}</value></data>
+  <data name="ReasonMinor_00" xml:space="preserve"><value>інше</value></data>
+  <data name="ReasonMinor_01" xml:space="preserve"><value>обслуговування</value></data>
+  <data name="ReasonMinor_02" xml:space="preserve"><value>встановлення</value></data>
+  <data name="ReasonMinor_03" xml:space="preserve"><value>оновлення версії</value></data>
+  <data name="ReasonMinor_04" xml:space="preserve"><value>зміна конфігурації</value></data>
+  <data name="ReasonMinor_05" xml:space="preserve"><value>зависання</value></data>
+  <data name="ReasonMinor_06" xml:space="preserve"><value>нестабільна робота</value></data>
+  <data name="ReasonMinor_07" xml:space="preserve"><value>диск</value></data>
+  <data name="ReasonMinor_08" xml:space="preserve"><value>процесор</value></data>
+  <data name="ReasonMinor_09" xml:space="preserve"><value>мережева карта</value></data>
+  <data name="ReasonMinor_0A" xml:space="preserve"><value>блок живлення</value></data>
+  <data name="ReasonMinor_0B" xml:space="preserve"><value>відключення живлення</value></data>
+  <data name="ReasonMinor_0C" xml:space="preserve"><value>зовнішні умови</value></data>
+  <data name="ReasonMinor_0D" xml:space="preserve"><value>драйвер обладнання</value></data>
+  <data name="ReasonMinor_0E" xml:space="preserve"><value>інший драйвер</value></data>
+  <data name="ReasonMinor_0F" xml:space="preserve"><value>синій екран</value></data>
+  <data name="ReasonMinor_10" xml:space="preserve"><value>пакет оновлення</value></data>
+  <data name="ReasonMinor_11" xml:space="preserve"><value>виправлення</value></data>
+  <data name="ReasonMinor_12" xml:space="preserve"><value>виправлення безпеки</value></data>
+  <data name="ReasonMinor_13" xml:space="preserve"><value>безпека</value></data>
+  <data name="ReasonMinor_14" xml:space="preserve"><value>мережеве підключення</value></data>
+  <data name="ReasonMinor_15" xml:space="preserve"><value>WMI</value></data>
+  <data name="ReasonMinor_16" xml:space="preserve"><value>видалення пакета оновлення</value></data>
+  <data name="ReasonMinor_17" xml:space="preserve"><value>видалення виправлення</value></data>
+  <data name="ReasonMinor_18" xml:space="preserve"><value>видалення виправлення безпеки</value></data>
+  <data name="ReasonMinor_19" xml:space="preserve"><value>MMC</value></data>
+  <data name="ReasonMinor_1A" xml:space="preserve"><value>відновлення системи</value></data>
+  <data name="ReasonMinor_20" xml:space="preserve"><value>служби терміналів</value></data>
+  <data name="ReasonMinor_21" xml:space="preserve"><value>підвищення до контролера домену</value></data>
+  <data name="ReasonMinor_22" xml:space="preserve"><value>пониження контролера домену</value></data>
+  <data name="ReasonMinor_FF" xml:space="preserve"><value>не вказано</value></data>
+  <data name="ReasonMinor_Other" xml:space="preserve"><value>підкатегорія 0x{0:X}</value></data>
+  <data name="Reason_Format" xml:space="preserve"><value>{0}: {1} — {2} (0x{3:X})</value></data>
+  <data name="Reason_Planned" xml:space="preserve"><value>Планова</value></data>
+  <data name="Reason_Unplanned" xml:space="preserve"><value>Позапланова</value></data>
+  <data name="RebootBehavior_Always" xml:space="preserve"><value>потребує перезавантаження</value></data>
+  <data name="RebootBehavior_Maybe" xml:space="preserve"><value>може потребувати перезавантаження</value></data>
+  <data name="RebootBehavior_Never" xml:space="preserve"><value>без перезавантаження</value></data>
+  <data name="Simulation_UpdateTitle" xml:space="preserve"><value>Перевірне оновлення RebootWhy (драйвер)</value></data>
+  <data name="Title_Application" xml:space="preserve"><value>{0} на запит програми {1}</value></data>
+  <data name="Title_BlueScreen" xml:space="preserve"><value>Синій екран (BSOD): {0}</value></data>
+  <data name="Title_CleanShutdown" xml:space="preserve"><value>Штатне завершення роботи, ініціатора не записано</value></data>
+  <data name="Title_Command" xml:space="preserve"><value>{0} командою {1}</value></data>
+  <data name="Title_Hibernation" xml:space="preserve"><value>Вихід із глибокого сну</value></data>
+  <data name="Title_Installer" xml:space="preserve"><value>{0} на запит інсталятора {1}</value></data>
+  <data name="Title_PowerButtonBugcheck" xml:space="preserve"><value>Примусове вимкнення: кнопку живлення утримували, поки система не відповідала</value></data>
+  <data name="Title_PowerButtonHold" xml:space="preserve"><value>Примусове вимкнення довгим натисканням кнопки живлення</value></data>
+  <data name="Title_PowerLoss" xml:space="preserve"><value>Раптове вимкнення: зникло живлення, система зависла або натиснуто кнопку Reset</value></data>
+  <data name="Title_SleepFailure" xml:space="preserve"><value>Збій під час переходу в сон або виходу з нього</value></data>
+  <data name="Title_Unknown" xml:space="preserve"><value>Причину не визначено</value></data>
+  <data name="Title_User" xml:space="preserve"><value>{0} користувачем</value></data>
+  <data name="Title_WindowsUpdate" xml:space="preserve"><value>{0} для встановлення оновлень Windows</value></data>
+  <data name="Title_WindowsUpdateByUser" xml:space="preserve"><value>{0} користувачем для встановлення оновлень Windows</value></data>
+  <data name="Title_WindowsUpdateGuess" xml:space="preserve"><value>{0} для встановлення оновлень Windows (ініціатор {1})</value></data>
+  <data name="UnknownProcess" xml:space="preserve"><value>невідомий процес</value></data>
+  <data name="UntitledUpdate" xml:space="preserve"><value>оновлення без назви</value></data>
+  <data name="UpdateError_80070002" xml:space="preserve"><value>файл не знайдено</value></data>
+  <data name="UpdateError_80070005" xml:space="preserve"><value>доступ заборонено</value></data>
+  <data name="UpdateError_80070643" xml:space="preserve"><value>помилка інсталятора</value></data>
+  <data name="UpdateError_80073712" xml:space="preserve"><value>пошкоджено сховище компонентів Windows</value></data>
+  <data name="UpdateError_800F081F" xml:space="preserve"><value>не знайдено вихідні файли компонента</value></data>
+  <data name="UpdateError_800F0922" xml:space="preserve"><value>помилка обслуговування Windows (часто — замало місця в розділі відновлення)</value></data>
+  <data name="UpdateError_80240016" xml:space="preserve"><value>уже триває інше встановлення</value></data>
+  <data name="UpdateError_80240017" xml:space="preserve"><value>оновлення не підходить для цього комп’ютера</value></data>
+  <data name="UpdateError_8024001E" xml:space="preserve"><value>операцію перервано: служба зупинилася</value></data>
+  <data name="UpdateError_80240022" xml:space="preserve"><value>не вдалося встановити жодне оновлення</value></data>
+  <data name="UpdateError_8024200D" xml:space="preserve"><value>оновлення потрібно завантажити знову</value></data>
+  <data name="UpdateError_80242016" xml:space="preserve"><value>після перезавантаження встановлення опинилося в неочікуваному стані</value></data>
+  <data name="UpdateError_8024402C" xml:space="preserve"><value>немає зв’язку з сервером оновлень</value></data>
+  <data name="UpdateError_80246007" xml:space="preserve"><value>оновлення не було завантажено</value></data>
+  <data name="UpdateError_WithText" xml:space="preserve"><value>0x{0:X8} — {1}</value></data>
+  <data name="UpdateFact_Article" xml:space="preserve"><value>Стаття</value></data>
+  <data name="UpdateFact_Category" xml:space="preserve"><value>Категорія</value></data>
+  <data name="UpdateFact_Date" xml:space="preserve"><value>Дата</value></data>
+  <data name="UpdateFact_ErrorCode" xml:space="preserve"><value>Код помилки</value></data>
+  <data name="UpdateFact_Identifier" xml:space="preserve"><value>Ідентифікатор</value></data>
+  <data name="UpdateFact_IdentifierValue" xml:space="preserve"><value>{0} (ревізія {1})</value></data>
+  <data name="UpdateFact_Initiator" xml:space="preserve"><value>Ініціатор</value></data>
+  <data name="UpdateFact_MoreInfo" xml:space="preserve"><value>Докладніше</value></data>
+  <data name="UpdateFact_Published" xml:space="preserve"><value>Опубліковано</value></data>
+  <data name="UpdateFact_Restart" xml:space="preserve"><value>Перезавантаження</value></data>
+  <data name="UpdateFact_Result" xml:space="preserve"><value>Результат</value></data>
+  <data name="UpdateFact_ResultValue" xml:space="preserve"><value>{0} ({1})</value></data>
+  <data name="UpdateFact_Severity" xml:space="preserve"><value>Важливість</value></data>
+  <data name="UpdateFact_State" xml:space="preserve"><value>Стан</value></data>
+  <data name="UpdateFact_Type" xml:space="preserve"><value>Тип</value></data>
+  <data name="UpdateOperation_Installation" xml:space="preserve"><value>встановлення</value></data>
+  <data name="UpdateOperation_Other" xml:space="preserve"><value>операція</value></data>
+  <data name="UpdateOperation_Uninstallation" xml:space="preserve"><value>видалення</value></data>
+  <data name="UpdateResult_Aborted" xml:space="preserve"><value>Перервано</value></data>
+  <data name="UpdateResult_Failed" xml:space="preserve"><value>Помилка</value></data>
+  <data name="UpdateResult_InProgress" xml:space="preserve"><value>Встановлюється</value></data>
+  <data name="UpdateResult_NotStarted" xml:space="preserve"><value>Не розпочато</value></data>
+  <data name="UpdateResult_Succeeded" xml:space="preserve"><value>Встановлено</value></data>
+  <data name="UpdateResult_SucceededWithErrors" xml:space="preserve"><value>Встановлено з помилками</value></data>
+  <data name="UpdateType_Driver" xml:space="preserve"><value>драйвер</value></data>
+  <data name="UpdateType_Feature" xml:space="preserve"><value>оновлення функцій Windows</value></data>
+  <data name="UpdateType_Generic" xml:space="preserve"><value>оновлення</value></data>
+  <data name="UpdateType_Quality" xml:space="preserve"><value>накопичувальне оновлення</value></data>
+  <data name="UpdateType_Software" xml:space="preserve"><value>програмне оновлення</value></data>
+  <data name="UpdateWithId" xml:space="preserve"><value>оновлення {0}</value></data>
+</root>

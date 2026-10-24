@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="AvailableState_Downloaded" xml:space="preserve"><value>ներբեռնված է, սպասում է տեղադրման</value></data>
+  <data name="AvailableState_Known" xml:space="preserve"><value>հայտնի է համակարգին, ներբեռնված չէ</value></data>
+  <data name="AvailableState_WaitsForReboot" xml:space="preserve"><value>տեղադրված է, սպասում է վերագործարկման</value></data>
+  <data name="BootType_Cold" xml:space="preserve"><value>Լրիվ բեռնում</value></data>
+  <data name="BootType_FastStartup" xml:space="preserve"><value>Արագ գործարկում</value></data>
+  <data name="BootType_HibernateResume" xml:space="preserve"><value>Ելք ձմեռային քնից</value></data>
+  <data name="BootType_Unknown" xml:space="preserve"><value>Տեսակը որոշված չէ</value></data>
+  <data name="Bugcheck_0A" xml:space="preserve"><value>Հիշողության դիմում անթույլատրելի IRQL մակարդակում — սովորաբար դրայվերի սխալ։</value></data>
+  <data name="Bugcheck_101" xml:space="preserve"><value>Պրոցեսորի միջուկը դադարել է արձագանքել — պրոցեսոր, գերհաճախականություն կամ BIOS։</value></data>
+  <data name="Bugcheck_109" xml:space="preserve"><value>Միջուկի կրիտիկական կառուցվածքները վնասված են — դրայվեր կամ ՕՀՍ։</value></data>
+  <data name="Bugcheck_10E" xml:space="preserve"><value>Վիդեոդրայվերի ներքին սխալ հիշողության հետ աշխատելիս։</value></data>
+  <data name="Bugcheck_116" xml:space="preserve"><value>Վիդեոդրայվերը չվերականգնվեց կախվելուց հետո։</value></data>
+  <data name="Bugcheck_117" xml:space="preserve"><value>Վիդեոդրայվերը դադարել է արձագանքել։</value></data>
+  <data name="Bugcheck_119" xml:space="preserve"><value>Վիդեոենթահամակարգի պլանավորիչի ներքին սխալ։</value></data>
+  <data name="Bugcheck_124" xml:space="preserve"><value>Անուղղելի ապարատային սխալ՝ պրոցեսոր, հիշողություն, սնուցում կամ գերտաքացում։</value></data>
+  <data name="Bugcheck_133" xml:space="preserve"><value>Դրայվերը չափազանց երկար է կատարել գործողությունը — հաճախ SSD-ի, ցանցի կամ վիդեոյի դրայվեր։</value></data>
+  <data name="Bugcheck_139" xml:space="preserve"><value>Միջուկը հայտնաբերել է տվյալների վնասում — դրայվեր կամ ՕՀՍ։</value></data>
+  <data name="Bugcheck_13A" xml:space="preserve"><value>Միջուկի ռեժիմի կույտը վնասված է — սովորաբար դրայվեր։</value></data>
+  <data name="Bugcheck_154" xml:space="preserve"><value>Հիշողության պահոցի սխալ — հաճախ սկավառակի խնդիր։</value></data>
+  <data name="Bugcheck_19" xml:space="preserve"><value>Միջուկի հիշողության լողավազանը վնասված է — դրայվեր կամ ՕՀՍ։</value></data>
+  <data name="Bugcheck_1A" xml:space="preserve"><value>Հիշողության կառավարման սխալ — ստուգեք ՕՀՍ-ն և դրայվերները։</value></data>
+  <data name="Bugcheck_1C8" xml:space="preserve"><value>Սնուցման կոճակը սեղմված է պահվել, մինչ համակարգը չէր արձագանքում։</value></data>
+  <data name="Bugcheck_1E" xml:space="preserve"><value>Չմշակված բացառություն միջուկի ռեժիմում — սովորաբար դրայվեր։</value></data>
+  <data name="Bugcheck_24" xml:space="preserve"><value>NTFS ֆայլային համակարգի սխալ — ստուգեք սկավառակը։</value></data>
+  <data name="Bugcheck_3B" xml:space="preserve"><value>Բացառություն համակարգային կանչի ժամանակ — սովորաբար դրայվեր։</value></data>
+  <data name="Bugcheck_4E" xml:space="preserve"><value>Հիշողության էջերի ցանկը վնասված է — դրայվեր կամ ՕՀՍ։</value></data>
+  <data name="Bugcheck_50" xml:space="preserve"><value>Դիմում գոյություն չունեցող հիշողությանը — դրայվեր, ՕՀՍ կամ հակավիրուս։</value></data>
+  <data name="Bugcheck_77" xml:space="preserve"><value>Չհաջողվեց միջուկի ստեկը կարդալ էջավորման ֆայլից — ստուգեք սկավառակը։</value></data>
+  <data name="Bugcheck_7A" xml:space="preserve"><value>Չհաջողվեց միջուկի տվյալները կարդալ էջավորման ֆայլից — ստուգեք սկավառակը։</value></data>
+  <data name="Bugcheck_7B" xml:space="preserve"><value>Համակարգը կորցրել է հասանելիությունը բեռնման սկավառակին։</value></data>
+  <data name="Bugcheck_7E" xml:space="preserve"><value>Չմշակված բացառություն համակարգային հոսքում — սովորաբար դրայվեր։</value></data>
+  <data name="Bugcheck_7F" xml:space="preserve"><value>Ապարատային թակարդ միջուկի ռեժիմում — դրայվեր կամ սարքավորում։</value></data>
+  <data name="Bugcheck_9C" xml:space="preserve"><value>Պրոցեսորի ապարատային սխալ։</value></data>
+  <data name="Bugcheck_9F" xml:space="preserve"><value>Դրայվերը չհաղթահարեց սնուցման ռեժիմի փոփոխությունը (հաճախ քնի ռեժիմ անցնելիս կամ դրանից դուրս գալիս)։</value></data>
+  <data name="Bugcheck_A0" xml:space="preserve"><value>Սնուցման կառավարչի ներքին սխալ։</value></data>
+  <data name="Bugcheck_BE" xml:space="preserve"><value>Դրայվերը փորձել է գրել միայն կարդալու հիշողության մեջ։</value></data>
+  <data name="Bugcheck_C2" xml:space="preserve"><value>Հիշողության լողավազանի հետ սխալ գործողություն — սովորաբար դրայվեր։</value></data>
+  <data name="Bugcheck_C5" xml:space="preserve"><value>Դրայվերը վնասել է հիշողության լողավազանը։</value></data>
+  <data name="Bugcheck_CodeOnly" xml:space="preserve"><value>Կոդ 0x{0:X}</value></data>
+  <data name="Bugcheck_CodeWithHint" xml:space="preserve"><value>Կոդ 0x{0:X}։ {1}</value></data>
+  <data name="Bugcheck_D1" xml:space="preserve"><value>Դրայվերը դիմել է հիշողությանը անթույլատրելի IRQL մակարդակում։</value></data>
+  <data name="Bugcheck_E2" xml:space="preserve"><value>Խափանումը առաջացվել է ձեռքով — ստեղնաշարից կամ վրիպազերծիչով։</value></data>
+  <data name="Bugcheck_EA" xml:space="preserve"><value>Հոսքը կախվել է սարքի դրայվերում — հաճախ վիդեոդրայվեր։</value></data>
+  <data name="Bugcheck_EF" xml:space="preserve"><value>Կրիտիկական համակարգային գործընթացը վթարային ավարտվել է։</value></data>
+  <data name="Bugcheck_F4" xml:space="preserve"><value>Ավարտվել է կրիտիկական գործընթաց կամ հոսք։</value></data>
+  <data name="Bugcheck_FC" xml:space="preserve"><value>Փորձ՝ կատարել կոդ չկատարվող հիշողությունից — դրայվեր։</value></data>
+  <data name="Bugcheck_NotRecorded" xml:space="preserve"><value>կոդը գրանցված չէ</value></data>
+  <data name="Confidence_High" xml:space="preserve"><value>բարձր</value></data>
+  <data name="Confidence_Low" xml:space="preserve"><value>ցածր</value></data>
+  <data name="Confidence_Medium" xml:space="preserve"><value>միջին</value></data>
+  <data name="Copy_Description" xml:space="preserve"><value>Նկարագրություն</value></data>
+  <data name="Copy_Evidence" xml:space="preserve"><value>Մատյանի իրադարձություններ, որոնց վրա հիմնված է եզրակացությունը</value></data>
+  <data name="Copy_InstalledUpdates" xml:space="preserve"><value>Տեղադրված թարմացումներ</value></data>
+  <data name="Copy_Notes" xml:space="preserve"><value>Ուշադրություն դարձրեք</value></data>
+  <data name="Duration_Days" xml:space="preserve"><value>{0} օր</value></data>
+  <data name="Duration_Hours" xml:space="preserve"><value>{0} ժ</value></data>
+  <data name="Duration_LessThanMinute" xml:space="preserve"><value>մեկ րոպեից պակաս</value></data>
+  <data name="Duration_Minutes" xml:space="preserve"><value>{0} ր</value></data>
+  <data name="Event_BlueScreen" xml:space="preserve"><value>Կապույտ էկրան՝ {0}</value></data>
+  <data name="Event_BootType" xml:space="preserve"><value>Բեռնման տեսակ՝ {0}</value></data>
+  <data name="Event_HardwareErrorCorrected" xml:space="preserve"><value>Ուղղված ապարատային սխալ</value></data>
+  <data name="Event_HardwareErrorCritical" xml:space="preserve"><value>Կրիտիկական ապարատային սխալ</value></data>
+  <data name="Event_LogCleared" xml:space="preserve"><value>Մատյանը մաքրվել է</value></data>
+  <data name="Event_LogStarted" xml:space="preserve"><value>Իրադարձությունների մատյանի ծառայությունը գործարկվել է</value></data>
+  <data name="Event_LogStopped" xml:space="preserve"><value>Իրադարձությունների մատյանի ծառայությունը կանոնավոր կանգնեցվել է</value></data>
+  <data name="Event_OsStarted" xml:space="preserve"><value>Օպերացիոն համակարգի գործարկում</value></data>
+  <data name="Event_OsStopped" xml:space="preserve"><value>Օպերացիոն համակարգի աշխատանքի ավարտ</value></data>
+  <data name="Event_PowerButtonPressed" xml:space="preserve"><value>, սեղմվել է սնուցման կոճակը</value></data>
+  <data name="Event_Requested" xml:space="preserve"><value>{0}-ը պահանջել է {1}</value></data>
+  <data name="Event_RequestedOnBehalf" xml:space="preserve"><value>{0}-ը պահանջել է {1} {2}-ի անունից</value></data>
+  <data name="Event_ShutdownTransition" xml:space="preserve"><value>Սնուցման կառավարիչը սկսել է անջատումը</value></data>
+  <data name="Event_UncleanReboot" xml:space="preserve"><value>Վերագործարկում առանց կանոնավոր անջատման</value></data>
+  <data name="Event_UncleanRebootCode" xml:space="preserve"><value>Վերագործարկում առանց կանոնավոր անջատման, սխալի կոդ 0x{0:X}</value></data>
+  <data name="Event_UnexpectedShutdown" xml:space="preserve"><value>Նախորդ անջատումն անսպասելի էր</value></data>
+  <data name="Event_UpdateInstalled" xml:space="preserve"><value>Տեղադրվել է թարմացում՝ {0}</value></data>
+  <data name="Fact_Boot" xml:space="preserve"><value>Բեռնում</value></data>
+  <data name="Fact_Confidence" xml:space="preserve"><value>Վստահություն</value></data>
+  <data name="Fact_Details" xml:space="preserve"><value>Մանրամասներ</value></data>
+  <data name="Fact_Initiator" xml:space="preserve"><value>Նախաձեռնող</value></data>
+  <data name="Fact_Shutdown" xml:space="preserve"><value>Անջատում</value></data>
+  <data name="Fact_User" xml:space="preserve"><value>Օգտատեր</value></data>
+  <data name="ForecastEvidence_Task" xml:space="preserve"><value>«{0}» առաջադրանքը նշանակված է {1}-ին</value></data>
+  <data name="ForecastEvidence_Waiting" xml:space="preserve"><value>Սպասում է վերագործարկման {0}-ից՝ {1}</value></data>
+  <data name="ForecastEvidence_WaitingNoTime" xml:space="preserve"><value>Սպասում է վերագործարկման՝ {0}</value></data>
+  <data name="ForecastNote_ActiveHours" xml:space="preserve"><value>Ակտիվ ժամեր՝ {0}:00–{1}:00։ Դրանցից դուրս Windows-ը կարող է ինքնուրույն վերագործարկել համակարգիչը։</value></data>
+  <data name="ForecastNote_ApprovedEarlier" xml:space="preserve"><value>«{0}»՝ {1}-ին Windows-ը թույլատրել է տեղադրումը՝ համարելով, որ թարմացումն արդեն հաստատված է ձեր կողմից — առանձին հարց չի լինի։</value></data>
+  <data name="ForecastNote_DeferredWhileActive" xml:space="preserve"><value>{0}-ին Windows-ը հետաձգել է վերագործարկումը, քանի որ դուք համակարգչի մոտ էիք։ Վերագործարկումը հնարավոր է, երբ դադարեք օգտագործել ստեղնաշարն ու մկնիկը։</value></data>
+  <data name="ForecastNote_NoAutoRebootPolicy" xml:space="preserve"><value>Միացված է «չվերագործարկել մուտք գործած օգտատիրոջ դեպքում» քաղաքականությունը։ Այն պետք է կանխի ավտոմատ վերագործարկումը, բայց գործնականում դա ստուգված չէ։</value></data>
+  <data name="ForecastNote_Overdue" xml:space="preserve"><value>«{0}»-ը նշված է որպես ժամկետանց — Windows-ը ավելի համառ կլինի տեղադրման հարցում։</value></data>
+  <data name="ForecastNote_RebootRequired" xml:space="preserve"><value>Windows Update-ը հաղորդում է, որ տեղադրումն ավարտելու համար անհրաժեշտ է վերագործարկում։</value></data>
+  <data name="ForecastNote_SampleNotice" xml:space="preserve"><value>Սա օրինակ է. իրական վերագործարկում պլանավորված չէ, տվյալները հորինված են։</value></data>
+  <data name="ForecastNote_SampleReason" xml:space="preserve"><value>Այստեղ կբացատրվի, թե ինչու է Windows-ը որոշել վերագործարկվել — օրինակ, որ տեղադրումը համարվում է ավելի վաղ հաստատված։</value></data>
+  <data name="ForecastNote_ServicingPending" xml:space="preserve"><value>Windows-ի բաղադրիչները սպասում են վերագործարկման՝ սպասարկումն ավարտելու համար (Component Based Servicing)։</value></data>
+  <data name="ForecastNote_Simulation" xml:space="preserve"><value>Սա RebootWhy-ի արձագանքի ստուգում է. Windows Update-ի մատյանի գրառումները փոխարինված են ծրագրի կողմից։ Իրական վերագործարկում պլանավորված չէ և տեղի չի ունենա։ Ստուգումը կավարտվի {0}-ին։</value></data>
+  <data name="Forecast_Failed" xml:space="preserve"><value>Չհաջողվեց վերլուծել Windows Update-ը</value></data>
+  <data name="Forecast_Imminent" xml:space="preserve"><value>Windows-ը կարող է վերագործարկել համակարգիչը մեկ ժամվա ընթացքում (մոտ {0}) {1}</value></data>
+  <data name="Forecast_None" xml:space="preserve"><value>Թարմացումների համար վերագործարկում չի սպասվում</value></data>
+  <data name="Forecast_Planned" xml:space="preserve"><value>Windows-ը սպասում է վերագործարկման {0}։ Ոչ շուտ, քան {1}</value></data>
+  <data name="Forecast_Sample" xml:space="preserve"><value>Այսպես RebootWhy-ը կտեղեկացնի, որ Windows-ը պատրաստվում է վերագործարկել համակարգիչը թարմացում տեղադրելու համար։</value></data>
+  <data name="Forecast_SimulationPrefix" xml:space="preserve"><value>Ստուգում՝ </value></data>
+  <data name="Forecast_What_Many" xml:space="preserve"><value>«{0}»-ը և ևս {1}-ը տեղադրելու համար</value></data>
+  <data name="Forecast_What_None" xml:space="preserve"><value>թարմացումների տեղադրումն ավարտելու համար</value></data>
+  <data name="Forecast_What_One" xml:space="preserve"><value>«{0}»-ը տեղադրելու համար</value></data>
+  <data name="Format_Date" xml:space="preserve"><value>dd.MM.yyyy</value></data>
+  <data name="Format_DateTime" xml:space="preserve"><value>dd.MM.yyyy HH:mm</value></data>
+  <data name="Format_DateTimeSeconds" xml:space="preserve"><value>dd.MM.yyyy HH:mm:ss</value></data>
+  <data name="Format_ShortDateTime" xml:space="preserve"><value>dd.MM HH:mm</value></data>
+  <data name="Initiator_AutomaticUpdates" xml:space="preserve"><value>Ավտոմատ թարմացում</value></data>
+  <data name="Initiator_NotSpecified" xml:space="preserve"><value>նշված չէ</value></data>
+  <data name="Initiator_WindowsUpdate" xml:space="preserve"><value>Windows Update (ավտոմատ)</value></data>
+  <data name="KindObject_PowerOff" xml:space="preserve"><value>անջատում</value></data>
+  <data name="KindObject_Restart" xml:space="preserve"><value>վերագործարկում</value></data>
+  <data name="KindObject_Unknown" xml:space="preserve"><value>վերագործարկում կամ անջատում</value></data>
+  <data name="Kind_PowerOff" xml:space="preserve"><value>Անջատում</value></data>
+  <data name="Kind_Restart" xml:space="preserve"><value>Վերագործարկում</value></data>
+  <data name="Kind_Unknown" xml:space="preserve"><value>Վերագործարկում կամ անջատում</value></data>
+  <data name="Note_CleanShutdownHint" xml:space="preserve"><value>Դա լինում է, օրինակ, սնուցման կոճակի կարճ սեղմումից կամ մարտկոցի կրիտիկական լիցքաթափումից հետո։</value></data>
+  <data name="Note_Comment" xml:space="preserve"><value>Մեկնաբանություն՝ {0}</value></data>
+  <data name="Note_DumpPath" xml:space="preserve"><value>Հիշողության դամփ՝ {0}</value></data>
+  <data name="Note_EarliestBoot" xml:space="preserve"><value>Սա մատյանի դիտարկված մասի ամենավաղ բեռնումն է — դրանից առաջ իրադարձությունները չեն պահպանվել կամ չեն ընկել ժամանակահատվածի մեջ։</value></data>
+  <data name="Note_FastStartup" xml:space="preserve"><value>Միացում «Անջատում»-ից հետո արագ գործարկմամբ. Windows-ի միջուկը չի վերագործարկվել։</value></data>
+  <data name="Note_LogCleared" xml:space="preserve"><value>System մատյանը այդ ժամանակահատվածում մաքրվել է — իրադարձությունների մի մասը կարող է բացակայել։</value></data>
+  <data name="Note_NoShutdownRecord" xml:space="preserve"><value>Մատյանում նախորդ աշխատաշրջանի ավարտի մասին գրառումներ չկան։</value></data>
+  <data name="Note_RequestBeforeCrash" xml:space="preserve"><value>Խափանումից առաջ {0}-ը պահանջել է {1}, բայց կանոնավոր ավարտ տեղի չի ունեցել։</value></data>
+  <data name="Note_ShutdownHung" xml:space="preserve"><value>Աշխատանքի ավարտը սկսվել է կանոնավոր, բայց չի ավարտվել — համակարգը կախվել է վերջին փուլում։</value></data>
+  <data name="Note_Whea" xml:space="preserve"><value>Գրանցվել են ապարատային սխալներ (WHEA)՝ {0} (կրիտիկական՝ {1})։</value></data>
+  <data name="Note_WheaLikelyCause" xml:space="preserve"><value> Հավանական է խափանման ապարատային պատճառը։</value></data>
+  <data name="Problem_CannotRead" xml:space="preserve"><value>Չհաջողվեց կարդալ {0}-ը՝ {1}</value></data>
+  <data name="Problem_NoUsoFolder" xml:space="preserve"><value>Update Orchestrator-ի մատյանների թղթապանակը չի գտնվել՝ {0}</value></data>
+  <data name="Problem_WindowsUpdateSilent" xml:space="preserve"><value>Windows Update-ը չպատասխանեց վերագործարկման մասին հարցին՝ {0}</value></data>
+  <data name="ReasonMajor_0" xml:space="preserve"><value>այլ</value></data>
+  <data name="ReasonMajor_1" xml:space="preserve"><value>սարքավորում</value></data>
+  <data name="ReasonMajor_2" xml:space="preserve"><value>օպերացիոն համակարգ</value></data>
+  <data name="ReasonMajor_3" xml:space="preserve"><value>ծրագրային ապահովում</value></data>
+  <data name="ReasonMajor_4" xml:space="preserve"><value>հավելված</value></data>
+  <data name="ReasonMajor_5" xml:space="preserve"><value>համակարգ</value></data>
+  <data name="ReasonMajor_6" xml:space="preserve"><value>սնուցում</value></data>
+  <data name="ReasonMajor_7" xml:space="preserve"><value>հնացած API</value></data>
+  <data name="ReasonMajor_Other" xml:space="preserve"><value>կատեգորիա 0x{0:X}</value></data>
+  <data name="ReasonMinor_00" xml:space="preserve"><value>այլ</value></data>
+  <data name="ReasonMinor_01" xml:space="preserve"><value>սպասարկում</value></data>
+  <data name="ReasonMinor_02" xml:space="preserve"><value>տեղադրում</value></data>
+  <data name="ReasonMinor_03" xml:space="preserve"><value>տարբերակի թարմացում</value></data>
+  <data name="ReasonMinor_04" xml:space="preserve"><value>կազմաձևի փոփոխություն</value></data>
+  <data name="ReasonMinor_05" xml:space="preserve"><value>կախում</value></data>
+  <data name="ReasonMinor_06" xml:space="preserve"><value>անկայուն աշխատանք</value></data>
+  <data name="ReasonMinor_07" xml:space="preserve"><value>սկավառակ</value></data>
+  <data name="ReasonMinor_08" xml:space="preserve"><value>պրոցեսոր</value></data>
+  <data name="ReasonMinor_09" xml:space="preserve"><value>ցանցային քարտ</value></data>
+  <data name="ReasonMinor_0A" xml:space="preserve"><value>սնուցման բլոկ</value></data>
+  <data name="ReasonMinor_0B" xml:space="preserve"><value>սնուցման անջատում</value></data>
+  <data name="ReasonMinor_0C" xml:space="preserve"><value>արտաքին պայմաններ</value></data>
+  <data name="ReasonMinor_0D" xml:space="preserve"><value>սարքավորման դրայվեր</value></data>
+  <data name="ReasonMinor_0E" xml:space="preserve"><value>այլ դրայվեր</value></data>
+  <data name="ReasonMinor_0F" xml:space="preserve"><value>կապույտ էկրան</value></data>
+  <data name="ReasonMinor_10" xml:space="preserve"><value>թարմացումների փաթեթ</value></data>
+  <data name="ReasonMinor_11" xml:space="preserve"><value>ուղղում</value></data>
+  <data name="ReasonMinor_12" xml:space="preserve"><value>անվտանգության ուղղում</value></data>
+  <data name="ReasonMinor_13" xml:space="preserve"><value>անվտանգություն</value></data>
+  <data name="ReasonMinor_14" xml:space="preserve"><value>ցանցային կապ</value></data>
+  <data name="ReasonMinor_15" xml:space="preserve"><value>WMI</value></data>
+  <data name="ReasonMinor_16" xml:space="preserve"><value>թարմացումների փաթեթի հեռացում</value></data>
+  <data name="ReasonMinor_17" xml:space="preserve"><value>ուղղման հեռացում</value></data>
+  <data name="ReasonMinor_18" xml:space="preserve"><value>անվտանգության ուղղման հեռացում</value></data>
+  <data name="ReasonMinor_19" xml:space="preserve"><value>MMC</value></data>
+  <data name="ReasonMinor_1A" xml:space="preserve"><value>համակարգի վերականգնում</value></data>
+  <data name="ReasonMinor_20" xml:space="preserve"><value>տերմինալային ծառայություններ</value></data>
+  <data name="ReasonMinor_21" xml:space="preserve"><value>դոմենի կարգավարի բարձրացում</value></data>
+  <data name="ReasonMinor_22" xml:space="preserve"><value>դոմենի կարգավարի իջեցում</value></data>
+  <data name="ReasonMinor_FF" xml:space="preserve"><value>նշված չէ</value></data>
+  <data name="ReasonMinor_Other" xml:space="preserve"><value>ենթակատեգորիա 0x{0:X}</value></data>
+  <data name="Reason_Format" xml:space="preserve"><value>{0}. {1} — {2} (0x{3:X})</value></data>
+  <data name="Reason_Planned" xml:space="preserve"><value>Պլանավորված</value></data>
+  <data name="Reason_Unplanned" xml:space="preserve"><value>Չպլանավորված</value></data>
+  <data name="RebootBehavior_Always" xml:space="preserve"><value>կպահանջի վերագործարկում</value></data>
+  <data name="RebootBehavior_Maybe" xml:space="preserve"><value>կարող է պահանջել վերագործարկում</value></data>
+  <data name="RebootBehavior_Never" xml:space="preserve"><value>առանց վերագործարկման</value></data>
+  <data name="Simulation_UpdateTitle" xml:space="preserve"><value>RebootWhy-ի փորձնական թարմացում (դրայվեր)</value></data>
+  <data name="Title_Application" xml:space="preserve"><value>{0} {1} ծրագրի հարցմամբ</value></data>
+  <data name="Title_BlueScreen" xml:space="preserve"><value>Կապույտ էկրան (BSOD)՝ {0}</value></data>
+  <data name="Title_CleanShutdown" xml:space="preserve"><value>Աշխատանքի կանոնավոր ավարտ, նախաձեռնողը գրանցված չէ</value></data>
+  <data name="Title_Command" xml:space="preserve"><value>{0} {1} հրամանով</value></data>
+  <data name="Title_Hibernation" xml:space="preserve"><value>Ելք ձմեռային քնից</value></data>
+  <data name="Title_Installer" xml:space="preserve"><value>{0} {1} տեղադրիչի հարցմամբ</value></data>
+  <data name="Title_PowerButtonBugcheck" xml:space="preserve"><value>Հարկադիր անջատում. սնուցման կոճակը պահվել է, մինչ համակարգը չէր արձագանքում</value></data>
+  <data name="Title_PowerButtonHold" xml:space="preserve"><value>Հարկադիր անջատում սնուցման կոճակի երկար սեղմումով</value></data>
+  <data name="Title_PowerLoss" xml:space="preserve"><value>Հանկարծակի անջատում. սնուցման կորուստ, համակարգի կախում կամ Reset կոճակ</value></data>
+  <data name="Title_SleepFailure" xml:space="preserve"><value>Խափանում քնի ռեժիմ անցնելիս կամ դրանից դուրս գալիս</value></data>
+  <data name="Title_Unknown" xml:space="preserve"><value>Պատճառը որոշված չէ</value></data>
+  <data name="Title_User" xml:space="preserve"><value>{0} օգտատիրոջ կողմից</value></data>
+  <data name="Title_WindowsUpdate" xml:space="preserve"><value>{0}՝ Windows-ի թարմացումները տեղադրելու համար</value></data>
+  <data name="Title_WindowsUpdateByUser" xml:space="preserve"><value>{0} օգտատիրոջ կողմից՝ Windows-ի թարմացումները տեղադրելու համար</value></data>
+  <data name="Title_WindowsUpdateGuess" xml:space="preserve"><value>{0}՝ Windows-ի թարմացումները տեղադրելու համար (նախաձեռնող՝ {1})</value></data>
+  <data name="UnknownProcess" xml:space="preserve"><value>անհայտ գործընթաց</value></data>
+  <data name="UntitledUpdate" xml:space="preserve"><value>անանուն թարմացում</value></data>
+  <data name="UpdateError_80070002" xml:space="preserve"><value>ֆայլը չի գտնվել</value></data>
+  <data name="UpdateError_80070005" xml:space="preserve"><value>մուտքն արգելված է</value></data>
+  <data name="UpdateError_80070643" xml:space="preserve"><value>տեղադրիչի սխալ</value></data>
+  <data name="UpdateError_80073712" xml:space="preserve"><value>Windows-ի բաղադրիչների պահոցը վնասված է</value></data>
+  <data name="UpdateError_800F081F" xml:space="preserve"><value>բաղադրիչի աղբյուր ֆայլերը չեն գտնվել</value></data>
+  <data name="UpdateError_800F0922" xml:space="preserve"><value>Windows-ի սպասարկման սխալ (հաճախ՝ վերականգնման բաժնում քիչ տեղ)</value></data>
+  <data name="UpdateError_80240016" xml:space="preserve"><value>արդեն ընթանում է այլ տեղադրում</value></data>
+  <data name="UpdateError_80240017" xml:space="preserve"><value>թարմացումը չի համապատասխանում այս համակարգչին</value></data>
+  <data name="UpdateError_8024001E" xml:space="preserve"><value>գործողությունն ընդհատվել է. ծառայությունը կանգնել է</value></data>
+  <data name="UpdateError_80240022" xml:space="preserve"><value>ոչ մի թարմացում չհաջողվեց տեղադրել</value></data>
+  <data name="UpdateError_8024200D" xml:space="preserve"><value>թարմացումը պետք է նորից ներբեռնել</value></data>
+  <data name="UpdateError_80242016" xml:space="preserve"><value>վերագործարկումից հետո տեղադրումը հայտնվել է անսպասելի վիճակում</value></data>
+  <data name="UpdateError_8024402C" xml:space="preserve"><value>թարմացումների սերվերի հետ կապ չկա</value></data>
+  <data name="UpdateError_80246007" xml:space="preserve"><value>թարմացումը ներբեռնված չէր</value></data>
+  <data name="UpdateError_WithText" xml:space="preserve"><value>0x{0:X8} — {1}</value></data>
+  <data name="UpdateFact_Article" xml:space="preserve"><value>Հոդված</value></data>
+  <data name="UpdateFact_Category" xml:space="preserve"><value>Կատեգորիա</value></data>
+  <data name="UpdateFact_Date" xml:space="preserve"><value>Ամսաթիվ</value></data>
+  <data name="UpdateFact_ErrorCode" xml:space="preserve"><value>Սխալի կոդ</value></data>
+  <data name="UpdateFact_Identifier" xml:space="preserve"><value>Նույնացուցիչ</value></data>
+  <data name="UpdateFact_IdentifierValue" xml:space="preserve"><value>{0} (վերանայում {1})</value></data>
+  <data name="UpdateFact_Initiator" xml:space="preserve"><value>Նախաձեռնող</value></data>
+  <data name="UpdateFact_MoreInfo" xml:space="preserve"><value>Մանրամասն</value></data>
+  <data name="UpdateFact_Published" xml:space="preserve"><value>Հրապարակված է</value></data>
+  <data name="UpdateFact_Restart" xml:space="preserve"><value>Վերագործարկում</value></data>
+  <data name="UpdateFact_Result" xml:space="preserve"><value>Արդյունք</value></data>
+  <data name="UpdateFact_ResultValue" xml:space="preserve"><value>{0} ({1})</value></data>
+  <data name="UpdateFact_Severity" xml:space="preserve"><value>Կարևորություն</value></data>
+  <data name="UpdateFact_State" xml:space="preserve"><value>Վիճակ</value></data>
+  <data name="UpdateFact_Type" xml:space="preserve"><value>Տեսակ</value></data>
+  <data name="UpdateOperation_Installation" xml:space="preserve"><value>տեղադրում</value></data>
+  <data name="UpdateOperation_Other" xml:space="preserve"><value>գործողություն</value></data>
+  <data name="UpdateOperation_Uninstallation" xml:space="preserve"><value>հեռացում</value></data>
+  <data name="UpdateResult_Aborted" xml:space="preserve"><value>Ընդհատված է</value></data>
+  <data name="UpdateResult_Failed" xml:space="preserve"><value>Սխալ</value></data>
+  <data name="UpdateResult_InProgress" xml:space="preserve"><value>Տեղադրվում է</value></data>
+  <data name="UpdateResult_NotStarted" xml:space="preserve"><value>Չի սկսվել</value></data>
+  <data name="UpdateResult_Succeeded" xml:space="preserve"><value>Տեղադրված է</value></data>
+  <data name="UpdateResult_SucceededWithErrors" xml:space="preserve"><value>Տեղադրված է սխալներով</value></data>
+  <data name="UpdateType_Driver" xml:space="preserve"><value>դրայվեր</value></data>
+  <data name="UpdateType_Feature" xml:space="preserve"><value>Windows-ի գործառույթների թարմացում</value></data>
+  <data name="UpdateType_Generic" xml:space="preserve"><value>թարմացում</value></data>
+  <data name="UpdateType_Quality" xml:space="preserve"><value>կուտակային թարմացում</value></data>
+  <data name="UpdateType_Software" xml:space="preserve"><value>ծրագրային թարմացում</value></data>
+  <data name="UpdateWithId" xml:space="preserve"><value>թարմացում {0}</value></data>
+</root>
